@@ -1,0 +1,146 @@
+[
+  {
+    "version": "1.0.0",
+    "gitHead": "8ef0a9a911e95bfbc3ab271c5922dabb7aeb9af0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/exiftool-context",
+    "name": "exiftool-context",
+    "readmeLength": 312,
+    "date": "2017-05-27T01:06:16.000Z",
+    "zoroasterTests": 3,
+    "lines": {
+      "zoroaster": 27,
+      "zoroasterComments": 0,
+      "source": 144,
+      "sourceComments": 0
+    }
+  },
+  {
+    "version": "1.0.1",
+    "gitHead": "13df07941e207e20670190240c041193a7fb0d63",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/exiftool-context",
+    "name": "exiftool-context",
+    "readmeLength": 312,
+    "date": "2017-05-27T18:06:02.000Z",
+    "zoroasterTests": 4,
+    "lines": {
+      "zoroaster": 38,
+      "zoroasterComments": 0,
+      "source": 144,
+      "sourceComments": 0
+    }
+  },
+  {
+    "version": "1.1.0",
+    "gitHead": "04712ec73d9798cc6916215d0f92a6517ca8719a",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/exiftool-context",
+    "name": "exiftool-context",
+    "readmeLength": 312,
+    "date": "2017-05-27T22:57:27.000Z",
+    "zoroasterTests": 11,
+    "lines": {
+      "zoroaster": 78,
+      "zoroasterComments": 0,
+      "source": 171,
+      "sourceComments": 0
+    }
+  },
+  {
+    "version": "1.1.1",
+    "gitHead": "e6bf60bd91dc5b6484602d5bca733bdab9735ff3",
+    "tag": "v1.1.1",
+    "gitPath": "../../analyse-packages/exiftool-context",
+    "name": "exiftool-context",
+    "readmeLength": 312,
+    "date": "2017-05-27T23:11:05.000Z",
+    "zoroasterTests": 11,
+    "lines": {
+      "zoroaster": 78,
+      "zoroasterComments": 0,
+      "source": 171,
+      "sourceComments": 0
+    }
+  },
+  {
+    "version": "1.2.0",
+    "gitHead": "6097d52a3a6e7ef474536dedb1e1d9cf1ad8c20d",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/exiftool-context",
+    "name": "exiftool-context",
+    "readmeLength": 312,
+    "date": "2017-08-29T14:58:08.000Z",
+    "zoroasterTests": 28,
+    "lines": {
+      "zoroaster": 250,
+      "zoroasterComments": 0,
+      "source": 258,
+      "sourceComments": 0
+    }
+  },
+  {
+    "version": "1.2.1",
+    "gitHead": "2b8805461c4c02c38eb78bc22e0940b34652cb7e",
+    "tag": "v1.2.1",
+    "gitPath": "../../analyse-packages/exiftool-context",
+    "name": "exiftool-context",
+    "readmeLength": 312,
+    "date": "2017-08-30T08:56:15.000Z",
+    "zoroasterTests": 28,
+    "lines": {
+      "zoroaster": 250,
+      "zoroasterComments": 0,
+      "source": 258,
+      "sourceComments": 0
+    }
+  },
+  {
+    "version": "1.3.0",
+    "gitHead": "345e59530ea6c4c3ae777309ba4e7177a2043529",
+    "tag": "v1.3.0",
+    "gitPath": "../../analyse-packages/exiftool-context",
+    "name": "exiftool-context",
+    "readmeLength": 312,
+    "date": "2017-08-30T10:51:37.000Z",
+    "zoroasterTests": 29,
+    "lines": {
+      "zoroaster": 254,
+      "zoroasterComments": 0,
+      "source": 273,
+      "sourceComments": 0
+    }
+  },
+  {
+    "version": "1.3.1",
+    "gitHead": "2e83812dd26a72bfba36ea26647405831d9e8b64",
+    "tag": "v1.3.1",
+    "gitPath": "../../analyse-packages/exiftool-context",
+    "name": "exiftool-context",
+    "readmeLength": 312,
+    "date": "2017-08-30T11:10:18.000Z",
+    "zoroasterTests": 29,
+    "lines": {
+      "zoroaster": 254,
+      "zoroasterComments": 0,
+      "source": 273,
+      "sourceComments": 0
+    }
+  },
+  {
+    "version": "1.4.0",
+    "gitHead": "a6c44d2fd146898fae894ac08c1d381b4a969e2e",
+    "tag": "v1.4.0",
+    "gitPath": "../../analyse-packages/exiftool-context",
+    "name": "exiftool-context",
+    "readmeLength": 312,
+    "date": "2017-08-31T13:52:08.000Z",
+    "zoroasterTests": 30,
+    "lines": {
+      "zoroaster": 257,
+      "zoroasterComments": 0,
+      "source": 276,
+      "sourceComments": 0
+    }
+  }
+]

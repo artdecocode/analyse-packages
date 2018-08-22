@@ -1,0 +1,156 @@
+[
+  {
+    "version": "0.1.0",
+    "gitHead": "327baadf150d4eb49d57f34875d1baaaa1174677",
+    "tag": "v0.1.0",
+    "gitPath": "../../analyse-packages/reloquent",
+    "name": "reloquent",
+    "readmeLength": 288,
+    "date": "2017-05-23T21:56:13.000Z",
+    "zoroasterTests": 5,
+    "lines": {
+      "zoroaster": 66,
+      "zoroasterComments": 0,
+      "source": 44,
+      "sourceComments": 5
+    }
+  },
+  {
+    "version": "0.1.1",
+    "gitHead": "8a08f17bb249d83be03ea797691fae65ea7e92e0",
+    "tag": "v0.1.1",
+    "gitPath": "../../analyse-packages/reloquent",
+    "name": "reloquent",
+    "readmeLength": 288,
+    "date": "2017-05-23T21:58:32.000Z",
+    "zoroasterTests": 5,
+    "lines": {
+      "zoroaster": 66,
+      "zoroasterComments": 0,
+      "source": 44,
+      "sourceComments": 5
+    }
+  },
+  {
+    "version": "0.1.2",
+    "gitHead": "3301491040fce01dd17a6b6e405e6381211fe125",
+    "tag": "v0.1.2",
+    "gitPath": "../../analyse-packages/reloquent",
+    "name": "reloquent",
+    "readmeLength": 288,
+    "date": "2017-05-23T22:00:52.000Z",
+    "zoroasterTests": 5,
+    "lines": {
+      "zoroaster": 66,
+      "zoroasterComments": 0,
+      "source": 44,
+      "sourceComments": 5
+    }
+  },
+  {
+    "version": "0.2.0",
+    "gitHead": "7941e6224d686ec80fdffebac085614aed2fc89a",
+    "tag": "v0.2.0",
+    "gitPath": "../../analyse-packages/reloquent",
+    "name": "reloquent",
+    "readmeLength": 288,
+    "date": "2017-05-31T00:17:45.000Z",
+    "zoroasterTests": 14,
+    "lines": {
+      "zoroaster": 199,
+      "zoroasterComments": 0,
+      "source": 128,
+      "sourceComments": 14
+    }
+  },
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/reloquent",
+    "name": "reloquent",
+    "readmeLength": 288,
+    "date": "2018-06-09T06:46:05.000Z",
+    "zoroasterTests": 13,
+    "lines": {
+      "zoroaster": 195,
+      "zoroasterComments": 2,
+      "source": 103,
+      "sourceComments": 31
+    }
+  },
+  {
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/reloquent",
+    "name": "reloquent",
+    "readmeLength": 288,
+    "date": "2018-06-11T05:23:36.000Z",
+    "zoroasterTests": 13,
+    "lines": {
+      "zoroaster": 195,
+      "zoroasterComments": 2,
+      "source": 105,
+      "sourceComments": 35
+    }
+  },
+  {
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "gitPath": "../../analyse-packages/reloquent",
+    "name": "reloquent",
+    "readmeLength": 288,
+    "date": "2018-06-26T06:42:11.000Z",
+    "zoroasterTests": 13,
+    "lines": {
+      "zoroaster": 195,
+      "zoroasterComments": 2,
+      "source": 119,
+      "sourceComments": 39
+    }
+  },
+  {
+    "version": "1.0.3",
+    "tag": "v1.0.3",
+    "gitPath": "../../analyse-packages/reloquent",
+    "name": "reloquent",
+    "readmeLength": 288,
+    "date": "2018-06-26T06:44:05.000Z",
+    "zoroasterTests": 13,
+    "lines": {
+      "zoroaster": 195,
+      "zoroasterComments": 2,
+      "source": 119,
+      "sourceComments": 39
+    }
+  },
+  {
+    "version": "1.0.4",
+    "tag": "v1.0.4",
+    "gitPath": "../../analyse-packages/reloquent",
+    "name": "reloquent",
+    "readmeLength": 288,
+    "date": "2018-06-26T06:46:22.000Z",
+    "zoroasterTests": 13,
+    "lines": {
+      "zoroaster": 195,
+      "zoroasterComments": 2,
+      "source": 119,
+      "sourceComments": 39
+    }
+  },
+  {
+    "version": "1.0.5",
+    "tag": "v1.0.5",
+    "gitPath": "../../analyse-packages/reloquent",
+    "name": "reloquent",
+    "readmeLength": 288,
+    "date": "2018-06-26T06:49:44.000Z",
+    "zoroasterTests": 13,
+    "lines": {
+      "zoroaster": 195,
+      "zoroasterComments": 2,
+      "source": 119,
+      "sourceComments": 39
+    }
+  }
+]

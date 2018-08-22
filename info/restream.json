@@ -1,0 +1,167 @@
+[
+  {
+    "version": "1.0.0",
+    "gitHead": "439f07d3883bf6e6e1b7abf511495859428c3faa",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/restream",
+    "name": "restream",
+    "readmeLength": 683,
+    "date": "2017-05-19T00:03:02.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "source": 32,
+      "sourceComments": 8
+    }
+  },
+  {
+    "version": "1.0.1",
+    "gitHead": "55a683305f243d05cbc8a9dce14000b9a88aa92a",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/restream",
+    "name": "restream",
+    "readmeLength": 683,
+    "date": "2017-05-20T15:04:56.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "source": 34,
+      "sourceComments": 8
+    }
+  },
+  {
+    "version": "1.1.0",
+    "gitHead": "680bb1f169d24e7034efc10f62f01b3a2f16641a",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/restream",
+    "name": "restream",
+    "readmeLength": 683,
+    "date": "2017-05-28T02:27:08.000Z",
+    "zoroasterTests": 8,
+    "lines": {
+      "zoroaster": 193,
+      "zoroasterComments": 0,
+      "source": 68,
+      "sourceComments": 15
+    }
+  },
+  {
+    "version": "1.2.0",
+    "gitHead": "d1ccc44de7ffced696d06b426846cc88acb8449c",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/restream",
+    "name": "restream",
+    "readmeLength": 683,
+    "date": "2017-05-29T02:37:26.000Z",
+    "zoroasterTests": 9,
+    "lines": {
+      "zoroaster": 237,
+      "zoroasterComments": 0,
+      "source": 71,
+      "sourceComments": 15
+    }
+  },
+  {
+    "version": "2.0.0",
+    "tag": "v2.0.0",
+    "gitPath": "../../analyse-packages/restream",
+    "name": "restream",
+    "readmeLength": 683,
+    "date": "2018-05-09T14:19:12.000Z",
+    "zoroasterTests": 12,
+    "lines": {
+      "zoroaster": 271,
+      "zoroasterComments": 3,
+      "source": 62,
+      "sourceComments": 16
+    }
+  },
+  {
+    "version": "2.0.1",
+    "tag": "v2.0.1",
+    "gitPath": "../../analyse-packages/restream",
+    "name": "restream",
+    "readmeLength": 683,
+    "date": "2018-05-09T14:23:42.000Z",
+    "zoroasterTests": 12,
+    "lines": {
+      "zoroaster": 271,
+      "zoroasterComments": 3,
+      "source": 62,
+      "sourceComments": 16
+    }
+  },
+  {
+    "version": "2.0.2",
+    "tag": "v2.0.2",
+    "gitPath": "../../analyse-packages/restream",
+    "name": "restream",
+    "readmeLength": 683,
+    "date": "2018-06-15T12:50:58.000Z",
+    "zoroasterTests": 13,
+    "lines": {
+      "zoroaster": 273,
+      "zoroasterComments": 5,
+      "source": 61,
+      "sourceComments": 24
+    }
+  },
+  {
+    "version": "2.0.3",
+    "tag": "v2.0.3",
+    "gitPath": "../../analyse-packages/restream",
+    "name": "restream",
+    "readmeLength": 683,
+    "date": "2018-06-15T13:18:58.000Z",
+    "zoroasterTests": 10,
+    "lines": {
+      "zoroaster": 234,
+      "zoroasterComments": 4,
+      "source": 61,
+      "sourceComments": 24
+    }
+  },
+  {
+    "version": "2.1.0",
+    "tag": "v2.1.0",
+    "gitPath": "../../analyse-packages/restream",
+    "name": "restream",
+    "readmeLength": 683,
+    "date": "2018-06-20T19:20:36.000Z",
+    "zoroasterTests": 11,
+    "lines": {
+      "zoroaster": 255,
+      "zoroasterComments": 5,
+      "source": 86,
+      "sourceComments": 40
+    }
+  },
+  {
+    "version": "3.0.0",
+    "tag": "v3.0.0",
+    "gitPath": "../../analyse-packages/restream",
+    "name": "restream",
+    "readmeLength": 683,
+    "date": "2018-07-21T03:09:41.000Z",
+    "zoroasterTests": 16,
+    "lines": {
+      "zoroaster": 351,
+      "zoroasterComments": 5,
+      "source": 93,
+      "sourceComments": 29
+    }
+  },
+  {
+    "version": "3.1.0",
+    "tag": "v3.1.0",
+    "gitPath": "../../analyse-packages/restream",
+    "name": "restream",
+    "readmeLength": 683,
+    "date": "2018-08-10T01:25:54.000Z",
+    "zoroasterTests": 20,
+    "lines": {
+      "zoroaster": 504,
+      "zoroasterComments": 6,
+      "source": 174,
+      "sourceComments": 84
+    }
+  }
+]
