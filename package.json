@@ -34,9 +34,19 @@
   },
   "homepage": "https://github.com/artdecocode/analyse-packages#readme",
   "devDependencies": {
+    "alamode": "1.2.1",
     "documentary": "1.8.2",
     "eslint-config-artdeco": "1.0.1",
     "yarn-s": "1.1.0",
     "zoroaster": "2.1.0"
+  },
+  "dependencies": {
+    "@rqt/aqt": "1.0.1",
+    "@wrote/read-dir-structure": "1.0.1",
+    "bosom": "1.0.0",
+    "catchment": "3.0.0",
+    "pedantry": "1.0.1",
+    "restream": "3.1.0",
+    "spawncommand": "2.0.1"
   }
 }
