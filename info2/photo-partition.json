@@ -1,0 +1,86 @@
+[
+  {
+    "name": "photo-partition",
+    "version": "0.1.0",
+    "gitHead": "217213efa4b416cfd0ad28de9d2a8088d2e5bd4f",
+    "tag": "v0.1.0",
+    "gitPath": "../../analyse-packages/photo-partition",
+    "date": "2016-11-21T00:26:09.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 58,
+      "comments": 9
+    },
+    "tests": 0,
+    "readme": 169,
+    "sha": "217213efa4b416cfd0ad28de9d2a8088d2e5bd4f\n"
+  },
+  {
+    "name": "photo-partition",
+    "version": "0.1.1",
+    "gitHead": "cbda189f1e64befe857e521a4cbed4d109dd496b",
+    "tag": "v0.1.1",
+    "gitPath": "../../analyse-packages/photo-partition",
+    "date": "2016-12-27T15:03:42.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 59,
+      "comments": 9
+    },
+    "tests": 0,
+    "readme": 169,
+    "sha": "cbda189f1e64befe857e521a4cbed4d109dd496b\n"
+  },
+  {
+    "name": "photo-partition",
+    "version": "0.1.2",
+    "gitHead": "9690738d861dc5c9c40ede41ad931dc250cf00b9",
+    "tag": "v0.1.2",
+    "gitPath": "../../analyse-packages/photo-partition",
+    "date": "2017-01-03T21:04:44.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 59,
+      "comments": 9
+    },
+    "tests": 0,
+    "readme": 169,
+    "sha": "9690738d861dc5c9c40ede41ad931dc250cf00b9\n"
+  },
+  {
+    "name": "photo-partition",
+    "version": "0.1.3",
+    "gitHead": "9a49e8bc0650bfb4f0f0d03652f56a868b582d3e",
+    "tag": "v0.1.3",
+    "gitPath": "../../analyse-packages/photo-partition",
+    "date": "2018-02-22T20:48:40.000Z",
+    "lines": {
+      "zoroaster": 61,
+      "zoroasterComments": 0,
+      "src": 151,
+      "comments": 49
+    },
+    "tests": 11,
+    "readme": 180,
+    "sha": "9a49e8bc0650bfb4f0f0d03652f56a868b582d3e\n"
+  },
+  {
+    "name": "photo-partition",
+    "version": "0.1.4",
+    "tag": "v0.1.4",
+    "gitPath": "../../analyse-packages/photo-partition",
+    "date": "2018-08-22T10:58:32.000Z",
+    "lines": {
+      "zoroaster": 61,
+      "zoroasterComments": 0,
+      "src": 151,
+      "comments": 49
+    },
+    "tests": 11,
+    "readme": 180,
+    "sha": "3bd1dae83ff3aca67e396c2b27de23b49b361c93\n"
+  }
+]

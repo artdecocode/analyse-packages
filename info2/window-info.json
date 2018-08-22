@@ -1,0 +1,66 @@
+[
+  {
+    "name": "window-info",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/window-info",
+    "date": "2018-05-26T13:57:25.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 106,
+      "comments": 7
+    },
+    "tests": 0,
+    "readme": 104,
+    "sha": "7fac7a948c303cdba168025645b09ab7fea135d4\n"
+  },
+  {
+    "name": "window-info",
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "gitPath": "../../analyse-packages/window-info",
+    "date": "2018-05-26T14:01:33.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 106,
+      "comments": 7
+    },
+    "tests": 0,
+    "readme": 104,
+    "sha": "8ecbffd80be44e6e592e0901719f8fd88bdc9e3a\n"
+  },
+  {
+    "name": "window-info",
+    "version": "1.0.3",
+    "tag": "v1.0.3",
+    "gitPath": "../../analyse-packages/window-info",
+    "date": "2018-06-30T19:41:09.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 106,
+      "comments": 7
+    },
+    "tests": 0,
+    "readme": 163,
+    "sha": "06f7374d47b7ce914680ea32ebdf7855208416c8\n"
+  },
+  {
+    "name": "window-info",
+    "version": "1.0.4",
+    "tag": "v1.0.4",
+    "gitPath": "../../analyse-packages/window-info",
+    "date": "2018-06-30T19:54:06.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 106,
+      "comments": 7
+    },
+    "tests": 0,
+    "readme": 168,
+    "sha": "7b99ada5ca78ce562acf18ffd45723eccb06bc8b\n"
+  }
+]

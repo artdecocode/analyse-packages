@@ -1,0 +1,34 @@
+[
+  {
+    "name": "@rqt/aqt",
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/aqt",
+    "date": "2018-07-10T15:09:31.000Z",
+    "lines": {
+      "zoroaster": 141,
+      "zoroasterComments": 1,
+      "src": 203,
+      "comments": 39
+    },
+    "tests": 13,
+    "readme": 188,
+    "sha": "f5484da77a71d20efe5143ea22075a5ad6656614\n"
+  },
+  {
+    "name": "@rqt/aqt",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/aqt",
+    "date": "2018-07-18T01:37:24.000Z",
+    "lines": {
+      "zoroaster": 141,
+      "zoroasterComments": 1,
+      "src": 203,
+      "comments": 39
+    },
+    "tests": 13,
+    "readme": 198,
+    "sha": "d3639cb09f75d8b9957dc09f9b53f9a29fe55b2a\n"
+  }
+]

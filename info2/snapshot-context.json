@@ -1,0 +1,226 @@
+[
+  {
+    "name": "snapshot-context",
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/snapshot-context",
+    "date": "2018-05-04T09:17:38.000Z",
+    "lines": {
+      "zoroaster": 23,
+      "zoroasterComments": 3,
+      "src": 105,
+      "comments": 10
+    },
+    "tests": 3,
+    "readme": 22,
+    "sha": "c16034a6f5b243afff5f688ef95c639bb1747405\n"
+  },
+  {
+    "name": "snapshot-context",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/snapshot-context",
+    "date": "2018-05-04T09:30:11.000Z",
+    "lines": {
+      "zoroaster": 23,
+      "zoroasterComments": 3,
+      "src": 109,
+      "comments": 11
+    },
+    "tests": 3,
+    "readme": 22,
+    "sha": "d129164f75a3d12fedb7709663b1797313e33b67\n"
+  },
+  {
+    "name": "snapshot-context",
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "gitPath": "../../analyse-packages/snapshot-context",
+    "date": "2018-05-10T19:50:19.000Z",
+    "lines": {
+      "zoroaster": 38,
+      "zoroasterComments": 4,
+      "src": 93,
+      "comments": 11
+    },
+    "tests": 4,
+    "readme": 22,
+    "sha": "b6304a56051c1da1f2a7bdedf9e6ed62f511b9ce\n"
+  },
+  {
+    "name": "snapshot-context",
+    "version": "1.1.2",
+    "tag": "v1.1.2",
+    "gitPath": "../../analyse-packages/snapshot-context",
+    "date": "2018-05-11T21:48:03.000Z",
+    "lines": {
+      "zoroaster": 38,
+      "zoroasterComments": 4,
+      "src": 93,
+      "comments": 11
+    },
+    "tests": 4,
+    "readme": 22,
+    "sha": "9dd7795188633683690b3b5a044ca81782758018\n"
+  },
+  {
+    "name": "snapshot-context",
+    "version": "1.1.3",
+    "tag": "v1.1.3",
+    "gitPath": "../../analyse-packages/snapshot-context",
+    "date": "2018-05-15T01:56:57.000Z",
+    "lines": {
+      "zoroaster": 40,
+      "zoroasterComments": 4,
+      "src": 93,
+      "comments": 11
+    },
+    "tests": 5,
+    "readme": 22,
+    "sha": "e01aafddd4315ebb8a02a80e92cd09304bfa50ba\n"
+  },
+  {
+    "name": "snapshot-context",
+    "version": "1.1.4",
+    "tag": "v1.1.4",
+    "gitPath": "../../analyse-packages/snapshot-context",
+    "date": "2018-05-16T22:54:04.000Z",
+    "lines": {
+      "zoroaster": 98,
+      "zoroasterComments": 3,
+      "src": 97,
+      "comments": 11
+    },
+    "tests": 8,
+    "readme": 108,
+    "sha": "30f794a4b034f851b454597cf7235cf7bdb7bdfe\n"
+  },
+  {
+    "name": "snapshot-context",
+    "version": "1.1.5",
+    "tag": "v1.1.5",
+    "gitPath": "../../analyse-packages/snapshot-context",
+    "date": "2018-05-17T05:04:44.000Z",
+    "lines": {
+      "zoroaster": 98,
+      "zoroasterComments": 3,
+      "src": 97,
+      "comments": 11
+    },
+    "tests": 8,
+    "readme": 114,
+    "sha": "60644bae1be3e282ff5cc69eff1fcf2d25464154\n"
+  },
+  {
+    "name": "snapshot-context",
+    "version": "1.1.6",
+    "tag": "v1.1.6",
+    "gitPath": "../../analyse-packages/snapshot-context",
+    "date": "2018-05-17T05:09:03.000Z",
+    "lines": {
+      "zoroaster": 96,
+      "zoroasterComments": 3,
+      "src": 97,
+      "comments": 11
+    },
+    "tests": 8,
+    "readme": 114,
+    "sha": "96fa0081b4691e133b882fe9854b4003a22c3746\n"
+  },
+  {
+    "name": "snapshot-context",
+    "version": "1.1.7",
+    "tag": "v1.1.7",
+    "gitPath": "../../analyse-packages/snapshot-context",
+    "date": "2018-05-20T13:49:22.000Z",
+    "lines": {
+      "zoroaster": 96,
+      "zoroasterComments": 3,
+      "src": 97,
+      "comments": 11
+    },
+    "tests": 8,
+    "readme": 114,
+    "sha": "2045f50ab4a9bfcd1bed74d990889d4037436c32\n"
+  },
+  {
+    "name": "snapshot-context",
+    "version": "2.0.0",
+    "tag": "v2.0.0",
+    "gitPath": "../../analyse-packages/snapshot-context",
+    "date": "2018-05-24T16:31:03.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 93,
+      "comments": 12
+    },
+    "tests": 8,
+    "readme": 114,
+    "sha": "6be4f905c910f2832dcf72f85da7c83c1568c02c\n"
+  },
+  {
+    "name": "snapshot-context",
+    "version": "2.0.1",
+    "tag": "v2.0.1",
+    "gitPath": "../../analyse-packages/snapshot-context",
+    "date": "2018-05-24T19:02:13.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 93,
+      "comments": 12
+    },
+    "tests": 0,
+    "readme": 114,
+    "sha": "f31cdac69206e2bf10f95aac33bfdb39fdce45de\n"
+  },
+  {
+    "name": "snapshot-context",
+    "version": "2.0.2",
+    "tag": "v2.0.2",
+    "gitPath": "../../analyse-packages/snapshot-context",
+    "date": "2018-08-03T10:42:33.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 93,
+      "comments": 12
+    },
+    "tests": 0,
+    "readme": 114,
+    "sha": "a46aa35f91b7906656ad26154501f8291c630ee2\n"
+  },
+  {
+    "name": "snapshot-context",
+    "version": "2.0.3",
+    "tag": "v2.0.3",
+    "gitPath": "../../analyse-packages/snapshot-context",
+    "date": "2018-08-03T19:09:25.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 92,
+      "comments": 12
+    },
+    "tests": 0,
+    "readme": 114,
+    "sha": "23d555d0344fd448c9f8f9deaff13cc4cf58ddfc\n"
+  },
+  {
+    "name": "snapshot-context",
+    "version": "2.0.4",
+    "tag": "v2.0.4",
+    "gitPath": "../../analyse-packages/snapshot-context",
+    "date": "2018-08-13T16:27:44.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 92,
+      "comments": 12
+    },
+    "tests": 0,
+    "readme": 114,
+    "sha": "1a37f5d17b2b60ac94cf40a98efccf2dc8136c76\n"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "name": "@a-la/import",
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/import",
+    "date": "2018-07-25T15:54:37.000Z",
+    "lines": {
+      "zoroaster": 92,
+      "zoroasterComments": 3,
+      "src": 29,
+      "comments": 10
+    },
+    "tests": 6,
+    "readme": 144,
+    "sha": "17bc860aec74ffa08e23c7d91746439241478afe\n"
+  },
+  {
+    "name": "@a-la/import",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/import",
+    "date": "2018-08-10T11:32:37.000Z",
+    "lines": {
+      "zoroaster": 237,
+      "zoroasterComments": 5,
+      "src": 54,
+      "comments": 11
+    },
+    "tests": 32,
+    "readme": 109,
+    "sha": "7969f7a7f597450fabccb2d626fb81c2a436e847\n"
+  },
+  {
+    "name": "@a-la/import",
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/import",
+    "date": "2018-08-10T23:23:45.000Z",
+    "lines": {
+      "zoroaster": 31,
+      "zoroasterComments": 0,
+      "src": 62,
+      "comments": 7
+    },
+    "tests": 22,
+    "readme": 109,
+    "sha": "560743fa24c1093ad492cfc6d084fcb21dfdce2b\n"
+  },
+  {
+    "name": "@a-la/import",
+    "version": "1.3.0",
+    "tag": "v1.3.0",
+    "gitPath": "../../analyse-packages/import",
+    "date": "2018-08-15T17:38:13.000Z",
+    "lines": {
+      "zoroaster": 41,
+      "zoroasterComments": 0,
+      "src": 89,
+      "comments": 11
+    },
+    "tests": 29,
+    "readme": 159,
+    "sha": "be38164e3291a388bee2db79379d9056bad5b684\n"
+  },
+  {
+    "name": "@a-la/import",
+    "version": "1.3.1",
+    "tag": "v1.3.1",
+    "gitPath": "../../analyse-packages/import",
+    "date": "2018-08-20T19:20:18.000Z",
+    "lines": {
+      "zoroaster": 35,
+      "zoroasterComments": 0,
+      "src": 89,
+      "comments": 11
+    },
+    "tests": 29,
+    "readme": 159,
+    "sha": "30d9f7bac1c271fd5edb63cbff22b52b3d2c24b1\n"
+  },
+  {
+    "name": "@a-la/import",
+    "version": "1.4.0",
+    "tag": "v1.4.0",
+    "gitPath": "../../analyse-packages/import",
+    "date": "2018-08-22T04:25:32.000Z",
+    "lines": {
+      "zoroaster": 104,
+      "zoroasterComments": 1,
+      "src": 101,
+      "comments": 11
+    },
+    "tests": 37,
+    "readme": 159,
+    "sha": "a2bcbfb1ae9e3c896a3da9253a7c97eacdb5eaa2\n"
+  },
+  {
+    "name": "@a-la/import",
+    "version": "1.4.1",
+    "tag": "v1.4.1",
+    "gitPath": "../../analyse-packages/import",
+    "date": "2018-08-22T04:28:48.000Z",
+    "lines": {
+      "zoroaster": 104,
+      "zoroasterComments": 1,
+      "src": 101,
+      "comments": 11
+    },
+    "tests": 37,
+    "readme": 179,
+    "sha": "891713500a524604698ee1e6357ce7c159d3b3df\n"
+  }
+]

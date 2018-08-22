@@ -1,0 +1,50 @@
+[
+  {
+    "name": "erte",
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/erte",
+    "date": "2018-05-10T19:33:58.000Z",
+    "lines": {
+      "zoroaster": 34,
+      "zoroasterComments": 1,
+      "src": 45,
+      "comments": 6
+    },
+    "tests": 3,
+    "readme": 48,
+    "sha": "ac14b99881d492e47a6bc42a59fea76e413c9a01\n"
+  },
+  {
+    "name": "erte",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/erte",
+    "date": "2018-05-12T00:07:04.000Z",
+    "lines": {
+      "zoroaster": 63,
+      "zoroasterComments": 1,
+      "src": 47,
+      "comments": 16
+    },
+    "tests": 6,
+    "readme": 85,
+    "sha": "32fe7e949953a0843f25bd07ecd91d0f22b68269\n"
+  },
+  {
+    "name": "erte",
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "gitPath": "../../analyse-packages/erte",
+    "date": "2018-05-12T00:12:15.000Z",
+    "lines": {
+      "zoroaster": 63,
+      "zoroasterComments": 1,
+      "src": 47,
+      "comments": 16
+    },
+    "tests": 6,
+    "readme": 87,
+    "sha": "a3c5627a1cd83425c9b35bbf9e4fc1ef3443169d\n"
+  }
+]

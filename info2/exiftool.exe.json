@@ -1,0 +1,87 @@
+[
+  {
+    "name": "exiftool.exe",
+    "version": "10.25.0",
+    "gitHead": "825a452cf31e0700fc024d64071016cf01d205a4",
+    "tag": "v10.25.0",
+    "gitPath": "../../analyse-packages/node-exiftool.exe",
+    "date": "2016-08-20T22:55:38.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 4,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 32,
+    "sha": "825a452cf31e0700fc024d64071016cf01d205a4\n"
+  },
+  {
+    "name": "exiftool.exe",
+    "version": "10.25.1",
+    "gitHead": "01cd1d9a9bbaf0da28fda2584ed91d6419f17bcd",
+    "tag": "v10.25.1",
+    "gitPath": "../../analyse-packages/node-exiftool.exe",
+    "date": "2016-08-21T16:52:02.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 4,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 37,
+    "sha": "01cd1d9a9bbaf0da28fda2584ed91d6419f17bcd\n"
+  },
+  {
+    "name": "exiftool.exe",
+    "version": "10.25.2",
+    "gitHead": "bbc13088f43959886140131d039c509e4fd95229",
+    "tag": "v10.25.2",
+    "gitPath": "../../analyse-packages/node-exiftool.exe",
+    "date": "2016-08-21T17:11:40.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 4,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 37,
+    "sha": "bbc13088f43959886140131d039c509e4fd95229\n"
+  },
+  {
+    "name": "exiftool.exe",
+    "version": "10.25.3",
+    "gitHead": "34515f7c3c9f327a31b908a245891ef8c4d08cd8",
+    "tag": "v10.25.3",
+    "gitPath": "../../analyse-packages/node-exiftool.exe",
+    "date": "2016-08-21T17:56:33.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 4,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 37,
+    "sha": "34515f7c3c9f327a31b908a245891ef8c4d08cd8\n"
+  },
+  {
+    "name": "exiftool.exe",
+    "version": "10.53.0",
+    "gitHead": "84d9039d9359ab94f9918dedbdb921e5da55b9bc",
+    "tag": "v10.53.0",
+    "gitPath": "../../analyse-packages/node-exiftool.exe",
+    "date": "2017-05-17T19:33:19.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 4,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 37,
+    "sha": "84d9039d9359ab94f9918dedbdb921e5da55b9bc\n"
+  }
+]

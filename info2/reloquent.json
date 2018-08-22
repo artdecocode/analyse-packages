@@ -1,0 +1,166 @@
+[
+  {
+    "name": "reloquent",
+    "version": "0.1.0",
+    "gitHead": "327baadf150d4eb49d57f34875d1baaaa1174677",
+    "tag": "v0.1.0",
+    "gitPath": "../../analyse-packages/reloquent",
+    "date": "2017-05-23T21:56:13.000Z",
+    "lines": {
+      "zoroaster": 66,
+      "zoroasterComments": 0,
+      "src": 44,
+      "comments": 5
+    },
+    "tests": 5,
+    "readme": 41,
+    "sha": "327baadf150d4eb49d57f34875d1baaaa1174677\n"
+  },
+  {
+    "name": "reloquent",
+    "version": "0.1.1",
+    "gitHead": "8a08f17bb249d83be03ea797691fae65ea7e92e0",
+    "tag": "v0.1.1",
+    "gitPath": "../../analyse-packages/reloquent",
+    "date": "2017-05-23T21:58:32.000Z",
+    "lines": {
+      "zoroaster": 66,
+      "zoroasterComments": 0,
+      "src": 44,
+      "comments": 5
+    },
+    "tests": 5,
+    "readme": 41,
+    "sha": "8a08f17bb249d83be03ea797691fae65ea7e92e0\n"
+  },
+  {
+    "name": "reloquent",
+    "version": "0.1.2",
+    "gitHead": "3301491040fce01dd17a6b6e405e6381211fe125",
+    "tag": "v0.1.2",
+    "gitPath": "../../analyse-packages/reloquent",
+    "date": "2017-05-23T22:00:52.000Z",
+    "lines": {
+      "zoroaster": 66,
+      "zoroasterComments": 0,
+      "src": 44,
+      "comments": 5
+    },
+    "tests": 5,
+    "readme": 41,
+    "sha": "3301491040fce01dd17a6b6e405e6381211fe125\n"
+  },
+  {
+    "name": "reloquent",
+    "version": "0.2.0",
+    "gitHead": "7941e6224d686ec80fdffebac085614aed2fc89a",
+    "tag": "v0.2.0",
+    "gitPath": "../../analyse-packages/reloquent",
+    "date": "2017-05-31T00:17:45.000Z",
+    "lines": {
+      "zoroaster": 199,
+      "zoroasterComments": 0,
+      "src": 128,
+      "comments": 14
+    },
+    "tests": 14,
+    "readme": 127,
+    "sha": "7941e6224d686ec80fdffebac085614aed2fc89a\n"
+  },
+  {
+    "name": "reloquent",
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/reloquent",
+    "date": "2018-06-09T06:46:05.000Z",
+    "lines": {
+      "zoroaster": 195,
+      "zoroasterComments": 2,
+      "src": 103,
+      "comments": 31
+    },
+    "tests": 13,
+    "readme": 161,
+    "sha": "70bc13f0900d2144280bb08fea13913ce8edfd96\n"
+  },
+  {
+    "name": "reloquent",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/reloquent",
+    "date": "2018-06-11T05:23:36.000Z",
+    "lines": {
+      "zoroaster": 195,
+      "zoroasterComments": 2,
+      "src": 105,
+      "comments": 35
+    },
+    "tests": 13,
+    "readme": 161,
+    "sha": "965858573729309067dbeaaa700ee40d67da304b\n"
+  },
+  {
+    "name": "reloquent",
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "gitPath": "../../analyse-packages/reloquent",
+    "date": "2018-06-26T06:42:11.000Z",
+    "lines": {
+      "zoroaster": 195,
+      "zoroasterComments": 2,
+      "src": 119,
+      "comments": 39
+    },
+    "tests": 13,
+    "readme": 286,
+    "sha": "2b2b5ffb64d41df786aca5c721279555e260b54c\n"
+  },
+  {
+    "name": "reloquent",
+    "version": "1.0.3",
+    "tag": "v1.0.3",
+    "gitPath": "../../analyse-packages/reloquent",
+    "date": "2018-06-26T06:44:05.000Z",
+    "lines": {
+      "zoroaster": 195,
+      "zoroasterComments": 2,
+      "src": 119,
+      "comments": 39
+    },
+    "tests": 13,
+    "readme": 288,
+    "sha": "8b2f8c93a863465bb62abdb1a8811b4365f598bf\n"
+  },
+  {
+    "name": "reloquent",
+    "version": "1.0.4",
+    "tag": "v1.0.4",
+    "gitPath": "../../analyse-packages/reloquent",
+    "date": "2018-06-26T06:46:22.000Z",
+    "lines": {
+      "zoroaster": 195,
+      "zoroasterComments": 2,
+      "src": 119,
+      "comments": 39
+    },
+    "tests": 13,
+    "readme": 288,
+    "sha": "3756558a083c6129887595cd9e4de4a1ec47f91e\n"
+  },
+  {
+    "name": "reloquent",
+    "version": "1.0.5",
+    "tag": "v1.0.5",
+    "gitPath": "../../analyse-packages/reloquent",
+    "date": "2018-06-26T06:49:44.000Z",
+    "lines": {
+      "zoroaster": 195,
+      "zoroasterComments": 2,
+      "src": 119,
+      "comments": 39
+    },
+    "tests": 13,
+    "readme": 288,
+    "sha": "e22e8f40ff43dba126488071d133e3a3a72d4088\n"
+  }
+]

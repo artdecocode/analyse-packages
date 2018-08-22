@@ -1,0 +1,533 @@
+[
+  {
+    "name": "zoroaster",
+    "version": "0.1.1",
+    "gitHead": "890a414f461ac12153a55e0685ea23961b89373a",
+    "tag": "v0.1.1",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2016-10-22T01:48:25.000Z",
+    "lines": {
+      "zoroaster": 218,
+      "zoroasterComments": 0,
+      "src": 184,
+      "comments": 20
+    },
+    "tests": 18,
+    "readme": 190,
+    "sha": "890a414f461ac12153a55e0685ea23961b89373a\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.1.2",
+    "gitHead": "62b6b434fb54b6fc95d32ce6ee445479319bcf34",
+    "tag": "v0.1.2",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2016-10-22T03:21:09.000Z",
+    "lines": {
+      "zoroaster": 218,
+      "zoroasterComments": 0,
+      "src": 184,
+      "comments": 20
+    },
+    "tests": 18,
+    "readme": 191,
+    "sha": "e400a98dcd012632d74af7922036301b646d7852\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.1.3",
+    "gitHead": "a5f2cde77e9ff72042d94a080404c55afd839621",
+    "tag": "v0.1.3",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2016-10-22T03:24:12.000Z",
+    "lines": {
+      "zoroaster": 218,
+      "zoroasterComments": 0,
+      "src": 184,
+      "comments": 20
+    },
+    "tests": 18,
+    "readme": 191,
+    "sha": "a5f2cde77e9ff72042d94a080404c55afd839621\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.1.4",
+    "gitHead": "3b14b5e011c48136248b1c1d98ab42c9bc5e8369",
+    "tag": "v0.1.4",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2016-12-04T03:48:11.000Z",
+    "lines": {
+      "zoroaster": 222,
+      "zoroasterComments": 0,
+      "src": 200,
+      "comments": 20
+    },
+    "tests": 18,
+    "readme": 191,
+    "sha": "3b14b5e011c48136248b1c1d98ab42c9bc5e8369\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.1.5",
+    "gitHead": "f04ff68a513bb6284cfd7c5a2c2e606150507ab2",
+    "tag": "v0.1.5",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2016-12-04T20:41:53.000Z",
+    "lines": {
+      "zoroaster": 270,
+      "zoroasterComments": 0,
+      "src": 218,
+      "comments": 24
+    },
+    "tests": 25,
+    "readme": 200,
+    "sha": "f04ff68a513bb6284cfd7c5a2c2e606150507ab2\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.2.0",
+    "gitHead": "5a7a8f157448b7040a6a245eb7864c1fd6ccd28c",
+    "tag": "v0.2.0",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2016-12-12T22:00:48.000Z",
+    "lines": {
+      "zoroaster": 270,
+      "zoroasterComments": 0,
+      "src": 343,
+      "comments": 78
+    },
+    "tests": 25,
+    "readme": 200,
+    "sha": "5a7a8f157448b7040a6a245eb7864c1fd6ccd28c\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.3.0",
+    "gitHead": "4d11b44850815d83aa011a0638577e18fa12f396",
+    "tag": "v0.3.0",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2017-04-18T14:39:32.000Z",
+    "lines": {
+      "zoroaster": 374,
+      "zoroasterComments": 0,
+      "src": 384,
+      "comments": 80
+    },
+    "tests": 25,
+    "readme": 200,
+    "sha": "4d11b44850815d83aa011a0638577e18fa12f396\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.3.1",
+    "gitHead": "9d842799fec026ba22139cfaa2ab02e55b17f726",
+    "tag": "v0.3.1",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2017-04-19T01:31:49.000Z",
+    "lines": {
+      "zoroaster": 557,
+      "zoroasterComments": 0,
+      "src": 391,
+      "comments": 84
+    },
+    "tests": 25,
+    "readme": 199,
+    "sha": "9d842799fec026ba22139cfaa2ab02e55b17f726\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.4.0",
+    "gitHead": "969aefa8e863f437003bdb7e1a4eb002c3fcda62",
+    "tag": "v0.4.0",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2017-05-01T18:36:45.000Z",
+    "lines": {
+      "zoroaster": 665,
+      "zoroasterComments": 0,
+      "src": 406,
+      "comments": 90
+    },
+    "tests": 0,
+    "readme": 246,
+    "sha": "969aefa8e863f437003bdb7e1a4eb002c3fcda62\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.4.1",
+    "gitHead": "70cde2428d55a2617ac00649db22bfcc55fc0746",
+    "tag": "v0.4.1",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2017-05-07T18:29:21.000Z",
+    "lines": {
+      "zoroaster": 916,
+      "zoroasterComments": 0,
+      "src": 445,
+      "comments": 104
+    },
+    "tests": 0,
+    "readme": 253,
+    "sha": "70cde2428d55a2617ac00649db22bfcc55fc0746\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.4.2",
+    "gitHead": "d518d80a77ba2c3665d15642a0d0d62504fbb9e4",
+    "tag": "v0.4.2",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2017-05-10T19:00:47.000Z",
+    "lines": {
+      "zoroaster": 1053,
+      "zoroasterComments": 0,
+      "src": 462,
+      "comments": 104
+    },
+    "tests": 0,
+    "readme": 253,
+    "sha": "d518d80a77ba2c3665d15642a0d0d62504fbb9e4\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.4.3",
+    "gitHead": "d518713783c846b91674714e6bbe6a4bf335e66e",
+    "tag": "v0.4.3",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2017-05-10T19:47:49.000Z",
+    "lines": {
+      "zoroaster": 1065,
+      "zoroasterComments": 0,
+      "src": 466,
+      "comments": 104
+    },
+    "tests": 0,
+    "readme": 253,
+    "sha": "d518713783c846b91674714e6bbe6a4bf335e66e\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.4.4",
+    "gitHead": "1b6e82b5f34bdb06e242a42a5bfde9aba063453c",
+    "tag": "v0.4.4",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2017-05-14T23:03:46.000Z",
+    "lines": {
+      "zoroaster": 1130,
+      "zoroasterComments": 0,
+      "src": 432,
+      "comments": 104
+    },
+    "tests": 0,
+    "readme": 253,
+    "sha": "1b6e82b5f34bdb06e242a42a5bfde9aba063453c\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.4.5",
+    "gitHead": "05b8903b3ea130d48e8820a25d72f95b0d61e413",
+    "tag": "v0.4.5",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2017-05-25T21:11:04.000Z",
+    "lines": {
+      "zoroaster": 1171,
+      "zoroasterComments": 0,
+      "src": 13,
+      "comments": 8
+    },
+    "tests": 0,
+    "readme": 253,
+    "sha": "05b8903b3ea130d48e8820a25d72f95b0d61e413\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.4.6",
+    "gitHead": "2a059018637c65cdb8f187ab61493fcdad8aa44f",
+    "tag": "v0.4.6",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2017-05-28T22:13:23.000Z",
+    "lines": {
+      "zoroaster": 1171,
+      "zoroasterComments": 0,
+      "src": 27,
+      "comments": 9
+    },
+    "tests": 0,
+    "readme": 253,
+    "sha": "2a059018637c65cdb8f187ab61493fcdad8aa44f\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.5.0",
+    "gitHead": "a63d3c981a8807bc559df4cef2358c4f0d7f3357",
+    "tag": "v0.5.0",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2017-12-31T04:05:12.000Z",
+    "lines": {
+      "zoroaster": 1232,
+      "zoroasterComments": 0,
+      "src": 27,
+      "comments": 9
+    },
+    "tests": 50,
+    "readme": 263,
+    "sha": "a63d3c981a8807bc559df4cef2358c4f0d7f3357\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.5.1",
+    "gitHead": "199b4f1d90b94d821ca0191f27cab1ae5f165349",
+    "tag": "v0.5.1",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-01-01T15:57:09.000Z",
+    "lines": {
+      "zoroaster": 1245,
+      "zoroasterComments": 0,
+      "src": 27,
+      "comments": 9
+    },
+    "tests": 51,
+    "readme": 263,
+    "sha": "199b4f1d90b94d821ca0191f27cab1ae5f165349\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.5.2",
+    "gitHead": "8fdc3b3d3e10bbfc1a205ef71a4054a65cc2b143",
+    "tag": "v0.5.2",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-01-01T17:26:36.000Z",
+    "lines": {
+      "zoroaster": 1291,
+      "zoroasterComments": 0,
+      "src": 27,
+      "comments": 9
+    },
+    "tests": 55,
+    "readme": 263,
+    "sha": "8fdc3b3d3e10bbfc1a205ef71a4054a65cc2b143\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "0.5.3",
+    "gitHead": "f0c7b07403f9b4d302ed7c5ac0f4c30828e6516c",
+    "tag": "v0.5.3",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-01-02T00:17:41.000Z",
+    "lines": {
+      "zoroaster": 1303,
+      "zoroasterComments": 0,
+      "src": 27,
+      "comments": 9
+    },
+    "tests": 56,
+    "readme": 263,
+    "sha": "f0c7b07403f9b4d302ed7c5ac0f4c30828e6516c\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "1.0.0-beta.0",
+    "tag": "v1.0.0-beta.0",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-03-15T16:19:25.000Z",
+    "lines": {
+      "zoroaster": 1045,
+      "zoroasterComments": 0,
+      "src": 443,
+      "comments": 111
+    },
+    "tests": 55,
+    "readme": 579,
+    "sha": "0fa287afba23f07c6e0a3b3cbed56c0e9185688f\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "1.0.0-beta.1",
+    "tag": "v1.0.0-beta.1",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-03-15T16:35:41.000Z",
+    "lines": {
+      "zoroaster": 1045,
+      "zoroasterComments": 0,
+      "src": 443,
+      "comments": 111
+    },
+    "tests": 55,
+    "readme": 585,
+    "sha": "74a52795e3b77a7fcce7f3adeb46faf546491eef\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "1.0.0-beta.2",
+    "tag": "v1.0.0-beta.2",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-03-15T16:55:30.000Z",
+    "lines": {
+      "zoroaster": 1045,
+      "zoroasterComments": 0,
+      "src": 443,
+      "comments": 111
+    },
+    "tests": 55,
+    "readme": 585,
+    "sha": "ef96f3be817b40917de20d4da2adfad674b2832f\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-03-17T00:08:00.000Z",
+    "lines": {
+      "zoroaster": 1045,
+      "zoroasterComments": 0,
+      "src": 443,
+      "comments": 111
+    },
+    "tests": 55,
+    "readme": 625,
+    "sha": "ea8815adf1af3a63a507db280f360cd94e9ad354\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-03-17T00:23:16.000Z",
+    "lines": {
+      "zoroaster": 1047,
+      "zoroasterComments": 0,
+      "src": 443,
+      "comments": 111
+    },
+    "tests": 55,
+    "readme": 624,
+    "sha": "2e081f1a5b0bcdab858fae608fd9e46c5ed13ec8\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-05-04T07:06:10.000Z",
+    "lines": {
+      "zoroaster": 1094,
+      "zoroasterComments": 0,
+      "src": 490,
+      "comments": 111
+    },
+    "tests": 57,
+    "readme": 634,
+    "sha": "6c8b7a2258cd28906ed32b3db4a49c48ee51fd8f\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "2.0.0",
+    "tag": "v2.0.0",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-05-17T05:16:30.000Z",
+    "lines": {
+      "zoroaster": 1026,
+      "zoroasterComments": 11,
+      "src": 639,
+      "comments": 118
+    },
+    "tests": 42,
+    "readme": 608,
+    "sha": "5a0d854e9e376b1732ef4975b922e202c1c36c2a\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "2.1.0",
+    "tag": "v2.1.0",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-05-24T16:20:09.000Z",
+    "lines": {
+      "zoroaster": 1071,
+      "zoroasterComments": 12,
+      "src": 642,
+      "comments": 113
+    },
+    "tests": 42,
+    "readme": 652,
+    "sha": "d41a8740036c501f4c4b9457d7271aad3bd5fb0d\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "2.2.0",
+    "tag": "v2.2.0",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-08-15T14:28:04.000Z",
+    "lines": {
+      "zoroaster": 1110,
+      "zoroasterComments": 13,
+      "src": 698,
+      "comments": 128
+    },
+    "tests": 42,
+    "readme": 672,
+    "sha": "95d3cbbb632b4d0e18f285b938d6faf3ffe2a16c\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "2.2.1",
+    "tag": "v2.2.1",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-08-16T18:08:46.000Z",
+    "lines": {
+      "zoroaster": 1129,
+      "zoroasterComments": 14,
+      "src": 698,
+      "comments": 128
+    },
+    "tests": 43,
+    "readme": 672,
+    "sha": "4909ea0edd5d3b2dbdcce74151942e6a76d23276\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "2.2.2",
+    "tag": "v2.2.2",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-08-16T18:29:01.000Z",
+    "lines": {
+      "zoroaster": 1129,
+      "zoroasterComments": 14,
+      "src": 698,
+      "comments": 128
+    },
+    "tests": 43,
+    "readme": 672,
+    "sha": "9f6e6ae2fcfd750b8a6816e8bdac29f23f9c1eab\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "2.3.0",
+    "tag": "v2.3.0",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-08-18T22:25:25.000Z",
+    "lines": {
+      "zoroaster": 1287,
+      "zoroasterComments": 17,
+      "src": 806,
+      "comments": 170
+    },
+    "tests": 49,
+    "readme": 672,
+    "sha": "312d4b6d09f4ef6311e270b7ab3e80621932a6ce\n"
+  },
+  {
+    "name": "zoroaster",
+    "version": "2.4.0",
+    "tag": "v2.4.0",
+    "gitPath": "../../analyse-packages/zoroaster",
+    "date": "2018-08-22T06:28:18.000Z",
+    "lines": {
+      "zoroaster": 1287,
+      "zoroasterComments": 17,
+      "src": 812,
+      "comments": 170
+    },
+    "tests": 49,
+    "readme": 672,
+    "sha": "3a397d2284cfeef63bebfd9591568cb7c7e5c57f\n"
+  }
+]

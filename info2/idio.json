@@ -1,0 +1,260 @@
+[
+  {
+    "name": "idio",
+    "version": "0.1.0",
+    "gitHead": "d265c70caebd44e4c165705fed1c388a66acde1c",
+    "tag": "v0.1.0",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2017-09-16T23:05:52.000Z",
+    "lines": {
+      "zoroaster": 26,
+      "zoroasterComments": 0,
+      "src": 247,
+      "comments": 40
+    },
+    "tests": 1,
+    "readme": 178,
+    "sha": "d265c70caebd44e4c165705fed1c388a66acde1c\n"
+  },
+  {
+    "name": "idio",
+    "version": "0.1.1",
+    "gitHead": "5d6bf694dbc3763fbd801fdef7ce4da2658a9147",
+    "tag": "v0.1.1",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2018-02-28T21:53:53.000Z",
+    "lines": {
+      "zoroaster": 26,
+      "zoroasterComments": 0,
+      "src": 247,
+      "comments": 40
+    },
+    "tests": 1,
+    "readme": 178,
+    "sha": "5d6bf694dbc3763fbd801fdef7ce4da2658a9147\n"
+  },
+  {
+    "name": "idio",
+    "version": "0.1.2",
+    "tag": "v0.1.2",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2018-02-28T23:25:41.000Z",
+    "lines": {
+      "zoroaster": 26,
+      "zoroasterComments": 0,
+      "src": 247,
+      "comments": 40
+    },
+    "tests": 1,
+    "readme": 178,
+    "sha": "ea384009af2b6f611a8d3f38122ccfc5d244518e\n"
+  },
+  {
+    "name": "idio",
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2018-03-09T14:29:26.000Z",
+    "lines": {
+      "zoroaster": 198,
+      "zoroasterComments": 0,
+      "src": 340,
+      "comments": 53
+    },
+    "tests": 5,
+    "readme": 211,
+    "sha": "4a1cd1e365c3acaf8f15e048d1dd119cc926d531\n"
+  },
+  {
+    "name": "idio",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2018-05-01T02:49:47.000Z",
+    "lines": {
+      "zoroaster": 198,
+      "zoroasterComments": 0,
+      "src": 390,
+      "comments": 56
+    },
+    "tests": 5,
+    "readme": 233,
+    "sha": "e41e58e64897ad768ac12eac7b8717c02ae4d191\n"
+  },
+  {
+    "name": "idio",
+    "version": "2.0.0",
+    "tag": "v2.0.0",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2018-05-01T05:08:09.000Z",
+    "lines": {
+      "zoroaster": 198,
+      "zoroasterComments": 0,
+      "src": 400,
+      "comments": 56
+    },
+    "tests": 5,
+    "readme": 236,
+    "sha": "80290eed0e4539fe2ad151fc8cfb5dcfcb8c6314\n"
+  },
+  {
+    "name": "idio",
+    "version": "2.1.0",
+    "tag": "v2.1.0",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2018-05-01T20:44:52.000Z",
+    "lines": {
+      "zoroaster": 258,
+      "zoroasterComments": 0,
+      "src": 412,
+      "comments": 57
+    },
+    "tests": 7,
+    "readme": 238,
+    "sha": "5876c3b2ff69b3aeb96251a286e9739a92913355\n"
+  },
+  {
+    "name": "idio",
+    "version": "2.2.0",
+    "tag": "v2.2.0",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2018-05-02T00:49:31.000Z",
+    "lines": {
+      "zoroaster": 242,
+      "zoroasterComments": 0,
+      "src": 425,
+      "comments": 57
+    },
+    "tests": 10,
+    "readme": 266,
+    "sha": "fbe36541985396e2217d4d2c63c8e42d6d43dda0\n"
+  },
+  {
+    "name": "idio",
+    "version": "2.3.0",
+    "tag": "v2.3.0",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2018-05-04T10:43:35.000Z",
+    "lines": {
+      "zoroaster": 377,
+      "zoroasterComments": 12,
+      "src": 476,
+      "comments": 112
+    },
+    "tests": 14,
+    "readme": 266,
+    "sha": "acf6ed6833c05bf8d1e7856db405d4aeeed8a159\n"
+  },
+  {
+    "name": "idio",
+    "version": "2.4.0",
+    "tag": "v2.4.0",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2018-05-17T08:43:32.000Z",
+    "lines": {
+      "zoroaster": 377,
+      "zoroasterComments": 12,
+      "src": 534,
+      "comments": 112
+    },
+    "tests": 14,
+    "readme": 266,
+    "sha": "2404b274795606f9874e2b33c39438289dcd3add\n"
+  },
+  {
+    "name": "idio",
+    "version": "2.5.0",
+    "tag": "v2.5.0",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2018-05-18T09:02:08.000Z",
+    "lines": {
+      "zoroaster": 410,
+      "zoroasterComments": 13,
+      "src": 523,
+      "comments": 196
+    },
+    "tests": 15,
+    "readme": 341,
+    "sha": "78c82fbbb9025520bd8a83a3b1f99ca97bf0ec20\n"
+  },
+  {
+    "name": "idio",
+    "version": "2.5.1",
+    "tag": "v2.5.1",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2018-05-18T20:44:40.000Z",
+    "lines": {
+      "zoroaster": 411,
+      "zoroasterComments": 13,
+      "src": 525,
+      "comments": 196
+    },
+    "tests": 15,
+    "readme": 341,
+    "sha": "96effddbdae0b7a1b723a5e9f5fd56816257630b\n"
+  },
+  {
+    "name": "idio",
+    "version": "2.5.2",
+    "tag": "v2.5.2",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2018-05-20T14:09:53.000Z",
+    "lines": {
+      "zoroaster": 427,
+      "zoroasterComments": 13,
+      "src": 525,
+      "comments": 196
+    },
+    "tests": 15,
+    "readme": 341,
+    "sha": "d31703213bb30f0332a0e37716e1909cd898ba78\n"
+  },
+  {
+    "name": "idio",
+    "version": "2.5.3",
+    "tag": "v2.5.3",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2018-05-21T01:21:38.000Z",
+    "lines": {
+      "zoroaster": 427,
+      "zoroasterComments": 13,
+      "src": 525,
+      "comments": 196
+    },
+    "tests": 15,
+    "readme": 413,
+    "sha": "e0e32eda4c55e3fb051c647dc54c8d74bcad171e\n"
+  },
+  {
+    "name": "idio",
+    "version": "2.5.4",
+    "tag": "v2.5.4",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2018-05-22T00:59:55.000Z",
+    "lines": {
+      "zoroaster": 459,
+      "zoroasterComments": 13,
+      "src": 531,
+      "comments": 200
+    },
+    "tests": 15,
+    "readme": 434,
+    "sha": "7f35506fcdf0ade5c953d9f49d941646ef6c99bd\n"
+  },
+  {
+    "name": "idio",
+    "version": "2.6.0",
+    "tag": "v2.6.0",
+    "gitPath": "../../analyse-packages/idio",
+    "date": "2018-05-22T02:31:22.000Z",
+    "lines": {
+      "zoroaster": 539,
+      "zoroasterComments": 14,
+      "src": 554,
+      "comments": 216
+    },
+    "tests": 0,
+    "readme": 467,
+    "sha": "9d9aa211d948c727bb5a4f2d04fd65a7a2e1bf78\n"
+  }
+]

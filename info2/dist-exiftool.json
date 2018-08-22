@@ -1,0 +1,70 @@
+[
+  {
+    "name": "dist-exiftool",
+    "version": "10.25.0",
+    "gitHead": "27fdcf59f848ddb9bdf0d0faca044a2e79658cfc",
+    "tag": "v10.25.0",
+    "gitPath": "../../analyse-packages/dist-exiftool",
+    "date": "2016-08-21T17:51:39.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 2,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 37,
+    "sha": "27fdcf59f848ddb9bdf0d0faca044a2e79658cfc\n"
+  },
+  {
+    "name": "dist-exiftool",
+    "version": "10.33.0",
+    "gitHead": "e1597d252ed17baac91a8894b8f15bd404272597",
+    "tag": "v10.33.0",
+    "gitPath": "../../analyse-packages/dist-exiftool",
+    "date": "2016-11-20T17:52:59.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 2,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 37,
+    "sha": "e1597d252ed17baac91a8894b8f15bd404272597\n"
+  },
+  {
+    "name": "dist-exiftool",
+    "version": "10.33.1",
+    "gitHead": "2f0c09173c6c0117c3b65a7fdfc41d9ec72ad307",
+    "tag": "v10.33.1",
+    "gitPath": "../../analyse-packages/dist-exiftool",
+    "date": "2017-01-04T08:01:02.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 2,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 37,
+    "sha": "2f0c09173c6c0117c3b65a7fdfc41d9ec72ad307\n"
+  },
+  {
+    "name": "dist-exiftool",
+    "version": "10.53.0",
+    "gitHead": "9a560921b42196f77b726da557653b9bcdd11460",
+    "tag": "v10.53.0",
+    "gitPath": "../../analyse-packages/dist-exiftool",
+    "date": "2017-05-17T20:14:02.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 2,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 37,
+    "sha": "9a560921b42196f77b726da557653b9bcdd11460\n"
+  }
+]

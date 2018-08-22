@@ -1,0 +1,50 @@
+[
+  {
+    "name": "koa2-jsx",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/koa2-jsx",
+    "date": "2018-04-30T01:00:08.000Z",
+    "lines": {
+      "zoroaster": 16,
+      "zoroasterComments": 0,
+      "src": 275,
+      "comments": 38
+    },
+    "tests": 2,
+    "readme": 542,
+    "sha": "833e28e4b01c2a575aaf853d4c3b3db1927a7d3e\n"
+  },
+  {
+    "name": "koa2-jsx",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/koa2-jsx",
+    "date": "2018-05-21T19:09:37.000Z",
+    "lines": {
+      "zoroaster": 163,
+      "zoroasterComments": 1,
+      "src": 287,
+      "comments": 64
+    },
+    "tests": 2,
+    "readme": 574,
+    "sha": "216435407464df6f0640bac90d02a86b27ecd1be\n"
+  },
+  {
+    "name": "koa2-jsx",
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/koa2-jsx",
+    "date": "2018-05-22T00:38:22.000Z",
+    "lines": {
+      "zoroaster": 184,
+      "zoroasterComments": 1,
+      "src": 293,
+      "comments": 62
+    },
+    "tests": 0,
+    "readme": 536,
+    "sha": "33fe1596ad12e466bc5420086601ba2804a10377\n"
+  }
+]

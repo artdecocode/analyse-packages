@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pedantry",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/pedantry",
+    "date": "2018-06-21T10:23:42.000Z",
+    "lines": {
+      "zoroaster": 38,
+      "zoroasterComments": 1,
+      "src": 132,
+      "comments": 19
+    },
+    "tests": 3,
+    "readme": 68,
+    "sha": "d147f3f0217e5be67636cbc529efe983b76e61e9\n"
+  }
+]

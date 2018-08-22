@@ -1,0 +1,36 @@
+[
+  {
+    "name": "exif2css",
+    "version": "1.1.0",
+    "gitHead": "d91936aa1f1faed3ac40260aec002238d3d3ae48",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/exif2css",
+    "date": "2017-01-08T07:44:52.000Z",
+    "lines": {
+      "zoroaster": 297,
+      "zoroasterComments": 0,
+      "src": 97,
+      "comments": 0
+    },
+    "tests": 41,
+    "readme": 137,
+    "sha": "d91936aa1f1faed3ac40260aec002238d3d3ae48\n"
+  },
+  {
+    "name": "exif2css",
+    "version": "1.2.0",
+    "gitHead": "0c846cece1e2781f799481f73aad4913f02e4e8c",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/exif2css",
+    "date": "2017-01-08T08:50:31.000Z",
+    "lines": {
+      "zoroaster": 395,
+      "zoroasterComments": 0,
+      "src": 113,
+      "comments": 0
+    },
+    "tests": 55,
+    "readme": 137,
+    "sha": "0c846cece1e2781f799481f73aad4913f02e4e8c\n"
+  }
+]

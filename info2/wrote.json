@@ -1,0 +1,223 @@
+[
+  {
+    "name": "wrote",
+    "version": "0.2.0",
+    "gitHead": "2c0698b45d1931996b486804ab68cf9f8a1e5f94",
+    "tag": "v0.2.0",
+    "gitPath": "../../analyse-packages/wrote",
+    "date": "2017-05-20T20:22:16.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 63,
+      "comments": 5
+    },
+    "tests": 0,
+    "readme": 78,
+    "sha": "2c0698b45d1931996b486804ab68cf9f8a1e5f94\n"
+  },
+  {
+    "name": "wrote",
+    "version": "0.3.0",
+    "gitHead": "db005b384386ef035ca2c63ecb81996873934c0e",
+    "tag": "v0.3.0",
+    "gitPath": "../../analyse-packages/wrote",
+    "date": "2017-05-28T04:37:11.000Z",
+    "lines": {
+      "zoroaster": 250,
+      "zoroasterComments": 0,
+      "src": 88,
+      "comments": 12
+    },
+    "tests": 16,
+    "readme": 107,
+    "sha": "db005b384386ef035ca2c63ecb81996873934c0e\n"
+  },
+  {
+    "name": "wrote",
+    "version": "0.4.0",
+    "gitHead": "57fbec3bbb6cbbdb302a951a656d094d6547c70a",
+    "tag": "v0.4.0",
+    "gitPath": "../../analyse-packages/wrote",
+    "date": "2017-05-28T20:34:23.000Z",
+    "lines": {
+      "zoroaster": 291,
+      "zoroasterComments": 0,
+      "src": 130,
+      "comments": 27
+    },
+    "tests": 19,
+    "readme": 130,
+    "sha": "57fbec3bbb6cbbdb302a951a656d094d6547c70a\n"
+  },
+  {
+    "name": "wrote",
+    "version": "0.5.0",
+    "gitHead": "a4b2f87c70cedd03bc177ad9c209ce29cc9b35db",
+    "tag": "v0.5.0",
+    "gitPath": "../../analyse-packages/wrote",
+    "date": "2017-06-01T23:00:38.000Z",
+    "lines": {
+      "zoroaster": 351,
+      "zoroasterComments": 0,
+      "src": 164,
+      "comments": 38
+    },
+    "tests": 27,
+    "readme": 149,
+    "sha": "a4b2f87c70cedd03bc177ad9c209ce29cc9b35db\n"
+  },
+  {
+    "name": "wrote",
+    "version": "0.6.0",
+    "gitHead": "e5eafadd2099e4ca85996dae183494724fff0c20",
+    "tag": "v0.6.0",
+    "gitPath": "../../analyse-packages/wrote",
+    "date": "2017-06-11T19:18:32.000Z",
+    "lines": {
+      "zoroaster": 411,
+      "zoroasterComments": 0,
+      "src": 224,
+      "comments": 51
+    },
+    "tests": 33,
+    "readme": 198,
+    "sha": "e5eafadd2099e4ca85996dae183494724fff0c20\n"
+  },
+  {
+    "name": "wrote",
+    "version": "0.6.1",
+    "gitHead": "5f4330c1c4df445ffa8c0d03a5271b1641877a47",
+    "tag": "v0.6.1",
+    "gitPath": "../../analyse-packages/wrote",
+    "date": "2017-08-29T14:40:46.000Z",
+    "lines": {
+      "zoroaster": 411,
+      "zoroasterComments": 0,
+      "src": 224,
+      "comments": 51
+    },
+    "tests": 33,
+    "readme": 198,
+    "sha": "5f4330c1c4df445ffa8c0d03a5271b1641877a47\n"
+  },
+  {
+    "name": "wrote",
+    "version": "0.7.0",
+    "gitHead": "f090a08a4e117c0f02cb6676afed9388c29a4276",
+    "tag": "v0.7.0",
+    "gitPath": "../../analyse-packages/wrote",
+    "date": "2017-12-27T22:18:31.000Z",
+    "lines": {
+      "zoroaster": 522,
+      "zoroasterComments": 0,
+      "src": 366,
+      "comments": 93
+    },
+    "tests": 41,
+    "readme": 272,
+    "sha": "f090a08a4e117c0f02cb6676afed9388c29a4276\n"
+  },
+  {
+    "name": "wrote",
+    "version": "0.7.1",
+    "gitHead": "2d5c9d657c7cbb3cda2a9d41b13bbefcfc8be75e",
+    "tag": "v0.7.1",
+    "gitPath": "../../analyse-packages/wrote",
+    "date": "2017-12-28T00:15:30.000Z",
+    "lines": {
+      "zoroaster": 435,
+      "zoroasterComments": 0,
+      "src": 333,
+      "comments": 93
+    },
+    "tests": 41,
+    "readme": 272,
+    "sha": "2d5c9d657c7cbb3cda2a9d41b13bbefcfc8be75e\n"
+  },
+  {
+    "name": "wrote",
+    "version": "1.0.0",
+    "gitHead": "6eb953d47281d1f0953809fdd9df7dd3f8a0515e",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/wrote",
+    "date": "2017-12-28T04:48:35.000Z",
+    "lines": {
+      "zoroaster": 437,
+      "zoroasterComments": 0,
+      "src": 334,
+      "comments": 95
+    },
+    "tests": 42,
+    "readme": 259,
+    "sha": "6eb953d47281d1f0953809fdd9df7dd3f8a0515e\n"
+  },
+  {
+    "name": "wrote",
+    "version": "1.1.0",
+    "gitHead": "33c6a823eabee761937c7cc235d7f0e63452dd53",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/wrote",
+    "date": "2017-12-29T18:34:17.000Z",
+    "lines": {
+      "zoroaster": 518,
+      "zoroasterComments": 0,
+      "src": 403,
+      "comments": 112
+    },
+    "tests": 46,
+    "readme": 290,
+    "sha": "33c6a823eabee761937c7cc235d7f0e63452dd53\n"
+  },
+  {
+    "name": "wrote",
+    "version": "1.2.0",
+    "gitHead": "368b73f7ef602f5cabafbb14a66517ace8f86358",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/wrote",
+    "date": "2017-12-30T23:40:26.000Z",
+    "lines": {
+      "zoroaster": 638,
+      "zoroasterComments": 0,
+      "src": 452,
+      "comments": 112
+    },
+    "tests": 59,
+    "readme": 341,
+    "sha": "368b73f7ef602f5cabafbb14a66517ace8f86358\n"
+  },
+  {
+    "name": "wrote",
+    "version": "1.3.0",
+    "gitHead": "3d95447c4bc1a469f2b1164a848f3dfec63df90b",
+    "tag": "v1.3.0",
+    "gitPath": "../../analyse-packages/wrote",
+    "date": "2018-01-01T18:09:17.000Z",
+    "lines": {
+      "zoroaster": 713,
+      "zoroasterComments": 0,
+      "src": 481,
+      "comments": 125
+    },
+    "tests": 67,
+    "readme": 374,
+    "sha": "3d95447c4bc1a469f2b1164a848f3dfec63df90b\n"
+  },
+  {
+    "name": "wrote",
+    "version": "1.4.0",
+    "gitHead": "24992ad3bba4e5959dfb617b6c1f22d9a1306ab9",
+    "tag": "v1.4.0",
+    "gitPath": "../../analyse-packages/wrote",
+    "date": "2018-01-02T04:17:33.000Z",
+    "lines": {
+      "zoroaster": 718,
+      "zoroasterComments": 0,
+      "src": 481,
+      "comments": 128
+    },
+    "tests": 68,
+    "readme": 390,
+    "sha": "24992ad3bba4e5959dfb617b6c1f22d9a1306ab9\n"
+  }
+]

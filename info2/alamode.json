@@ -1,0 +1,98 @@
+[
+  {
+    "name": "alamode",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/alamode",
+    "date": "2018-07-25T18:26:44.000Z",
+    "lines": {
+      "zoroaster": 23,
+      "zoroasterComments": 1,
+      "src": 15,
+      "comments": 9
+    },
+    "tests": 3,
+    "readme": 178,
+    "sha": "e99f44b2ed25716229201d654b2eb862e0bf64a3\n"
+  },
+  {
+    "name": "alamode",
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "gitPath": "../../analyse-packages/alamode",
+    "date": "2018-07-25T18:44:11.000Z",
+    "lines": {
+      "zoroaster": 23,
+      "zoroasterComments": 1,
+      "src": 15,
+      "comments": 9
+    },
+    "tests": 3,
+    "readme": 189,
+    "sha": "272b19905028687fecf5d34b52b4fa6b1cb18220\n"
+  },
+  {
+    "name": "alamode",
+    "version": "1.0.3",
+    "tag": "v1.0.3",
+    "gitPath": "../../analyse-packages/alamode",
+    "date": "2018-07-25T18:54:12.000Z",
+    "lines": {
+      "zoroaster": 23,
+      "zoroasterComments": 1,
+      "src": 15,
+      "comments": 9
+    },
+    "tests": 3,
+    "readme": 189,
+    "sha": "81aa930c67bade10f823c59a5384fc577cfcd07b\n"
+  },
+  {
+    "name": "alamode",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/alamode",
+    "date": "2018-08-13T16:20:57.000Z",
+    "lines": {
+      "zoroaster": 65,
+      "zoroasterComments": 1,
+      "src": 173,
+      "comments": 9
+    },
+    "tests": 2,
+    "readme": 167,
+    "sha": "fb797a69046382793d6ab90a22bb7608582813a8\n"
+  },
+  {
+    "name": "alamode",
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/alamode",
+    "date": "2018-08-22T05:10:04.000Z",
+    "lines": {
+      "zoroaster": 65,
+      "zoroasterComments": 1,
+      "src": 388,
+      "comments": 8
+    },
+    "tests": 2,
+    "readme": 330,
+    "sha": "5cae6aea4d6a0d6a31c9f20a6520af6d0e11f5e1\n"
+  },
+  {
+    "name": "alamode",
+    "version": "1.2.1",
+    "tag": "v1.2.1",
+    "gitPath": "../../analyse-packages/alamode",
+    "date": "2018-08-22T06:22:49.000Z",
+    "lines": {
+      "zoroaster": 65,
+      "zoroasterComments": 1,
+      "src": 398,
+      "comments": 8
+    },
+    "tests": 2,
+    "readme": 330,
+    "sha": "dac5f50b9f36959717f63142c3a6510435cbf75a\n"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "yarn-up",
+    "version": "1.0.0",
+    "gitHead": "7a4a1da6f3fa437eb9262e85e9e893144487fd22",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/yarn-up",
+    "date": "2018-02-28T23:10:52.000Z",
+    "lines": {
+      "zoroaster": 36,
+      "zoroasterComments": 0,
+      "src": 21,
+      "comments": 0
+    },
+    "tests": 4,
+    "readme": 74,
+    "sha": "7a4a1da6f3fa437eb9262e85e9e893144487fd22\n"
+  }
+]

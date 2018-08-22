@@ -1,0 +1,18 @@
+[
+  {
+    "name": "usually",
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/usually",
+    "date": "2018-06-09T09:26:55.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 68,
+      "comments": 12
+    },
+    "tests": 0,
+    "readme": 55,
+    "sha": "093126b96b638ed314e3ab7106db7a35983f041f\n"
+  }
+]

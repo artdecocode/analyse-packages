@@ -1,0 +1,100 @@
+[
+  {
+    "name": "africa",
+    "version": "1.0.0",
+    "gitHead": "7b7ee7099056453e1c1a5b0728164341420c7f4e",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/africa",
+    "date": "2018-01-01T20:53:34.000Z",
+    "lines": {
+      "zoroaster": 46,
+      "zoroasterComments": 0,
+      "src": 36,
+      "comments": 11
+    },
+    "tests": 5,
+    "readme": 63,
+    "sha": "7b7ee7099056453e1c1a5b0728164341420c7f4e\n"
+  },
+  {
+    "name": "africa",
+    "version": "1.0.1",
+    "gitHead": "a5d4da7c4cb1a8bcbd0b2045235457383e5d5a6b",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/africa",
+    "date": "2018-01-01T21:04:10.000Z",
+    "lines": {
+      "zoroaster": 46,
+      "zoroasterComments": 0,
+      "src": 36,
+      "comments": 11
+    },
+    "tests": 5,
+    "readme": 63,
+    "sha": "a5d4da7c4cb1a8bcbd0b2045235457383e5d5a6b\n"
+  },
+  {
+    "name": "africa",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/africa",
+    "date": "2018-06-11T09:09:13.000Z",
+    "lines": {
+      "zoroaster": 183,
+      "zoroasterComments": 2,
+      "src": 76,
+      "comments": 36
+    },
+    "tests": 10,
+    "readme": 63,
+    "sha": "32d140b70389e891ded83b1b149653bdad2da021\n"
+  },
+  {
+    "name": "africa",
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "gitPath": "../../analyse-packages/africa",
+    "date": "2018-06-18T15:00:59.000Z",
+    "lines": {
+      "zoroaster": 183,
+      "zoroasterComments": 2,
+      "src": 76,
+      "comments": 36
+    },
+    "tests": 10,
+    "readme": 74,
+    "sha": "3221c9084480e2912ab416665c109df3f0ffd77f\n"
+  },
+  {
+    "name": "africa",
+    "version": "1.1.2",
+    "tag": "v1.1.2",
+    "gitPath": "../../analyse-packages/africa",
+    "date": "2018-07-03T13:18:39.000Z",
+    "lines": {
+      "zoroaster": 183,
+      "zoroasterComments": 2,
+      "src": 77,
+      "comments": 33
+    },
+    "tests": 10,
+    "readme": 114,
+    "sha": "0633427765c465231a60c545a58e3194f24e744c\n"
+  },
+  {
+    "name": "africa",
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/africa",
+    "date": "2018-07-03T16:46:55.000Z",
+    "lines": {
+      "zoroaster": 183,
+      "zoroasterComments": 2,
+      "src": 112,
+      "comments": 35
+    },
+    "tests": 10,
+    "readme": 122,
+    "sha": "d2a38576a9bbeb247fc575335a0825f1eb951bd4\n"
+  }
+]

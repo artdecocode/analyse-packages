@@ -1,0 +1,18 @@
+[
+  {
+    "name": "idio-dev",
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/idio-dev",
+    "date": "2018-05-18T05:18:10.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 67,
+      "comments": 3
+    },
+    "tests": 0,
+    "readme": 51,
+    "sha": "3b9f5670467a43a146da5734f31c2d6bccd1fa89\n"
+  }
+]

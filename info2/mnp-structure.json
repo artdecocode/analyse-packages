@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mnp-structure",
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/mnp-structure",
+    "date": "2018-05-04T07:48:13.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 4,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 11,
+    "sha": "7fe0722d3d7edab1c61b87eb273568d6f9e2f07e\n"
+  }
+]

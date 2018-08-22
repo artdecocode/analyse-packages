@@ -1,0 +1,50 @@
+[
+  {
+    "name": "@a-la/export",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/export",
+    "date": "2018-08-20T19:22:15.000Z",
+    "lines": {
+      "zoroaster": 76,
+      "zoroasterComments": 0,
+      "src": 207,
+      "comments": 10
+    },
+    "tests": 0,
+    "readme": 328,
+    "sha": "33f6c5869dce1e725eb3acfa527ac25406949591\n"
+  },
+  {
+    "name": "@a-la/export",
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/export",
+    "date": "2018-08-21T01:30:13.000Z",
+    "lines": {
+      "zoroaster": 76,
+      "zoroasterComments": 0,
+      "src": 220,
+      "comments": 10
+    },
+    "tests": 0,
+    "readme": 328,
+    "sha": "38b98545041e1e6407b626612bfed411d06a3059\n"
+  },
+  {
+    "name": "@a-la/export",
+    "version": "1.2.1",
+    "tag": "v1.2.1",
+    "gitPath": "../../analyse-packages/export",
+    "date": "2018-08-22T05:07:30.000Z",
+    "lines": {
+      "zoroaster": 76,
+      "zoroasterComments": 0,
+      "src": 220,
+      "comments": 10
+    },
+    "tests": 0,
+    "readme": 328,
+    "sha": "f519dca3d3c1883176a41d9bf0f6756701d61084\n"
+  }
+]

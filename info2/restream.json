@@ -1,0 +1,165 @@
+[
+  {
+    "name": "restream",
+    "version": "1.0.1",
+    "gitHead": "55a683305f243d05cbc8a9dce14000b9a88aa92a",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/restream",
+    "date": "2017-05-20T15:04:56.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 34,
+      "comments": 8
+    },
+    "tests": 0,
+    "readme": 58,
+    "sha": "55a683305f243d05cbc8a9dce14000b9a88aa92a\n"
+  },
+  {
+    "name": "restream",
+    "version": "1.1.0",
+    "gitHead": "680bb1f169d24e7034efc10f62f01b3a2f16641a",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/restream",
+    "date": "2017-05-28T02:27:08.000Z",
+    "lines": {
+      "zoroaster": 193,
+      "zoroasterComments": 0,
+      "src": 68,
+      "comments": 15
+    },
+    "tests": 8,
+    "readme": 109,
+    "sha": "680bb1f169d24e7034efc10f62f01b3a2f16641a\n"
+  },
+  {
+    "name": "restream",
+    "version": "1.2.0",
+    "gitHead": "d1ccc44de7ffced696d06b426846cc88acb8449c",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/restream",
+    "date": "2017-05-29T02:37:26.000Z",
+    "lines": {
+      "zoroaster": 237,
+      "zoroasterComments": 0,
+      "src": 71,
+      "comments": 15
+    },
+    "tests": 9,
+    "readme": 154,
+    "sha": "d1ccc44de7ffced696d06b426846cc88acb8449c\n"
+  },
+  {
+    "name": "restream",
+    "version": "2.0.0",
+    "tag": "v2.0.0",
+    "gitPath": "../../analyse-packages/restream",
+    "date": "2018-05-09T14:19:12.000Z",
+    "lines": {
+      "zoroaster": 271,
+      "zoroasterComments": 3,
+      "src": 62,
+      "comments": 16
+    },
+    "tests": 12,
+    "readme": 146,
+    "sha": "d11f849b19dc1c8cf1d785c98fe07e53ea2a71de\n"
+  },
+  {
+    "name": "restream",
+    "version": "2.0.1",
+    "tag": "v2.0.1",
+    "gitPath": "../../analyse-packages/restream",
+    "date": "2018-05-09T14:23:42.000Z",
+    "lines": {
+      "zoroaster": 271,
+      "zoroasterComments": 3,
+      "src": 62,
+      "comments": 16
+    },
+    "tests": 12,
+    "readme": 146,
+    "sha": "be90dad103b021d71da6e4bc58f432fe078e18b3\n"
+  },
+  {
+    "name": "restream",
+    "version": "2.0.2",
+    "tag": "v2.0.2",
+    "gitPath": "../../analyse-packages/restream",
+    "date": "2018-06-15T12:50:58.000Z",
+    "lines": {
+      "zoroaster": 273,
+      "zoroasterComments": 5,
+      "src": 61,
+      "comments": 24
+    },
+    "tests": 13,
+    "readme": 153,
+    "sha": "b7aacb5c627236a764893fd8171307507966bd3d\n"
+  },
+  {
+    "name": "restream",
+    "version": "2.0.3",
+    "tag": "v2.0.3",
+    "gitPath": "../../analyse-packages/restream",
+    "date": "2018-06-15T13:18:58.000Z",
+    "lines": {
+      "zoroaster": 234,
+      "zoroasterComments": 4,
+      "src": 61,
+      "comments": 24
+    },
+    "tests": 10,
+    "readme": 153,
+    "sha": "0dd8fda3fe756a55d2d9d75291011f2f48714540\n"
+  },
+  {
+    "name": "restream",
+    "version": "2.1.0",
+    "tag": "v2.1.0",
+    "gitPath": "../../analyse-packages/restream",
+    "date": "2018-06-20T19:20:36.000Z",
+    "lines": {
+      "zoroaster": 255,
+      "zoroasterComments": 5,
+      "src": 86,
+      "comments": 40
+    },
+    "tests": 11,
+    "readme": 195,
+    "sha": "2d0500ff57a74133ee4b76d7e723ead662ac9176\n"
+  },
+  {
+    "name": "restream",
+    "version": "3.0.0",
+    "tag": "v3.0.0",
+    "gitPath": "../../analyse-packages/restream",
+    "date": "2018-07-21T03:09:41.000Z",
+    "lines": {
+      "zoroaster": 351,
+      "zoroasterComments": 5,
+      "src": 93,
+      "comments": 29
+    },
+    "tests": 16,
+    "readme": 370,
+    "sha": "8ceda7efc6b1170465af73a67de297c4f7825884\n"
+  },
+  {
+    "name": "restream",
+    "version": "3.1.0",
+    "tag": "v3.1.0",
+    "gitPath": "../../analyse-packages/restream",
+    "date": "2018-08-10T01:25:54.000Z",
+    "lines": {
+      "zoroaster": 504,
+      "zoroasterComments": 6,
+      "src": 174,
+      "comments": 84
+    },
+    "tests": 20,
+    "readme": 679,
+    "sha": "2e6d0d9e2c62fce6d099f349d42387706ab93efa\n"
+  }
+]

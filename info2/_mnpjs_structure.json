@@ -1,0 +1,66 @@
+[
+  {
+    "name": "@mnpjs/structure",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/structure",
+    "date": "2018-07-16T23:11:53.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 4,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 11,
+    "sha": "2098568d4fd54375aacfe3417ac0c9929eca3806\n"
+  },
+  {
+    "name": "@mnpjs/structure",
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "gitPath": "../../analyse-packages/structure",
+    "date": "2018-07-16T23:16:01.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 4,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 11,
+    "sha": "c96fba79ca73ec0a5b6058fcab17567248c3ba8c\n"
+  },
+  {
+    "name": "@mnpjs/structure",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/structure",
+    "date": "2018-07-17T01:20:19.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 2,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 11,
+    "sha": "a66064d3ea28d4ede83346a593176ba4d2016f14\n"
+  },
+  {
+    "name": "@mnpjs/structure",
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "gitPath": "../../analyse-packages/structure",
+    "date": "2018-07-17T01:24:59.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 2,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 11,
+    "sha": "7774e0eb19c81bd859e257c34d12634bf07b0b9d\n"
+  }
+]

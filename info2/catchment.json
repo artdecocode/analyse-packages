@@ -1,0 +1,69 @@
+[
+  {
+    "name": "catchment",
+    "version": "1.0.0",
+    "gitHead": "c5d2030d3e2338d1e22a7a7bcdb92e26af65da93",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/catchment",
+    "date": "2017-04-18T21:29:10.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 31,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 37,
+    "sha": "c5d2030d3e2338d1e22a7a7bcdb92e26af65da93\n"
+  },
+  {
+    "name": "catchment",
+    "version": "2.0.0",
+    "gitHead": "15e07eea160d30e5c573aae4ed95d0f77bd655d9",
+    "tag": "v2.0.0",
+    "gitPath": "../../analyse-packages/catchment",
+    "date": "2018-01-02T03:33:16.000Z",
+    "lines": {
+      "zoroaster": 58,
+      "zoroasterComments": 0,
+      "src": 39,
+      "comments": 8
+    },
+    "tests": 4,
+    "readme": 118,
+    "sha": "15e07eea160d30e5c573aae4ed95d0f77bd655d9\n"
+  },
+  {
+    "name": "catchment",
+    "version": "2.0.1",
+    "gitHead": "bfea298276487783b0fc12ef0a5021dcee14d3d0",
+    "tag": "v2.0.1",
+    "gitPath": "../../analyse-packages/catchment",
+    "date": "2018-01-02T03:53:01.000Z",
+    "lines": {
+      "zoroaster": 58,
+      "zoroasterComments": 0,
+      "src": 39,
+      "comments": 8
+    },
+    "tests": 4,
+    "readme": 118,
+    "sha": "bfea298276487783b0fc12ef0a5021dcee14d3d0\n"
+  },
+  {
+    "name": "catchment",
+    "version": "3.0.0",
+    "tag": "v3.0.0",
+    "gitPath": "../../analyse-packages/catchment",
+    "date": "2018-07-20T23:11:51.000Z",
+    "lines": {
+      "zoroaster": 59,
+      "zoroasterComments": 1,
+      "src": 44,
+      "comments": 23
+    },
+    "tests": 5,
+    "readme": 153,
+    "sha": "737dfffbd5bd5215c09626f4a8d792f3bdefd0c0\n"
+  }
+]

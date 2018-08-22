@@ -1,0 +1,19 @@
+[
+  {
+    "name": "pampipe",
+    "version": "1.0.1",
+    "gitHead": "fc338647e729493d60b7bffdfb4f3decdb462dfb",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/pampipe",
+    "date": "2016-06-12T20:13:16.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 66,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 210,
+    "sha": "fc338647e729493d60b7bffdfb4f3decdb462dfb\n"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "name": "makepromise",
+    "version": "1.0.0",
+    "gitHead": "fd0e38b429b9c0dc7e4cffe2bd59301000f64067",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/makepromise",
+    "date": "2017-05-20T19:03:53.000Z",
+    "lines": {
+      "zoroaster": 209,
+      "zoroasterComments": 0,
+      "src": 23,
+      "comments": 8
+    },
+    "tests": 12,
+    "readme": 92,
+    "sha": "fd0e38b429b9c0dc7e4cffe2bd59301000f64067\n"
+  },
+  {
+    "name": "makepromise",
+    "version": "1.1.0",
+    "gitHead": "f361f2e3335c6fc69857cf2e7284e81e6cdda233",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/makepromise",
+    "date": "2017-12-29T16:06:27.000Z",
+    "lines": {
+      "zoroaster": 211,
+      "zoroasterComments": 1,
+      "src": 44,
+      "comments": 8
+    },
+    "tests": 19,
+    "readme": 111,
+    "sha": "f361f2e3335c6fc69857cf2e7284e81e6cdda233\n"
+  },
+  {
+    "name": "makepromise",
+    "version": "1.1.1",
+    "gitHead": "dca005bc610387ed027054a07518e52fa5d347e3",
+    "tag": "v1.1.1",
+    "gitPath": "../../analyse-packages/makepromise",
+    "date": "2017-12-29T17:08:54.000Z",
+    "lines": {
+      "zoroaster": 224,
+      "zoroasterComments": 1,
+      "src": 46,
+      "comments": 8
+    },
+    "tests": 20,
+    "readme": 111,
+    "sha": "dca005bc610387ed027054a07518e52fa5d347e3\n"
+  }
+]

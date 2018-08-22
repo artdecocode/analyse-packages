@@ -1,0 +1,178 @@
+[
+  {
+    "name": "mnp-idio",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "date": "2018-05-02T02:16:56.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 0,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 10,
+    "sha": "a9c04bf2fb6b21c7fb5a73a934fc775545eb9b07\n"
+  },
+  {
+    "name": "mnp-idio",
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "date": "2018-05-02T02:24:25.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 0,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 10,
+    "sha": "a16d616944d8117cd28aef035700035012e74f93\n"
+  },
+  {
+    "name": "mnp-idio",
+    "version": "1.0.3",
+    "tag": "v1.0.3",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "date": "2018-05-02T02:30:40.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 0,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 10,
+    "sha": "f99be6ee19d20927a2ef3d35562727b68aea9cd0\n"
+  },
+  {
+    "name": "mnp-idio",
+    "version": "1.0.4",
+    "tag": "v1.0.4",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "date": "2018-05-02T02:40:40.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 0,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 13,
+    "sha": "a889f8bc7169646fabd6678dabd2fa30d4de916a\n"
+  },
+  {
+    "name": "mnp-idio",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "date": "2018-05-02T02:43:45.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 4,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 13,
+    "sha": "dbeb4fb9408d87959c29b5ca14e0bfbd9abee8e0\n"
+  },
+  {
+    "name": "mnp-idio",
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "date": "2018-05-02T03:53:03.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 4,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 13,
+    "sha": "5e2798516d143938617285cc839b20127e6b0ab7\n"
+  },
+  {
+    "name": "mnp-idio",
+    "version": "1.2.1",
+    "tag": "v1.2.1",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "date": "2018-05-02T03:58:54.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 4,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 13,
+    "sha": "de1850c671e68f7580212a450fefa71e03509167\n"
+  },
+  {
+    "name": "mnp-idio",
+    "version": "1.2.2",
+    "tag": "v1.2.2",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "date": "2018-05-02T04:04:32.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 4,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 13,
+    "sha": "5ea6cd0a9dcc5df86dab0cacb972a21bc79e6ade\n"
+  },
+  {
+    "name": "mnp-idio",
+    "version": "1.2.3",
+    "tag": "v1.2.3",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "date": "2018-05-02T05:16:37.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 4,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 13,
+    "sha": "a650272bdf5c554417a49d9e857fe7060994f860\n"
+  },
+  {
+    "name": "mnp-idio",
+    "version": "1.2.4",
+    "tag": "v1.2.4",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "date": "2018-05-02T05:18:29.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 4,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 13,
+    "sha": "b7b8b38886783ec9a09786043154868a8f840b5a\n"
+  },
+  {
+    "name": "mnp-idio",
+    "version": "1.2.5",
+    "tag": "v1.2.5",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "date": "2018-05-02T05:22:04.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 4,
+      "comments": 0
+    },
+    "tests": 0,
+    "readme": 13,
+    "sha": "8d20d86cef6bc9f920030d819b966f8b70cf7a22\n"
+  }
+]

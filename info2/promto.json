@@ -1,0 +1,36 @@
+[
+  {
+    "name": "promto",
+    "version": "1.0.0",
+    "gitHead": "092a27195917593b624d60e42e007fe72338f0f7",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/promto",
+    "date": "2017-05-14T22:20:28.000Z",
+    "lines": {
+      "zoroaster": 95,
+      "zoroasterComments": 0,
+      "src": 63,
+      "comments": 13
+    },
+    "tests": 7,
+    "readme": 55,
+    "sha": "092a27195917593b624d60e42e007fe72338f0f7\n"
+  },
+  {
+    "name": "promto",
+    "version": "1.0.1",
+    "gitHead": "0ddf7707140e086283d81ae30e46b3f7ea90fbbe",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/promto",
+    "date": "2017-05-14T22:34:51.000Z",
+    "lines": {
+      "zoroaster": 95,
+      "zoroasterComments": 0,
+      "src": 62,
+      "comments": 13
+    },
+    "tests": 7,
+    "readme": 55,
+    "sha": "0ddf7707140e086283d81ae30e46b3f7ea90fbbe\n"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "@a-la/context",
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/context",
+    "date": "2018-08-16T16:32:15.000Z",
+    "lines": {
+      "zoroaster": 73,
+      "zoroasterComments": 1,
+      "src": 31,
+      "comments": 19
+    },
+    "tests": 6,
+    "readme": 111,
+    "sha": "af86269080a3d795369531b568fd761b9ce17ebe\n"
+  },
+  {
+    "name": "@a-la/context",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/context",
+    "date": "2018-08-22T03:57:24.000Z",
+    "lines": {
+      "zoroaster": 89,
+      "zoroasterComments": 1,
+      "src": 39,
+      "comments": 23
+    },
+    "tests": 7,
+    "readme": 116,
+    "sha": "ff35bf33afb9176a4aebe29a347b3844d9f2a8e1\n"
+  },
+  {
+    "name": "@a-la/context",
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "gitPath": "../../analyse-packages/context",
+    "date": "2018-08-22T04:01:59.000Z",
+    "lines": {
+      "zoroaster": 89,
+      "zoroasterComments": 1,
+      "src": 39,
+      "comments": 23
+    },
+    "tests": 7,
+    "readme": 116,
+    "sha": "57ffd416859fb7a5f32bf5447963d3272fa9c317\n"
+  }
+]

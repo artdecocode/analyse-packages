@@ -1,0 +1,52 @@
+[
+  {
+    "name": "noddy",
+    "version": "1.0.0",
+    "gitHead": "cf1e9db94a84372ef2333ceffa6373f9db9ea4b2",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/noddy",
+    "date": "2018-01-02T02:26:24.000Z",
+    "lines": {
+      "zoroaster": 65,
+      "zoroasterComments": 0,
+      "src": 35,
+      "comments": 17
+    },
+    "tests": 9,
+    "readme": 54,
+    "sha": "cf1e9db94a84372ef2333ceffa6373f9db9ea4b2\n"
+  },
+  {
+    "name": "noddy",
+    "version": "1.1.0",
+    "gitHead": "835ea96eba237aa8fc06668e216860b3df6bd7cf",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/noddy",
+    "date": "2018-01-02T02:50:57.000Z",
+    "lines": {
+      "zoroaster": 182,
+      "zoroasterComments": 0,
+      "src": 102,
+      "comments": 34
+    },
+    "tests": 30,
+    "readme": 96,
+    "sha": "835ea96eba237aa8fc06668e216860b3df6bd7cf\n"
+  },
+  {
+    "name": "noddy",
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "gitPath": "../../analyse-packages/noddy",
+    "date": "2018-03-14T16:23:14.000Z",
+    "lines": {
+      "zoroaster": 182,
+      "zoroasterComments": 0,
+      "src": 102,
+      "comments": 34
+    },
+    "tests": 30,
+    "readme": 96,
+    "sha": "c085704b966edcb643408ce95476ee901eccb40a\n"
+  }
+]

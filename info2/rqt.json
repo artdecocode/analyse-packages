@@ -1,0 +1,151 @@
+[
+  {
+    "name": "rqt",
+    "version": "0.1.1",
+    "gitHead": "f434a0c2a4cc005c3b677eb2da23a4e279da03d4",
+    "tag": "v0.1.1",
+    "gitPath": "../../analyse-packages/rqt",
+    "date": "2017-09-29T20:51:54.000Z",
+    "lines": {
+      "zoroaster": 16,
+      "zoroasterComments": 0,
+      "src": 7,
+      "comments": 3
+    },
+    "tests": 2,
+    "readme": 18,
+    "sha": "f434a0c2a4cc005c3b677eb2da23a4e279da03d4\n"
+  },
+  {
+    "name": "rqt",
+    "version": "0.1.2",
+    "gitHead": "2b1f440c77931e4f220ced3caf5230d03bf7ad11",
+    "tag": "v0.1.2",
+    "gitPath": "../../analyse-packages/rqt",
+    "date": "2017-09-29T22:17:01.000Z",
+    "lines": {
+      "zoroaster": 31,
+      "zoroasterComments": 0,
+      "src": 20,
+      "comments": 4
+    },
+    "tests": 3,
+    "readme": 21,
+    "sha": "2b1f440c77931e4f220ced3caf5230d03bf7ad11\n"
+  },
+  {
+    "name": "rqt",
+    "version": "0.2.0",
+    "gitHead": "d96139ed5d84abfdd181894dba16169c37b4f348",
+    "tag": "v0.2.0",
+    "gitPath": "../../analyse-packages/rqt",
+    "date": "2017-12-25T23:35:59.000Z",
+    "lines": {
+      "zoroaster": 89,
+      "zoroasterComments": 0,
+      "src": 69,
+      "comments": 4
+    },
+    "tests": 10,
+    "readme": 59,
+    "sha": "d96139ed5d84abfdd181894dba16169c37b4f348\n"
+  },
+  {
+    "name": "rqt",
+    "version": "0.2.1",
+    "gitHead": "522de41cb698bd00b447523f63653d59879f8a7e",
+    "tag": "v0.2.1",
+    "gitPath": "../../analyse-packages/rqt",
+    "date": "2017-12-26T18:44:18.000Z",
+    "lines": {
+      "zoroaster": 89,
+      "zoroasterComments": 0,
+      "src": 69,
+      "comments": 4
+    },
+    "tests": 10,
+    "readme": 59,
+    "sha": "522de41cb698bd00b447523f63653d59879f8a7e\n"
+  },
+  {
+    "name": "rqt",
+    "version": "0.2.2",
+    "gitHead": "c53be2720ddf45b186b801ce0c7551b1b2cca47c",
+    "tag": "v0.2.2",
+    "gitPath": "../../analyse-packages/rqt",
+    "date": "2017-12-26T18:48:13.000Z",
+    "lines": {
+      "zoroaster": 89,
+      "zoroasterComments": 0,
+      "src": 69,
+      "comments": 4
+    },
+    "tests": 10,
+    "readme": 59,
+    "sha": "c53be2720ddf45b186b801ce0c7551b1b2cca47c\n"
+  },
+  {
+    "name": "rqt",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/rqt",
+    "date": "2018-05-01T20:21:43.000Z",
+    "lines": {
+      "zoroaster": 97,
+      "zoroasterComments": 0,
+      "src": 71,
+      "comments": 4
+    },
+    "tests": 11,
+    "readme": 85,
+    "sha": "b515cf83cbf7f13671bfa6e6d1e7fde7b7e5ab94\n"
+  },
+  {
+    "name": "rqt",
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/rqt",
+    "date": "2018-06-19T18:14:51.000Z",
+    "lines": {
+      "zoroaster": 122,
+      "zoroasterComments": 1,
+      "src": 76,
+      "comments": 19
+    },
+    "tests": 12,
+    "readme": 85,
+    "sha": "3eb926b3f231975b8e2fb0a1d696a3e55f5d936e\n"
+  },
+  {
+    "name": "rqt",
+    "version": "1.2.1",
+    "tag": "v1.2.1",
+    "gitPath": "../../analyse-packages/rqt",
+    "date": "2018-06-19T18:39:40.000Z",
+    "lines": {
+      "zoroaster": 122,
+      "zoroasterComments": 1,
+      "src": 76,
+      "comments": 19
+    },
+    "tests": 12,
+    "readme": 85,
+    "sha": "ccdd31c9b72ffabcb90c61812477d1b131ccd1cf\n"
+  },
+  {
+    "name": "rqt",
+    "version": "2.0.0",
+    "tag": "v2.0.0",
+    "gitPath": "../../analyse-packages/rqt",
+    "date": "2018-06-20T03:18:42.000Z",
+    "lines": {
+      "zoroaster": 222,
+      "zoroasterComments": 2,
+      "src": 177,
+      "comments": 30
+    },
+    "tests": 19,
+    "readme": 120,
+    "sha": "228caf28795c78d697fbb058c419b988da35ae86\n"
+  }
+]

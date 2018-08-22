@@ -1,0 +1,98 @@
+[
+  {
+    "name": "argufy",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/argufy",
+    "date": "2018-06-11T09:59:09.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 39,
+      "comments": 1
+    },
+    "tests": 0,
+    "readme": 58,
+    "sha": "95c91af67c90e80f633917b4859ac8f463dda433\n"
+  },
+  {
+    "name": "argufy",
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "gitPath": "../../analyse-packages/argufy",
+    "date": "2018-06-12T04:46:33.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 46,
+      "comments": 42
+    },
+    "tests": 0,
+    "readme": 58,
+    "sha": "b495634537708492b76c14c5d3da53daf65d69b4\n"
+  },
+  {
+    "name": "argufy",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/argufy",
+    "date": "2018-06-14T23:32:05.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 60,
+      "comments": 39
+    },
+    "tests": 0,
+    "readme": 68,
+    "sha": "7c7ef710f3cdcf9f0c5bc4c1a7319155f25fa822\n"
+  },
+  {
+    "name": "argufy",
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "gitPath": "../../analyse-packages/argufy",
+    "date": "2018-06-14T23:38:19.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 57,
+      "comments": 45
+    },
+    "tests": 0,
+    "readme": 68,
+    "sha": "a7ffbde363700119ce714bc5410deeaaf1e94983\n"
+  },
+  {
+    "name": "argufy",
+    "version": "1.1.2",
+    "tag": "v1.1.2",
+    "gitPath": "../../analyse-packages/argufy",
+    "date": "2018-06-16T10:59:21.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 57,
+      "comments": 45
+    },
+    "tests": 0,
+    "readme": 68,
+    "sha": "15fc516623ce9a6abcc8b9d85b209ea0e07b74b0\n"
+  },
+  {
+    "name": "argufy",
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/argufy",
+    "date": "2018-06-24T00:11:30.000Z",
+    "lines": {
+      "zoroaster": 0,
+      "zoroasterComments": 0,
+      "src": 80,
+      "comments": 53
+    },
+    "tests": 0,
+    "readme": 83,
+    "sha": "dd93a19b0ca880d940eea25c9219e91b8650a29c\n"
+  }
+]
