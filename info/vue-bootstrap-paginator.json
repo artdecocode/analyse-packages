@@ -1,0 +1,15 @@
+[
+  {
+    "version": "1.0.0",
+    "gitHead": "0137363586f1ac2da35c57e9d60f3555c1d4475f",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/vue-bootstrap-paginator",
+    "name": "vue-bootstrap-paginator",
+    "readmeLength": 163,
+    "date": "2017-01-04T07:40:57.000Z",
+    "lines": {
+      "source": 124,
+      "sourceComments": 0
+    }
+  }
+]

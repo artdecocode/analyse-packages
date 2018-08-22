@@ -1,0 +1,47 @@
+[
+  {
+    "version": "1.0.0",
+    "gitHead": "369a0f0c10a3a367e1aa3d6d6db8d6e58b484e76",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/electron-vk-oauth2",
+    "name": "electron-vk-oauth2",
+    "readmeLength": 112,
+    "date": "2016-07-22T19:20:51.000Z",
+    "lines": {
+      "index": 80,
+      "indexComments": 5,
+      "structure": 80,
+      "structureComments": 5
+    }
+  },
+  {
+    "version": "1.0.1",
+    "gitHead": "e22639348e0817f6425586b65277639ae2e22595",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/electron-vk-oauth2",
+    "name": "electron-vk-oauth2",
+    "readmeLength": 112,
+    "date": "2016-07-22T19:31:01.000Z",
+    "lines": {
+      "index": 80,
+      "indexComments": 5,
+      "structure": 80,
+      "structureComments": 5
+    }
+  },
+  {
+    "version": "1.0.2",
+    "gitHead": "398a68fb004396f3f625d2312461a36eb31010cb",
+    "tag": "v1.0.2",
+    "gitPath": "../../analyse-packages/electron-vk-oauth2",
+    "name": "electron-vk-oauth2",
+    "readmeLength": 112,
+    "date": "2016-07-22T19:34:27.000Z",
+    "lines": {
+      "index": 80,
+      "indexComments": 5,
+      "structure": 80,
+      "structureComments": 5
+    }
+  }
+]

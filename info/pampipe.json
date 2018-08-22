@@ -1,0 +1,32 @@
+[
+  {
+    "version": "1.0.0",
+    "gitHead": "5454beb372c7dfb35ce32160d148ef7dba2ba584",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/pampipe",
+    "name": "pampipe",
+    "readmeLength": 220,
+    "date": "2016-06-12T20:00:57.000Z",
+    "lines": {
+      "index": 66,
+      "indexComments": 0,
+      "structure": 66,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "1.0.1",
+    "gitHead": "fc338647e729493d60b7bffdfb4f3decdb462dfb",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/pampipe",
+    "name": "pampipe",
+    "readmeLength": 220,
+    "date": "2016-06-12T20:13:16.000Z",
+    "lines": {
+      "index": 66,
+      "indexComments": 0,
+      "structure": 66,
+      "structureComments": 0
+    }
+  }
+]

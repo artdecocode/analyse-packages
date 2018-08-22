@@ -1,0 +1,92 @@
+[
+  {
+    "version": "10.25.0",
+    "gitHead": "ba9acbeea7704fe48e2afed1437a0f1a80ccd2e5",
+    "tag": "v10.25.0",
+    "gitPath": "../../analyse-packages/node-exiftool.pl",
+    "name": "exiftool.pl",
+    "readmeLength": 37,
+    "date": "2016-08-20T22:54:34.000Z",
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "10.25.1",
+    "gitHead": "412477a3d0398072223816353c2500897ec6bba0",
+    "tag": "v10.25.1",
+    "gitPath": "../../analyse-packages/node-exiftool.pl",
+    "name": "exiftool.pl",
+    "readmeLength": 37,
+    "date": "2016-08-21T16:56:21.000Z",
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "10.25.2",
+    "gitHead": "b8793a12c692b29ee65dfc069696628104dfcae3",
+    "tag": "v10.25.2",
+    "gitPath": "../../analyse-packages/node-exiftool.pl",
+    "name": "exiftool.pl",
+    "readmeLength": 37,
+    "date": "2016-08-21T17:10:16.000Z",
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "10.33.0",
+    "gitHead": "420fb24a9f9ae5cc9549d4c9216b6ca42a7d82b0",
+    "tag": "v10.33.0",
+    "gitPath": "../../analyse-packages/node-exiftool.pl",
+    "name": "exiftool.pl",
+    "readmeLength": 37,
+    "date": "2016-11-20T08:02:36.000Z",
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "10.51.0",
+    "gitHead": "364dd838782751d6bf2b282b7c4727830a3ba21c",
+    "tag": "v10.51.0",
+    "gitPath": "../../analyse-packages/node-exiftool.pl",
+    "name": "exiftool.pl",
+    "readmeLength": 37,
+    "date": "2017-05-15T21:09:07.000Z",
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "10.53.0",
+    "gitHead": "a8ce24c39b141943b44e16cafccef10951823407",
+    "tag": "v10.53.0",
+    "gitPath": "../../analyse-packages/node-exiftool.pl",
+    "name": "exiftool.pl",
+    "readmeLength": 37,
+    "date": "2017-05-17T19:44:51.000Z",
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  }
+]

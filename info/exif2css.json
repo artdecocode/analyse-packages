@@ -1,0 +1,50 @@
+[
+  {
+    "version": "1.0.0",
+    "gitHead": "3ba3dea05cd9ebf3a3834e8154640feb66f94fb8",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/exif2css",
+    "name": "exif2css",
+    "readmeLength": 137,
+    "date": "2017-01-06T17:34:32.000Z",
+    "zoroasterTests": 14,
+    "lines": {
+      "zoroaster": 142,
+      "zoroasterComments": 0,
+      "source": 39,
+      "sourceComments": 0
+    }
+  },
+  {
+    "version": "1.1.0",
+    "gitHead": "d91936aa1f1faed3ac40260aec002238d3d3ae48",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/exif2css",
+    "name": "exif2css",
+    "readmeLength": 137,
+    "date": "2017-01-08T07:44:52.000Z",
+    "zoroasterTests": 41,
+    "lines": {
+      "zoroaster": 297,
+      "zoroasterComments": 0,
+      "source": 97,
+      "sourceComments": 0
+    }
+  },
+  {
+    "version": "1.2.0",
+    "gitHead": "0c846cece1e2781f799481f73aad4913f02e4e8c",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/exif2css",
+    "name": "exif2css",
+    "readmeLength": 137,
+    "date": "2017-01-08T08:50:31.000Z",
+    "zoroasterTests": 55,
+    "lines": {
+      "zoroaster": 395,
+      "zoroasterComments": 0,
+      "source": 113,
+      "sourceComments": 0
+    }
+  }
+]

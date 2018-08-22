@@ -1,0 +1,81 @@
+[
+  {
+    "version": "0.1.0",
+    "gitHead": "217213efa4b416cfd0ad28de9d2a8088d2e5bd4f",
+    "tag": "v0.1.0",
+    "gitPath": "../../analyse-packages/photo-partition",
+    "name": "photo-partition",
+    "readmeLength": 237,
+    "date": "2016-11-21T00:26:09.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "index": 58,
+      "indexComments": 9,
+      "structure": 58,
+      "structureComments": 9
+    }
+  },
+  {
+    "version": "0.1.1",
+    "gitHead": "cbda189f1e64befe857e521a4cbed4d109dd496b",
+    "tag": "v0.1.1",
+    "gitPath": "../../analyse-packages/photo-partition",
+    "name": "photo-partition",
+    "readmeLength": 237,
+    "date": "2016-12-27T15:03:42.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "index": 59,
+      "indexComments": 9,
+      "structure": 59,
+      "structureComments": 9
+    }
+  },
+  {
+    "version": "0.1.2",
+    "gitHead": "9690738d861dc5c9c40ede41ad931dc250cf00b9",
+    "tag": "v0.1.2",
+    "gitPath": "../../analyse-packages/photo-partition",
+    "name": "photo-partition",
+    "readmeLength": 237,
+    "date": "2017-01-03T21:04:44.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "index": 59,
+      "indexComments": 9,
+      "structure": 59,
+      "structureComments": 9
+    }
+  },
+  {
+    "version": "0.1.3",
+    "gitHead": "9a49e8bc0650bfb4f0f0d03652f56a868b582d3e",
+    "tag": "v0.1.3",
+    "gitPath": "../../analyse-packages/photo-partition",
+    "name": "photo-partition",
+    "readmeLength": 237,
+    "date": "2018-02-22T20:48:40.000Z",
+    "zoroasterTests": 11,
+    "lines": {
+      "zoroaster": 61,
+      "zoroasterComments": 0,
+      "source": 151,
+      "sourceComments": 49
+    }
+  },
+  {
+    "version": "0.1.4",
+    "tag": "v0.1.4",
+    "gitPath": "../../analyse-packages/photo-partition",
+    "name": "photo-partition",
+    "readmeLength": 237,
+    "date": "2018-08-22T10:58:32.000Z",
+    "zoroasterTests": 11,
+    "lines": {
+      "zoroaster": 61,
+      "zoroasterComments": 0,
+      "source": 151,
+      "sourceComments": 49
+    }
+  }
+]

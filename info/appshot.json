@@ -1,0 +1,116 @@
+[
+  {
+    "version": "1.0.0",
+    "gitHead": "73f3a1ff60fc22c9d5ebbde604a22773cd95e6b9",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/appshot",
+    "name": "appshot",
+    "readmeLength": 141,
+    "date": "2017-02-01T02:32:48.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "source": 225,
+      "sourceComments": 0
+    }
+  },
+  {
+    "version": "1.0.1",
+    "gitHead": "a1ac7beddd304297889183eb0e42452338e55ec9",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/appshot",
+    "name": "appshot",
+    "readmeLength": 141,
+    "date": "2017-02-01T02:41:33.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "source": 225,
+      "sourceComments": 0
+    }
+  },
+  {
+    "version": "1.1.0",
+    "gitHead": "248cd5c163620c894276e5abecf48fc6d6973b59",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/appshot",
+    "name": "appshot",
+    "readmeLength": 141,
+    "date": "2017-02-01T21:49:06.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "source": 225,
+      "sourceComments": 0
+    }
+  },
+  {
+    "version": "2.0.0",
+    "tag": "v2.0.0",
+    "gitPath": "../../analyse-packages/appshot",
+    "name": "appshot",
+    "readmeLength": 141,
+    "date": "2018-05-31T18:28:54.000Z",
+    "lines": {
+      "source": 568,
+      "sourceComments": 73
+    }
+  },
+  {
+    "version": "2.1.0",
+    "tag": "v2.1.0",
+    "gitPath": "../../analyse-packages/appshot",
+    "name": "appshot",
+    "readmeLength": 141,
+    "date": "2018-06-11T13:20:15.000Z",
+    "lines": {
+      "source": 661,
+      "sourceComments": 75
+    }
+  },
+  {
+    "version": "2.1.1",
+    "tag": "v2.1.1",
+    "gitPath": "../../analyse-packages/appshot",
+    "name": "appshot",
+    "readmeLength": 141,
+    "date": "2018-06-12T00:25:11.000Z",
+    "lines": {
+      "source": 661,
+      "sourceComments": 75
+    }
+  },
+  {
+    "version": "2.1.2",
+    "tag": "v2.1.2",
+    "gitPath": "../../analyse-packages/appshot",
+    "name": "appshot",
+    "readmeLength": 141,
+    "date": "2018-06-12T07:16:00.000Z",
+    "lines": {
+      "source": 661,
+      "sourceComments": 75
+    }
+  },
+  {
+    "version": "2.2.0",
+    "tag": "v2.2.0",
+    "gitPath": "../../analyse-packages/appshot",
+    "name": "appshot",
+    "readmeLength": 141,
+    "date": "2018-06-12T07:40:14.000Z",
+    "lines": {
+      "source": 676,
+      "sourceComments": 76
+    }
+  },
+  {
+    "version": "2.2.1",
+    "tag": "v2.2.1",
+    "gitPath": "../../analyse-packages/appshot",
+    "name": "appshot",
+    "readmeLength": 141,
+    "date": "2018-08-22T11:04:36.000Z",
+    "lines": {
+      "source": 676,
+      "sourceComments": 76
+    }
+  }
+]
