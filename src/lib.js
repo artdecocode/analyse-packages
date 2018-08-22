@@ -27,9 +27,9 @@ export const cloneAll = async (packages) => {
   }, Promise.resolve())
 }
 
-export const getCachePath = (name) => {
+export const getCachePath = (name, c = CACHE) => {
   const n = `${name}.json`.replace(/[@/]/g, '_')
-  const path = join(CACHE, n)
+  const path = join(c, n)
   return path
 }
 

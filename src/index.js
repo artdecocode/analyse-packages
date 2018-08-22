@@ -30,65 +30,95 @@ export default async function analysePackages(config = {}) {
   console.log('Total: %s', packages.length)
 
   const gitDirs = await bosom(GIT_CACHE)
-  const name = packages[0]
+  await packages.reduce(async (acc, current) => {
+    await acc
+    const cp = getCachePath(current, 'info')
+    try {
+      await bosom(cp)
+      return
+    } catch (err) {/**/}
+    const res = await getPackageInfo(gitDirs, current)
+    await bosom(cp, res, { space: 2 })
+  }, {})
+}
+
+const getPackageInfo = async (gitDirs, name) => {
   const dir = gitDirs[name]
   const gitPath = join(GIT, dir)
-  console.log(dir)
-  // const path = getCachePath(p)
-  const { versions } = await readInfo(name)
+  console.log('* %s *', dir)
+
+  const { versions, readme } = await readInfo(name)
+
+  const { length: readmeLength } = readme.split('\n')
+
   const vv = Object.keys(versions).map((version) => {
     const {
+      name: n,
       gitHead,
       scripts: { test } = {},
       dependencies: deps = {},
       devDependencies: devDeps = {},
     } = versions[version]
     const tag = `v${version}`
-    const hasTests = /zoroaster/.test(test)
+    const hasTests = n == 'zoroaster' || /zoroaster/.test(test)
     return {
-      version, gitHead, tag, gitPath, name, hasTests, deps, devDeps,
+      version, gitHead, tag, gitPath, name, hasTests, deps, devDeps, readmeLength,
     }
   })
   // console.log(vv)
   let prevDeps = {}, prevDevDeps = {}
-  await vv.reduce(async (acc, { deps, devDeps, hasTests, ...current }) => {
+  const result = await vv.reduce(async (acc, { deps, devDeps, hasTests, ...current }) => {
     const res = await acc
-    await gitReset(current)
+    const hasReset = current.gitHead ? await gitReset(current) : await gitResetVersion(current)
+    if (!hasReset) return res
+
     const date = await gitDate(current)
-    let zoroasterTests = 0,
-      zoroasterTestLines = 0,
-      zoroasterTestComments = 0,
-      testLines = 0,
-      testComments = 0
+    let zoroasterTests,
+      zoroasterTestLines,
+      zoroasterTestComments
     if (hasTests) {
       if (!isEqual(deps, prevDeps) || !isEqual(devDeps, prevDevDeps)) {
         await yarn(current)
         prevDeps = deps
         prevDevDeps = devDeps
-      } else {
-        console.log('dependencies are the same')
       }
       zoroasterTests = await getTests(current)
       ;({
         lines: zoroasterTestLines,
         comments: zoroasterTestComments,
       } = await getLines(current, 'test/spec'))
-    } else {
-      ({ lines: testLines, comments: testComments } = await getLines(current, 'test/spec'))
     }
     const { lines: sl, comments: sc } = await getLines(current, 'src')
     const { lines: il, comments: ic } = await getLines(current, 'index.js')
+    const { lines: stl, comments: stc } = await getLines(current, 'index.js')
 
-    printLines('zoroaster test lines', zoroasterTestLines, zoroasterTestComments)
-    printLines('test lines', testLines, testComments)
-    printLines('source lines', sl, sc)
-    printLines('index lines', il, ic)
+    // printLines('zoroaster test lines', zoroasterTestLines, zoroasterTestComments)
+    // printLines('test lines', testLines, testComments)
+    // printLines('source lines', sl, sc)
+    // printLines('index lines', il, ic)
+    // printLines('structure lines', stl, stc)
 
-    return [...res, {
+    const currentRes = {
       ...current,
       date,
-    }]
+      zoroasterTests,
+      lines: {
+        zoroaster: zoroasterTestLines,
+        zoroasterComments: zoroasterTestComments,
+        // test: testLines,
+        // testComments,
+        source: sl,
+        sourceComments: sc,
+        index: il,
+        indexComments: ic,
+        structure: stl,
+        structureComments: stc,
+      },
+    }
+    return [...res, currentRes]
   }, [])
+
+  return result
 }
 
 const printLines = (type, lines, comments) => {
@@ -144,22 +174,43 @@ const yarn = async ({ gitPath }) => {
   await promise
 }
 
-const getTests = async ({ gitPath, name }) => {
-  const { promise } = spawn('zoroaster', ['test/spec'], {
+const getTests = async ({ gitPath, name, retries = 0 }) => {
+  const { promise } = spawn('zoroaster', ['test/spec', '-a'], {
     cwd: gitPath,
     env: {
       ...process.env,
       ZOROASTER_SKIP: 1,
+      // DEBUG: 1,
     },
   })
   const { stdout, stderr } = await promise
   const res = /Executed (\d+)/.exec(stdout)
   if (!res) {
-    console.warn(`Could not get number of tests for ${name}: ${stdout}, ${stderr}`)
+    console.warn(`[!] Could not get number of tests for ${name}. ${stdout || stderr}`)
+    const m = /Cannot find module '(.+)'/.exec(stderr)
+    if (m && retries < 1) {
+      const [, mod] = m
+      await tryInstallMod({ gitPath }, mod)
+      const r = await getTests({ gitPath, name, retries: 1 })
+      if (!r) {
+        console.warn('Could not run tests after installing module.')
+      } else {
+        console.warn('Successfully fixed missing dependency.')
+      }
+      return r
+    }
     return
   }
   const [, n] = res
-  return n
+  return parseInt(n)
+}
+
+const tryInstallMod = async ({ gitPath }, mod) => {
+  console.log('[i] installing %s', mod)
+  const { promise } = spawn('yarn', ['add', mod], {
+    cwd: gitPath,
+  })
+  await promise
 }
 
 const gitDate = async ({ gitPath }) => {
@@ -172,12 +223,31 @@ const gitDate = async ({ gitPath }) => {
 }
 
 const gitReset = async ({ gitHead, gitPath, version, name }) => {
-  console.log('Resetting %s:%s (%s)', name, version, gitHead )
+  console.log(' v%s (%s)', version, gitHead )
   const { promise } = spawn('git', ['reset', '--hard', gitHead], {
     cwd: gitPath,
   })
-  const { stdout } = await promise
-  if (!stdout.startsWith('HEAD is now')) throw new Error(stdout)
+  const { stdout, stderr } = await promise
+  if (stdout.startsWith('HEAD is now')) {
+    return true
+  }
+  console.warn('[!] %s', stdout || stderr)
+  const r = await gitResetVersion({ gitHead, gitPath, version, name })
+  if (r) return true
+  return false
+}
+
+const gitResetVersion = async ({ gitPath, version }) => {
+  console.log(' v%s ', version )
+  const { promise } = spawn('git', ['reset', '--hard', `v${version}`], {
+    cwd: gitPath,
+  })
+  const { stdout, stderr } = await promise
+  if (stdout.startsWith('HEAD is now')) {
+    return true
+  }
+  console.warn('[!] %s', stdout || stderr)
+  return false
 }
 
 (async () => {
