@@ -1,0 +1,58 @@
+[
+  {
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/structure",
+    "name": "@mnpjs/structure",
+    "readmeLength": 11,
+    "date": "2018-07-16T23:11:53.000Z",
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "gitPath": "../../analyse-packages/structure",
+    "name": "@mnpjs/structure",
+    "readmeLength": 11,
+    "date": "2018-07-16T23:16:01.000Z",
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/structure",
+    "name": "@mnpjs/structure",
+    "readmeLength": 11,
+    "date": "2018-07-17T01:20:19.000Z",
+    "lines": {
+      "index": 2,
+      "indexComments": 0,
+      "structure": 2,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "gitPath": "../../analyse-packages/structure",
+    "name": "@mnpjs/structure",
+    "readmeLength": 11,
+    "date": "2018-07-17T01:24:59.000Z",
+    "lines": {
+      "index": 2,
+      "indexComments": 0,
+      "structure": 2,
+      "structureComments": 0
+    }
+  }
+]

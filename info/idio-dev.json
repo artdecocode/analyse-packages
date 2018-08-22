@@ -1,0 +1,14 @@
+[
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/idio-dev",
+    "name": "idio-dev",
+    "readmeLength": 51,
+    "date": "2018-05-18T05:18:10.000Z",
+    "lines": {
+      "source": 67,
+      "sourceComments": 3
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/rexml",
+    "name": "rexml",
+    "readmeLength": 72,
+    "date": "2018-07-18T21:06:38.000Z",
+    "zoroasterTests": 2,
+    "lines": {
+      "zoroaster": 29,
+      "zoroasterComments": 1,
+      "source": 58,
+      "sourceComments": 17
+    }
+  },
+  {
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/rexml",
+    "name": "rexml",
+    "readmeLength": 72,
+    "date": "2018-07-19T17:07:24.000Z",
+    "lines": {
+      "zoroaster": 373,
+      "zoroasterComments": 14,
+      "source": 66,
+      "sourceComments": 24
+    }
+  }
+]

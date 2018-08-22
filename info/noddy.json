@@ -1,0 +1,49 @@
+[
+  {
+    "version": "1.0.0",
+    "gitHead": "cf1e9db94a84372ef2333ceffa6373f9db9ea4b2",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/noddy",
+    "name": "noddy",
+    "readmeLength": 96,
+    "date": "2018-01-02T02:26:24.000Z",
+    "zoroasterTests": 9,
+    "lines": {
+      "zoroaster": 65,
+      "zoroasterComments": 0,
+      "source": 35,
+      "sourceComments": 17
+    }
+  },
+  {
+    "version": "1.1.0",
+    "gitHead": "835ea96eba237aa8fc06668e216860b3df6bd7cf",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/noddy",
+    "name": "noddy",
+    "readmeLength": 96,
+    "date": "2018-01-02T02:50:57.000Z",
+    "zoroasterTests": 30,
+    "lines": {
+      "zoroaster": 182,
+      "zoroasterComments": 0,
+      "source": 102,
+      "sourceComments": 34
+    }
+  },
+  {
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "gitPath": "../../analyse-packages/noddy",
+    "name": "noddy",
+    "readmeLength": 96,
+    "date": "2018-03-14T16:23:14.000Z",
+    "zoroasterTests": 30,
+    "lines": {
+      "zoroaster": 182,
+      "zoroasterComments": 0,
+      "source": 102,
+      "sourceComments": 34
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/window-info",
+    "name": "window-info",
+    "readmeLength": 168,
+    "date": "2018-05-26T13:57:25.000Z",
+    "lines": {
+      "source": 106,
+      "sourceComments": 7
+    }
+  },
+  {
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "gitPath": "../../analyse-packages/window-info",
+    "name": "window-info",
+    "readmeLength": 168,
+    "date": "2018-05-26T14:01:33.000Z",
+    "lines": {
+      "source": 106,
+      "sourceComments": 7
+    }
+  },
+  {
+    "version": "1.0.3",
+    "tag": "v1.0.3",
+    "gitPath": "../../analyse-packages/window-info",
+    "name": "window-info",
+    "readmeLength": 168,
+    "date": "2018-06-30T19:41:09.000Z",
+    "lines": {
+      "source": 106,
+      "sourceComments": 7
+    }
+  },
+  {
+    "version": "1.0.4",
+    "tag": "v1.0.4",
+    "gitPath": "../../analyse-packages/window-info",
+    "name": "window-info",
+    "readmeLength": 168,
+    "date": "2018-06-30T19:54:06.000Z",
+    "lines": {
+      "source": 106,
+      "sourceComments": 7
+    }
+  }
+]

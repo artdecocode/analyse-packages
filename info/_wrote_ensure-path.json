@@ -1,0 +1,47 @@
+[
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/ensure-path",
+    "name": "@wrote/ensure-path",
+    "readmeLength": 50,
+    "date": "2018-07-03T11:52:23.000Z",
+    "zoroasterTests": 4,
+    "lines": {
+      "zoroaster": 43,
+      "zoroasterComments": 1,
+      "source": 42,
+      "sourceComments": 19
+    }
+  },
+  {
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/ensure-path",
+    "name": "@wrote/ensure-path",
+    "readmeLength": 50,
+    "date": "2018-07-03T11:55:25.000Z",
+    "zoroasterTests": 4,
+    "lines": {
+      "zoroaster": 43,
+      "zoroasterComments": 1,
+      "source": 42,
+      "sourceComments": 19
+    }
+  },
+  {
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "gitPath": "../../analyse-packages/ensure-path",
+    "name": "@wrote/ensure-path",
+    "readmeLength": 50,
+    "date": "2018-07-04T14:53:56.000Z",
+    "zoroasterTests": 4,
+    "lines": {
+      "zoroaster": 43,
+      "zoroasterComments": 1,
+      "source": 42,
+      "sourceComments": 19
+    }
+  }
+]

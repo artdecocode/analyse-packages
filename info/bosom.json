@@ -1,0 +1,17 @@
+[
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/bosom",
+    "name": "bosom",
+    "readmeLength": 79,
+    "date": "2018-06-11T06:54:24.000Z",
+    "zoroasterTests": 4,
+    "lines": {
+      "zoroaster": 35,
+      "zoroasterComments": 1,
+      "source": 43,
+      "sourceComments": 13
+    }
+  }
+]

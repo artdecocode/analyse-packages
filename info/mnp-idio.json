@@ -1,0 +1,147 @@
+[
+  {
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "name": "mnp-idio",
+    "readmeLength": 13,
+    "date": "2018-05-02T02:16:56.000Z",
+    "zoroasterTests": 0,
+    "lines": {}
+  },
+  {
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "name": "mnp-idio",
+    "readmeLength": 13,
+    "date": "2018-05-02T02:24:25.000Z",
+    "zoroasterTests": 0,
+    "lines": {}
+  },
+  {
+    "version": "1.0.3",
+    "tag": "v1.0.3",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "name": "mnp-idio",
+    "readmeLength": 13,
+    "date": "2018-05-02T02:30:40.000Z",
+    "zoroasterTests": 0,
+    "lines": {}
+  },
+  {
+    "version": "1.0.4",
+    "tag": "v1.0.4",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "name": "mnp-idio",
+    "readmeLength": 13,
+    "date": "2018-05-02T02:40:40.000Z",
+    "zoroasterTests": 0,
+    "lines": {}
+  },
+  {
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "name": "mnp-idio",
+    "readmeLength": 13,
+    "date": "2018-05-02T02:43:45.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "name": "mnp-idio",
+    "readmeLength": 13,
+    "date": "2018-05-02T03:53:03.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "1.2.1",
+    "tag": "v1.2.1",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "name": "mnp-idio",
+    "readmeLength": 13,
+    "date": "2018-05-02T03:58:54.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "1.2.2",
+    "tag": "v1.2.2",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "name": "mnp-idio",
+    "readmeLength": 13,
+    "date": "2018-05-02T04:04:32.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "1.2.3",
+    "tag": "v1.2.3",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "name": "mnp-idio",
+    "readmeLength": 13,
+    "date": "2018-05-02T05:16:37.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "1.2.4",
+    "tag": "v1.2.4",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "name": "mnp-idio",
+    "readmeLength": 13,
+    "date": "2018-05-02T05:18:29.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "1.2.5",
+    "tag": "v1.2.5",
+    "gitPath": "../../analyse-packages/mnp-idio",
+    "name": "mnp-idio",
+    "readmeLength": 13,
+    "date": "2018-05-02T05:22:04.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  }
+]

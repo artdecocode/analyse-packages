@@ -1,0 +1,32 @@
+[
+  {
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/https-context",
+    "name": "https-context",
+    "readmeLength": 135,
+    "date": "2018-07-02T16:09:03.000Z",
+    "zoroasterTests": 3,
+    "lines": {
+      "zoroaster": 32,
+      "zoroasterComments": 1,
+      "source": 98,
+      "sourceComments": 32
+    }
+  },
+  {
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "gitPath": "../../analyse-packages/https-context",
+    "name": "https-context",
+    "readmeLength": 135,
+    "date": "2018-07-02T22:01:45.000Z",
+    "zoroasterTests": 3,
+    "lines": {
+      "zoroaster": 35,
+      "zoroasterComments": 1,
+      "source": 101,
+      "sourceComments": 36
+    }
+  }
+]

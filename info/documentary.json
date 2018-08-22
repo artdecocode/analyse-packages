@@ -1,0 +1,272 @@
+[
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-06-12T05:59:49.000Z",
+    "zoroasterTests": 7,
+    "lines": {
+      "zoroaster": 54,
+      "zoroasterComments": 2,
+      "source": 133,
+      "sourceComments": 11
+    }
+  },
+  {
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-06-12T07:10:52.000Z",
+    "zoroasterTests": 7,
+    "lines": {
+      "zoroaster": 73,
+      "zoroasterComments": 3,
+      "source": 133,
+      "sourceComments": 11
+    }
+  },
+  {
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-06-15T15:20:42.000Z",
+    "zoroasterTests": 12,
+    "lines": {
+      "zoroaster": 152,
+      "zoroasterComments": 4,
+      "source": 202,
+      "sourceComments": 26
+    }
+  },
+  {
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-06-15T20:53:47.000Z",
+    "zoroasterTests": 19,
+    "lines": {
+      "zoroaster": 212,
+      "zoroasterComments": 6,
+      "source": 287,
+      "sourceComments": 23
+    }
+  },
+  {
+    "version": "1.3.0",
+    "tag": "v1.3.0",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-06-18T14:11:42.000Z",
+    "zoroasterTests": 20,
+    "lines": {
+      "zoroaster": 217,
+      "zoroasterComments": 6,
+      "source": 366,
+      "sourceComments": 22
+    }
+  },
+  {
+    "version": "1.3.1",
+    "tag": "v1.3.1",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-06-18T14:19:37.000Z",
+    "zoroasterTests": 20,
+    "lines": {
+      "zoroaster": 217,
+      "zoroasterComments": 6,
+      "source": 366,
+      "sourceComments": 22
+    }
+  },
+  {
+    "version": "1.4.0",
+    "tag": "v1.4.0",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-06-20T20:51:07.000Z",
+    "zoroasterTests": 29,
+    "lines": {
+      "zoroaster": 340,
+      "zoroasterComments": 7,
+      "source": 419,
+      "sourceComments": 22
+    }
+  },
+  {
+    "version": "1.4.1",
+    "tag": "v1.4.1",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-06-21T06:27:55.000Z",
+    "zoroasterTests": 30,
+    "lines": {
+      "zoroaster": 362,
+      "zoroasterComments": 8,
+      "source": 377,
+      "sourceComments": 22
+    }
+  },
+  {
+    "version": "1.4.2",
+    "tag": "v1.4.2",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-06-21T08:33:49.000Z",
+    "zoroasterTests": 34,
+    "lines": {
+      "zoroaster": 407,
+      "zoroasterComments": 8,
+      "source": 402,
+      "sourceComments": 22
+    }
+  },
+  {
+    "version": "1.5.0",
+    "tag": "v1.5.0",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-06-21T10:20:27.000Z",
+    "zoroasterTests": 36,
+    "lines": {
+      "zoroaster": 436,
+      "zoroasterComments": 8,
+      "source": 430,
+      "sourceComments": 22
+    }
+  },
+  {
+    "version": "1.6.0",
+    "tag": "v1.6.0",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-06-22T10:00:23.000Z",
+    "zoroasterTests": 61,
+    "lines": {
+      "zoroaster": 777,
+      "zoroasterComments": 15,
+      "source": 638,
+      "sourceComments": 54
+    }
+  },
+  {
+    "version": "1.6.1",
+    "tag": "v1.6.1",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-06-22T10:11:58.000Z",
+    "zoroasterTests": 61,
+    "lines": {
+      "zoroaster": 777,
+      "zoroasterComments": 15,
+      "source": 650,
+      "sourceComments": 54
+    }
+  },
+  {
+    "version": "1.7.0",
+    "tag": "v1.7.0",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-06-24T22:39:37.000Z",
+    "zoroasterTests": 63,
+    "lines": {
+      "zoroaster": 842,
+      "zoroasterComments": 17,
+      "source": 687,
+      "sourceComments": 54
+    }
+  },
+  {
+    "version": "1.8.0",
+    "tag": "v1.8.0",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-06-26T05:49:54.000Z",
+    "zoroasterTests": 67,
+    "lines": {
+      "zoroaster": 921,
+      "zoroasterComments": 19,
+      "source": 835,
+      "sourceComments": 54
+    }
+  },
+  {
+    "version": "1.8.1",
+    "tag": "v1.8.1",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-06-30T18:39:46.000Z",
+    "zoroasterTests": 67,
+    "lines": {
+      "zoroaster": 921,
+      "zoroasterComments": 19,
+      "source": 837,
+      "sourceComments": 54
+    }
+  },
+  {
+    "version": "1.8.2",
+    "tag": "v1.8.2",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-07-03T11:48:45.000Z",
+    "zoroasterTests": 69,
+    "lines": {
+      "zoroaster": 908,
+      "zoroasterComments": 21,
+      "source": 841,
+      "sourceComments": 54
+    }
+  },
+  {
+    "version": "1.9.0",
+    "tag": "v1.9.0",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-07-17T06:28:47.000Z",
+    "zoroasterTests": 69,
+    "lines": {
+      "zoroaster": 908,
+      "zoroasterComments": 21,
+      "source": 878,
+      "sourceComments": 54
+    }
+  },
+  {
+    "version": "1.10.0",
+    "tag": "v1.10.0",
+    "gitPath": "../../analyse-packages/documentary",
+    "name": "documentary",
+    "readmeLength": 624,
+    "date": "2018-07-18T01:35:35.000Z",
+    "zoroasterTests": 72,
+    "lines": {
+      "zoroaster": 978,
+      "zoroasterComments": 21,
+      "source": 886,
+      "sourceComments": 54
+    }
+  }
+]

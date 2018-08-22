@@ -1,0 +1,94 @@
+[
+  {
+    "version": "1.0.0",
+    "gitHead": "7b7ee7099056453e1c1a5b0728164341420c7f4e",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/africa",
+    "name": "africa",
+    "readmeLength": 122,
+    "date": "2018-01-01T20:53:34.000Z",
+    "zoroasterTests": 5,
+    "lines": {
+      "zoroaster": 46,
+      "zoroasterComments": 0,
+      "source": 36,
+      "sourceComments": 11
+    }
+  },
+  {
+    "version": "1.0.1",
+    "gitHead": "a5d4da7c4cb1a8bcbd0b2045235457383e5d5a6b",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/africa",
+    "name": "africa",
+    "readmeLength": 122,
+    "date": "2018-01-01T21:04:10.000Z",
+    "zoroasterTests": 5,
+    "lines": {
+      "zoroaster": 46,
+      "zoroasterComments": 0,
+      "source": 36,
+      "sourceComments": 11
+    }
+  },
+  {
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/africa",
+    "name": "africa",
+    "readmeLength": 122,
+    "date": "2018-06-11T09:09:13.000Z",
+    "zoroasterTests": 10,
+    "lines": {
+      "zoroaster": 183,
+      "zoroasterComments": 2,
+      "source": 76,
+      "sourceComments": 36
+    }
+  },
+  {
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "gitPath": "../../analyse-packages/africa",
+    "name": "africa",
+    "readmeLength": 122,
+    "date": "2018-06-18T15:00:59.000Z",
+    "zoroasterTests": 10,
+    "lines": {
+      "zoroaster": 183,
+      "zoroasterComments": 2,
+      "source": 76,
+      "sourceComments": 36
+    }
+  },
+  {
+    "version": "1.1.2",
+    "tag": "v1.1.2",
+    "gitPath": "../../analyse-packages/africa",
+    "name": "africa",
+    "readmeLength": 122,
+    "date": "2018-07-03T13:18:39.000Z",
+    "zoroasterTests": 10,
+    "lines": {
+      "zoroaster": 183,
+      "zoroasterComments": 2,
+      "source": 77,
+      "sourceComments": 33
+    }
+  },
+  {
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/africa",
+    "name": "africa",
+    "readmeLength": 122,
+    "date": "2018-07-03T16:46:55.000Z",
+    "zoroasterTests": 10,
+    "lines": {
+      "zoroaster": 183,
+      "zoroasterComments": 2,
+      "source": 112,
+      "sourceComments": 35
+    }
+  }
+]

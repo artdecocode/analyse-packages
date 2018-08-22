@@ -1,0 +1,62 @@
+[
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/aty",
+    "name": "aty",
+    "readmeLength": 773,
+    "date": "2018-06-30T03:57:20.000Z",
+    "zoroasterTests": 2,
+    "lines": {
+      "zoroaster": 32,
+      "zoroasterComments": 1,
+      "source": 132,
+      "sourceComments": 10
+    }
+  },
+  {
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/aty",
+    "name": "aty",
+    "readmeLength": 773,
+    "date": "2018-07-25T03:57:45.000Z",
+    "zoroasterTests": 2,
+    "lines": {
+      "zoroaster": 32,
+      "zoroasterComments": 1,
+      "source": 222,
+      "sourceComments": 27
+    }
+  },
+  {
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "gitPath": "../../analyse-packages/aty",
+    "name": "aty",
+    "readmeLength": 773,
+    "date": "2018-07-25T04:43:03.000Z",
+    "zoroasterTests": 2,
+    "lines": {
+      "zoroaster": 32,
+      "zoroasterComments": 1,
+      "source": 222,
+      "sourceComments": 27
+    }
+  },
+  {
+    "version": "1.1.2",
+    "tag": "v1.1.2",
+    "gitPath": "../../analyse-packages/aty",
+    "name": "aty",
+    "readmeLength": 773,
+    "date": "2018-07-25T05:17:42.000Z",
+    "zoroasterTests": 2,
+    "lines": {
+      "zoroaster": 32,
+      "zoroasterComments": 1,
+      "source": 222,
+      "sourceComments": 27
+    }
+  }
+]

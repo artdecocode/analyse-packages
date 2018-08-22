@@ -1,0 +1,21 @@
+[
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/yarn-s",
+    "name": "yarn-s",
+    "readmeLength": 20,
+    "date": "2018-05-12T06:20:37.000Z",
+    "zoroasterTests": 1,
+    "lines": {
+      "zoroaster": 23,
+      "zoroasterComments": 0,
+      "source": 45,
+      "sourceComments": 0,
+      "index": 55,
+      "indexComments": 0,
+      "structure": 55,
+      "structureComments": 0
+    }
+  }
+]

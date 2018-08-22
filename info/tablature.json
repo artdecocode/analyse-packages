@@ -1,0 +1,17 @@
+[
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/tablature",
+    "name": "tablature",
+    "readmeLength": 78,
+    "date": "2018-06-14T13:27:11.000Z",
+    "zoroasterTests": 5,
+    "lines": {
+      "zoroaster": 64,
+      "zoroasterComments": 1,
+      "source": 117,
+      "sourceComments": 23
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "version": "0.1.0",
+    "gitHead": "cc2853034630b0798ce714c7a29bb3cffc797156",
+    "tag": "v0.1.0",
+    "gitPath": "../../analyse-packages/erotic",
+    "name": "erotic",
+    "readmeLength": 311,
+    "date": "2017-10-17T11:26:02.000Z",
+    "zoroasterTests": 3,
+    "lines": {
+      "zoroaster": 36,
+      "zoroasterComments": 0,
+      "source": 20,
+      "sourceComments": 6
+    }
+  },
+  {
+    "version": "0.2.0",
+    "gitHead": "910b994a3ba3d1d9489d40a539cdf99e40877be9",
+    "tag": "v0.2.0",
+    "gitPath": "../../analyse-packages/erotic",
+    "name": "erotic",
+    "readmeLength": 311,
+    "date": "2017-11-19T23:10:47.000Z",
+    "zoroasterTests": 14,
+    "lines": {
+      "zoroaster": 142,
+      "zoroasterComments": 0,
+      "source": 104,
+      "sourceComments": 43
+    }
+  },
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/erotic",
+    "name": "erotic",
+    "readmeLength": 311,
+    "date": "2018-05-11T23:22:02.000Z",
+    "zoroasterTests": 14,
+    "lines": {
+      "zoroaster": 151,
+      "zoroasterComments": 2,
+      "source": 90,
+      "sourceComments": 43
+    }
+  },
+  {
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/erotic",
+    "name": "erotic",
+    "readmeLength": 311,
+    "date": "2018-05-11T23:32:18.000Z",
+    "zoroasterTests": 14,
+    "lines": {
+      "zoroaster": 151,
+      "zoroasterComments": 2,
+      "source": 90,
+      "sourceComments": 43
+    }
+  },
+  {
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/erotic",
+    "name": "erotic",
+    "readmeLength": 311,
+    "date": "2018-05-14T20:13:01.000Z",
+    "zoroasterTests": 17,
+    "lines": {
+      "zoroaster": 217,
+      "zoroasterComments": 4,
+      "source": 88,
+      "sourceComments": 46
+    }
+  },
+  {
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/erotic",
+    "name": "erotic",
+    "readmeLength": 311,
+    "date": "2018-06-07T02:52:54.000Z",
+    "zoroasterTests": 17,
+    "lines": {
+      "zoroaster": 219,
+      "zoroasterComments": 3,
+      "source": 88,
+      "sourceComments": 46
+    }
+  }
+]

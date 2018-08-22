@@ -1,0 +1,16 @@
+[
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/mnp-structure",
+    "name": "mnp-structure",
+    "readmeLength": 11,
+    "date": "2018-05-04T07:48:13.000Z",
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "version": "1.4.2",
+    "tag": "v1.4.2",
+    "gitPath": "../../analyse-packages/package",
+    "name": "@mnpjs/package",
+    "readmeLength": 69,
+    "date": "2018-07-03T15:55:56.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "1.4.3",
+    "tag": "v1.4.3",
+    "gitPath": "../../analyse-packages/package",
+    "name": "@mnpjs/package",
+    "readmeLength": 69,
+    "date": "2018-07-03T16:01:00.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "index": 4,
+      "indexComments": 0,
+      "structure": 4,
+      "structureComments": 0
+    }
+  },
+  {
+    "version": "1.5.0",
+    "tag": "v1.5.0",
+    "gitPath": "../../analyse-packages/package",
+    "name": "@mnpjs/package",
+    "readmeLength": 69,
+    "date": "2018-07-17T01:11:30.000Z",
+    "zoroasterTests": 0,
+    "lines": {
+      "index": 1,
+      "indexComments": 0,
+      "structure": 1,
+      "structureComments": 0
+    }
+  }
+]

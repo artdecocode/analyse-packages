@@ -1,0 +1,92 @@
+[
+  {
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/alamode",
+    "name": "alamode",
+    "readmeLength": 330,
+    "date": "2018-07-25T18:26:44.000Z",
+    "zoroasterTests": 3,
+    "lines": {
+      "zoroaster": 23,
+      "zoroasterComments": 1,
+      "source": 15,
+      "sourceComments": 9
+    }
+  },
+  {
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "gitPath": "../../analyse-packages/alamode",
+    "name": "alamode",
+    "readmeLength": 330,
+    "date": "2018-07-25T18:44:11.000Z",
+    "zoroasterTests": 3,
+    "lines": {
+      "zoroaster": 23,
+      "zoroasterComments": 1,
+      "source": 15,
+      "sourceComments": 9
+    }
+  },
+  {
+    "version": "1.0.3",
+    "tag": "v1.0.3",
+    "gitPath": "../../analyse-packages/alamode",
+    "name": "alamode",
+    "readmeLength": 330,
+    "date": "2018-07-25T18:54:12.000Z",
+    "zoroasterTests": 3,
+    "lines": {
+      "zoroaster": 23,
+      "zoroasterComments": 1,
+      "source": 15,
+      "sourceComments": 9
+    }
+  },
+  {
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/alamode",
+    "name": "alamode",
+    "readmeLength": 330,
+    "date": "2018-08-13T16:20:57.000Z",
+    "zoroasterTests": 2,
+    "lines": {
+      "zoroaster": 65,
+      "zoroasterComments": 1,
+      "source": 173,
+      "sourceComments": 9
+    }
+  },
+  {
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/alamode",
+    "name": "alamode",
+    "readmeLength": 330,
+    "date": "2018-08-22T05:10:04.000Z",
+    "zoroasterTests": 2,
+    "lines": {
+      "zoroaster": 65,
+      "zoroasterComments": 1,
+      "source": 388,
+      "sourceComments": 8
+    }
+  },
+  {
+    "version": "1.2.1",
+    "tag": "v1.2.1",
+    "gitPath": "../../analyse-packages/alamode",
+    "name": "alamode",
+    "readmeLength": 330,
+    "date": "2018-08-22T06:22:49.000Z",
+    "zoroasterTests": 2,
+    "lines": {
+      "zoroaster": 65,
+      "zoroasterComments": 1,
+      "source": 398,
+      "sourceComments": 8
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/which-stream",
+    "name": "which-stream",
+    "readmeLength": 302,
+    "date": "2018-08-11T21:12:59.000Z",
+    "zoroasterTests": 7,
+    "lines": {
+      "zoroaster": 92,
+      "zoroasterComments": 1,
+      "source": 61,
+      "sourceComments": 19
+    }
+  }
+]

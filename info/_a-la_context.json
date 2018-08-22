@@ -1,0 +1,47 @@
+[
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/context",
+    "name": "@a-la/context",
+    "readmeLength": 118,
+    "date": "2018-08-16T16:32:15.000Z",
+    "zoroasterTests": 6,
+    "lines": {
+      "zoroaster": 73,
+      "zoroasterComments": 1,
+      "source": 31,
+      "sourceComments": 19
+    }
+  },
+  {
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/context",
+    "name": "@a-la/context",
+    "readmeLength": 118,
+    "date": "2018-08-22T03:57:24.000Z",
+    "zoroasterTests": 7,
+    "lines": {
+      "zoroaster": 89,
+      "zoroasterComments": 1,
+      "source": 39,
+      "sourceComments": 23
+    }
+  },
+  {
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "gitPath": "../../analyse-packages/context",
+    "name": "@a-la/context",
+    "readmeLength": 118,
+    "date": "2018-08-22T04:01:59.000Z",
+    "zoroasterTests": 7,
+    "lines": {
+      "zoroaster": 89,
+      "zoroasterComments": 1,
+      "source": 39,
+      "sourceComments": 23
+    }
+  }
+]

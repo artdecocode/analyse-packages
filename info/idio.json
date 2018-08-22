@@ -1,0 +1,242 @@
+[
+  {
+    "version": "0.1.0",
+    "gitHead": "d265c70caebd44e4c165705fed1c388a66acde1c",
+    "tag": "v0.1.0",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2017-09-16T23:05:52.000Z",
+    "zoroasterTests": 1,
+    "lines": {
+      "zoroaster": 26,
+      "zoroasterComments": 0,
+      "source": 247,
+      "sourceComments": 40
+    }
+  },
+  {
+    "version": "0.1.1",
+    "gitHead": "5d6bf694dbc3763fbd801fdef7ce4da2658a9147",
+    "tag": "v0.1.1",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2018-02-28T21:53:53.000Z",
+    "zoroasterTests": 1,
+    "lines": {
+      "zoroaster": 26,
+      "zoroasterComments": 0,
+      "source": 247,
+      "sourceComments": 40
+    }
+  },
+  {
+    "version": "0.1.2",
+    "tag": "v0.1.2",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2018-02-28T23:25:41.000Z",
+    "zoroasterTests": 1,
+    "lines": {
+      "zoroaster": 26,
+      "zoroasterComments": 0,
+      "source": 247,
+      "sourceComments": 40
+    }
+  },
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2018-03-09T14:29:26.000Z",
+    "zoroasterTests": 5,
+    "lines": {
+      "zoroaster": 198,
+      "zoroasterComments": 0,
+      "source": 340,
+      "sourceComments": 53
+    }
+  },
+  {
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2018-05-01T02:49:47.000Z",
+    "zoroasterTests": 5,
+    "lines": {
+      "zoroaster": 198,
+      "zoroasterComments": 0,
+      "source": 390,
+      "sourceComments": 56
+    }
+  },
+  {
+    "version": "2.0.0",
+    "tag": "v2.0.0",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2018-05-01T05:08:09.000Z",
+    "zoroasterTests": 5,
+    "lines": {
+      "zoroaster": 198,
+      "zoroasterComments": 0,
+      "source": 400,
+      "sourceComments": 56
+    }
+  },
+  {
+    "version": "2.1.0",
+    "tag": "v2.1.0",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2018-05-01T20:44:52.000Z",
+    "zoroasterTests": 7,
+    "lines": {
+      "zoroaster": 258,
+      "zoroasterComments": 0,
+      "source": 412,
+      "sourceComments": 57
+    }
+  },
+  {
+    "version": "2.2.0",
+    "tag": "v2.2.0",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2018-05-02T00:49:31.000Z",
+    "zoroasterTests": 10,
+    "lines": {
+      "zoroaster": 242,
+      "zoroasterComments": 0,
+      "source": 425,
+      "sourceComments": 57
+    }
+  },
+  {
+    "version": "2.3.0",
+    "tag": "v2.3.0",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2018-05-04T10:43:35.000Z",
+    "zoroasterTests": 14,
+    "lines": {
+      "zoroaster": 377,
+      "zoroasterComments": 12,
+      "source": 476,
+      "sourceComments": 112
+    }
+  },
+  {
+    "version": "2.4.0",
+    "tag": "v2.4.0",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2018-05-17T08:43:32.000Z",
+    "zoroasterTests": 14,
+    "lines": {
+      "zoroaster": 377,
+      "zoroasterComments": 12,
+      "source": 534,
+      "sourceComments": 112
+    }
+  },
+  {
+    "version": "2.5.0",
+    "tag": "v2.5.0",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2018-05-18T09:02:08.000Z",
+    "zoroasterTests": 15,
+    "lines": {
+      "zoroaster": 410,
+      "zoroasterComments": 13,
+      "source": 523,
+      "sourceComments": 196
+    }
+  },
+  {
+    "version": "2.5.1",
+    "tag": "v2.5.1",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2018-05-18T20:44:40.000Z",
+    "zoroasterTests": 15,
+    "lines": {
+      "zoroaster": 411,
+      "zoroasterComments": 13,
+      "source": 525,
+      "sourceComments": 196
+    }
+  },
+  {
+    "version": "2.5.2",
+    "tag": "v2.5.2",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2018-05-20T14:09:53.000Z",
+    "zoroasterTests": 15,
+    "lines": {
+      "zoroaster": 427,
+      "zoroasterComments": 13,
+      "source": 525,
+      "sourceComments": 196
+    }
+  },
+  {
+    "version": "2.5.3",
+    "tag": "v2.5.3",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2018-05-21T01:21:38.000Z",
+    "zoroasterTests": 15,
+    "lines": {
+      "zoroaster": 427,
+      "zoroasterComments": 13,
+      "source": 525,
+      "sourceComments": 196
+    }
+  },
+  {
+    "version": "2.5.4",
+    "tag": "v2.5.4",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2018-05-22T00:59:55.000Z",
+    "lines": {
+      "zoroaster": 459,
+      "zoroasterComments": 13,
+      "source": 531,
+      "sourceComments": 200
+    }
+  },
+  {
+    "version": "2.6.0",
+    "tag": "v2.6.0",
+    "gitPath": "../../analyse-packages/idio",
+    "name": "idio",
+    "readmeLength": 471,
+    "date": "2018-05-22T02:31:22.000Z",
+    "lines": {
+      "zoroaster": 539,
+      "zoroasterComments": 14,
+      "source": 554,
+      "sourceComments": 216
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/read-dir-structure",
+    "name": "@wrote/read-dir-structure",
+    "readmeLength": 100,
+    "date": "2018-06-21T03:57:59.000Z",
+    "zoroasterTests": 7,
+    "lines": {
+      "zoroaster": 73,
+      "zoroasterComments": 2,
+      "source": 85,
+      "sourceComments": 59
+    }
+  },
+  {
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/read-dir-structure",
+    "name": "@wrote/read-dir-structure",
+    "readmeLength": 100,
+    "date": "2018-07-04T14:36:56.000Z",
+    "zoroasterTests": 7,
+    "lines": {
+      "zoroaster": 73,
+      "zoroasterComments": 2,
+      "source": 85,
+      "sourceComments": 59
+    }
+  }
+]

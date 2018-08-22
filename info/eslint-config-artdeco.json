@@ -1,0 +1,32 @@
+[
+  {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "gitPath": "../../analyse-packages/eslint-config-artdeco",
+    "name": "eslint-config-artdeco",
+    "readmeLength": 10,
+    "date": "2018-05-15T16:46:07.000Z",
+    "zoroasterTests": 3,
+    "lines": {
+      "zoroaster": 22,
+      "zoroasterComments": 3,
+      "source": 23,
+      "sourceComments": 0
+    }
+  },
+  {
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/eslint-config-artdeco",
+    "name": "eslint-config-artdeco",
+    "readmeLength": 10,
+    "date": "2018-07-17T00:01:52.000Z",
+    "zoroasterTests": 1,
+    "lines": {
+      "zoroaster": 11,
+      "zoroasterComments": 0,
+      "source": 23,
+      "sourceComments": 0
+    }
+  }
+]

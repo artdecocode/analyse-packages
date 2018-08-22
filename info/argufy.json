@@ -1,0 +1,74 @@
+[
+  {
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "gitPath": "../../analyse-packages/argufy",
+    "name": "argufy",
+    "readmeLength": 83,
+    "date": "2018-06-11T09:59:09.000Z",
+    "lines": {
+      "source": 39,
+      "sourceComments": 1
+    }
+  },
+  {
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "gitPath": "../../analyse-packages/argufy",
+    "name": "argufy",
+    "readmeLength": 83,
+    "date": "2018-06-12T04:46:33.000Z",
+    "lines": {
+      "source": 46,
+      "sourceComments": 42
+    }
+  },
+  {
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "gitPath": "../../analyse-packages/argufy",
+    "name": "argufy",
+    "readmeLength": 83,
+    "date": "2018-06-14T23:32:05.000Z",
+    "lines": {
+      "source": 60,
+      "sourceComments": 39
+    }
+  },
+  {
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "gitPath": "../../analyse-packages/argufy",
+    "name": "argufy",
+    "readmeLength": 83,
+    "date": "2018-06-14T23:38:19.000Z",
+    "lines": {
+      "source": 57,
+      "sourceComments": 45
+    }
+  },
+  {
+    "version": "1.1.2",
+    "tag": "v1.1.2",
+    "gitPath": "../../analyse-packages/argufy",
+    "name": "argufy",
+    "readmeLength": 83,
+    "date": "2018-06-16T10:59:21.000Z",
+    "lines": {
+      "source": 57,
+      "sourceComments": 45
+    }
+  },
+  {
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "gitPath": "../../analyse-packages/argufy",
+    "name": "argufy",
+    "readmeLength": 83,
+    "date": "2018-06-24T00:11:30.000Z",
+    "lines": {
+      "source": 80,
+      "sourceComments": 53
+    }
+  }
+]
