@@ -1,2 +1,2 @@
 require('alamode')()
-require('.')
+require(`./${process.argv[2] || ''}`)
