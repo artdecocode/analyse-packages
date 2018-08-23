@@ -1,0 +1,1502 @@
+{
+  "nodes": [
+    {
+      "id": "node-exiftool",
+      "group": 1
+    },
+    {
+      "id": "dist-exiftool",
+      "group": 1
+    },
+    {
+      "id": "zoroaster",
+      "group": 3
+    },
+    {
+      "id": "photo-partition",
+      "group": 1
+    },
+    {
+      "id": "exif2css",
+      "group": 1
+    },
+    {
+      "id": "appshot",
+      "group": 1
+    },
+    {
+      "id": "spawncommand",
+      "group": 1
+    },
+    {
+      "id": "catchment",
+      "group": 1
+    },
+    {
+      "id": "promto",
+      "group": 1
+    },
+    {
+      "id": "restream",
+      "group": 1
+    },
+    {
+      "id": "wrote",
+      "group": 1
+    },
+    {
+      "id": "makepromise",
+      "group": 1
+    },
+    {
+      "id": "mnp",
+      "group": 3
+    },
+    {
+      "id": "reloquent",
+      "group": 1
+    },
+    {
+      "id": "exiftool-context",
+      "group": 1
+    },
+    {
+      "id": "splendid",
+      "group": 1
+    },
+    {
+      "id": "rqt",
+      "group": 1
+    },
+    {
+      "id": "erotic",
+      "group": 1
+    },
+    {
+      "id": "assert-throws",
+      "group": 1
+    },
+    {
+      "id": "africa",
+      "group": 1
+    },
+    {
+      "id": "noddy",
+      "group": 1
+    },
+    {
+      "id": "bestie",
+      "group": 1
+    },
+    {
+      "id": "yarn-up",
+      "group": 1
+    },
+    {
+      "id": "expensive",
+      "group": 1
+    },
+    {
+      "id": "mnp-structure",
+      "group": 1
+    },
+    {
+      "id": "mnp-package",
+      "group": 1
+    },
+    {
+      "id": "snapshot-context",
+      "group": 1
+    },
+    {
+      "id": "erte",
+      "group": 1
+    },
+    {
+      "id": "yarn-s",
+      "group": 1
+    },
+    {
+      "id": "eslint-config-artdeco",
+      "group": 1
+    },
+    {
+      "id": "window-info",
+      "group": 1
+    },
+    {
+      "id": "argufy",
+      "group": 1
+    },
+    {
+      "id": "usually",
+      "group": 1
+    },
+    {
+      "id": "bosom",
+      "group": 1
+    },
+    {
+      "id": "documentary",
+      "group": 3
+    },
+    {
+      "id": "tablature",
+      "group": 1
+    },
+    {
+      "id": "@wrote/read-dir-structure",
+      "group": 1
+    },
+    {
+      "id": "pedantry",
+      "group": 1
+    },
+    {
+      "id": "aty",
+      "group": 1
+    },
+    {
+      "id": "https-context",
+      "group": 1
+    },
+    {
+      "id": "@wrote/ensure-path",
+      "group": 1
+    },
+    {
+      "id": "@mnpjs/package",
+      "group": 1
+    },
+    {
+      "id": "@rqt/aqt",
+      "group": 1
+    },
+    {
+      "id": "@mnpjs/structure",
+      "group": 1
+    },
+    {
+      "id": "rexml",
+      "group": 1
+    },
+    {
+      "id": "mismatch",
+      "group": 1
+    },
+    {
+      "id": "@a-la/import",
+      "group": 1
+    },
+    {
+      "id": "alamode",
+      "group": 3
+    },
+    {
+      "id": "@a-la/export",
+      "group": 1
+    },
+    {
+      "id": "which-stream",
+      "group": 1
+    },
+    {
+      "id": "@a-la/context",
+      "group": 1
+    },
+    {
+      "id": "is-stream",
+      "group": 2
+    },
+    {
+      "id": "cross-env",
+      "group": 2
+    },
+    {
+      "id": "ps-node",
+      "group": 2
+    },
+    {
+      "id": "platform-dependent-modules",
+      "group": 2
+    },
+    {
+      "id": "exiftool.exe",
+      "group": 1
+    },
+    {
+      "id": "exiftool.pl",
+      "group": 1
+    },
+    {
+      "id": "assert-diff",
+      "group": 2
+    },
+    {
+      "id": "clean-stack",
+      "group": 2
+    },
+    {
+      "id": "diff",
+      "group": 2
+    },
+    {
+      "id": "strip-ansi",
+      "group": 2
+    },
+    {
+      "id": "linear-partitioning",
+      "group": 2
+    },
+    {
+      "id": "browserify",
+      "group": 2
+    },
+    {
+      "id": "node-resemble-js",
+      "group": 2
+    },
+    {
+      "id": "phantomjs-prebuilt",
+      "group": 2
+    },
+    {
+      "id": "selenium-webdriver",
+      "group": 2
+    },
+    {
+      "id": "uglify-js",
+      "group": 2
+    },
+    {
+      "id": "cli-table",
+      "group": 2
+    },
+    {
+      "id": "concat-frames",
+      "group": 2
+    },
+    {
+      "id": "gifsicle",
+      "group": 2
+    },
+    {
+      "id": "pump",
+      "group": 2
+    },
+    {
+      "id": "uuid",
+      "group": 2
+    },
+    {
+      "id": "fast-async",
+      "group": 2
+    },
+    {
+      "id": "npm-run-all",
+      "group": 2
+    },
+    {
+      "id": "lockfile",
+      "group": 2
+    },
+    {
+      "id": "camel-case",
+      "group": 2
+    },
+    {
+      "id": "mnp-idio",
+      "group": 1
+    },
+    {
+      "id": "fsevents",
+      "group": 2
+    },
+    {
+      "id": "highlight.js",
+      "group": 2
+    },
+    {
+      "id": "server-destroy",
+      "group": 2
+    },
+    {
+      "id": "pirates",
+      "group": 2
+    },
+    {
+      "id": "source-map",
+      "group": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "node-exiftool",
+      "target": "is-stream"
+    },
+    {
+      "source": "node-exiftool",
+      "target": "restream"
+    },
+    {
+      "source": "node-exiftool",
+      "target": "wrote"
+    },
+    {
+      "source": "node-exiftool",
+      "target": "cross-env"
+    },
+    {
+      "source": "node-exiftool",
+      "target": "exiftool-context"
+    },
+    {
+      "source": "node-exiftool",
+      "target": "makepromise"
+    },
+    {
+      "source": "node-exiftool",
+      "target": "ps-node"
+    },
+    {
+      "source": "node-exiftool",
+      "target": "zoroaster"
+    },
+    {
+      "source": "dist-exiftool",
+      "target": "platform-dependent-modules"
+    },
+    {
+      "source": "dist-exiftool",
+      "target": "exiftool.exe"
+    },
+    {
+      "source": "dist-exiftool",
+      "target": "exiftool.pl"
+    },
+    {
+      "source": "dist-exiftool",
+      "target": "cross-env"
+    },
+    {
+      "source": "dist-exiftool",
+      "target": "zoroaster"
+    },
+    {
+      "source": "zoroaster",
+      "target": "alamode"
+    },
+    {
+      "source": "zoroaster",
+      "target": "assert-diff"
+    },
+    {
+      "source": "zoroaster",
+      "target": "assert-throws"
+    },
+    {
+      "source": "zoroaster",
+      "target": "catchment"
+    },
+    {
+      "source": "zoroaster",
+      "target": "clean-stack"
+    },
+    {
+      "source": "zoroaster",
+      "target": "erte"
+    },
+    {
+      "source": "zoroaster",
+      "target": "mismatch"
+    },
+    {
+      "source": "zoroaster",
+      "target": "promto"
+    },
+    {
+      "source": "zoroaster",
+      "target": "spawncommand"
+    },
+    {
+      "source": "zoroaster",
+      "target": "yarn-s"
+    },
+    {
+      "source": "zoroaster",
+      "target": "diff"
+    },
+    {
+      "source": "zoroaster",
+      "target": "erotic"
+    },
+    {
+      "source": "zoroaster",
+      "target": "snapshot-context"
+    },
+    {
+      "source": "zoroaster",
+      "target": "strip-ansi"
+    },
+    {
+      "source": "photo-partition",
+      "target": "linear-partitioning"
+    },
+    {
+      "source": "photo-partition",
+      "target": "bestie"
+    },
+    {
+      "source": "photo-partition",
+      "target": "zoroaster"
+    },
+    {
+      "source": "exif2css",
+      "target": "browserify"
+    },
+    {
+      "source": "exif2css",
+      "target": "node-resemble-js"
+    },
+    {
+      "source": "exif2css",
+      "target": "phantomjs-prebuilt"
+    },
+    {
+      "source": "exif2css",
+      "target": "selenium-webdriver"
+    },
+    {
+      "source": "exif2css",
+      "target": "uglify-js"
+    },
+    {
+      "source": "exif2css",
+      "target": "zoroaster"
+    },
+    {
+      "source": "appshot",
+      "target": "argufy"
+    },
+    {
+      "source": "appshot",
+      "target": "cli-table"
+    },
+    {
+      "source": "appshot",
+      "target": "concat-frames"
+    },
+    {
+      "source": "appshot",
+      "target": "gifsicle"
+    },
+    {
+      "source": "appshot",
+      "target": "pump"
+    },
+    {
+      "source": "appshot",
+      "target": "reloquent"
+    },
+    {
+      "source": "appshot",
+      "target": "spawncommand"
+    },
+    {
+      "source": "appshot",
+      "target": "uuid"
+    },
+    {
+      "source": "appshot",
+      "target": "window-info"
+    },
+    {
+      "source": "appshot",
+      "target": "wrote"
+    },
+    {
+      "source": "appshot",
+      "target": "documentary"
+    },
+    {
+      "source": "appshot",
+      "target": "zoroaster"
+    },
+    {
+      "source": "spawncommand",
+      "target": "catchment"
+    },
+    {
+      "source": "spawncommand",
+      "target": "yarn-s"
+    },
+    {
+      "source": "spawncommand",
+      "target": "zoroaster"
+    },
+    {
+      "source": "catchment",
+      "target": "documentary"
+    },
+    {
+      "source": "catchment",
+      "target": "noddy"
+    },
+    {
+      "source": "catchment",
+      "target": "yarn-s"
+    },
+    {
+      "source": "catchment",
+      "target": "zoroaster"
+    },
+    {
+      "source": "promto",
+      "target": "zoroaster"
+    },
+    {
+      "source": "restream",
+      "target": "catchment"
+    },
+    {
+      "source": "restream",
+      "target": "documentary"
+    },
+    {
+      "source": "restream",
+      "target": "snapshot-context"
+    },
+    {
+      "source": "restream",
+      "target": "spawncommand"
+    },
+    {
+      "source": "restream",
+      "target": "yarn-s"
+    },
+    {
+      "source": "restream",
+      "target": "zoroaster"
+    },
+    {
+      "source": "wrote",
+      "target": "catchment"
+    },
+    {
+      "source": "wrote",
+      "target": "makepromise"
+    },
+    {
+      "source": "wrote",
+      "target": "restream"
+    },
+    {
+      "source": "wrote",
+      "target": "assert-diff"
+    },
+    {
+      "source": "wrote",
+      "target": "fast-async"
+    },
+    {
+      "source": "wrote",
+      "target": "noddy"
+    },
+    {
+      "source": "wrote",
+      "target": "npm-run-all"
+    },
+    {
+      "source": "wrote",
+      "target": "spawncommand"
+    },
+    {
+      "source": "wrote",
+      "target": "zoroaster"
+    },
+    {
+      "source": "makepromise",
+      "target": "erotic"
+    },
+    {
+      "source": "makepromise",
+      "target": "catchment"
+    },
+    {
+      "source": "makepromise",
+      "target": "lockfile"
+    },
+    {
+      "source": "makepromise",
+      "target": "wrote"
+    },
+    {
+      "source": "makepromise",
+      "target": "zoroaster"
+    },
+    {
+      "source": "mnp",
+      "target": "@mnpjs/package"
+    },
+    {
+      "source": "mnp",
+      "target": "@mnpjs/structure"
+    },
+    {
+      "source": "mnp",
+      "target": "africa"
+    },
+    {
+      "source": "mnp",
+      "target": "argufy"
+    },
+    {
+      "source": "mnp",
+      "target": "bosom"
+    },
+    {
+      "source": "mnp",
+      "target": "camel-case"
+    },
+    {
+      "source": "mnp",
+      "target": "erte"
+    },
+    {
+      "source": "mnp",
+      "target": "makepromise"
+    },
+    {
+      "source": "mnp",
+      "target": "mnp-idio"
+    },
+    {
+      "source": "mnp",
+      "target": "promto"
+    },
+    {
+      "source": "mnp",
+      "target": "reloquent"
+    },
+    {
+      "source": "mnp",
+      "target": "restream"
+    },
+    {
+      "source": "mnp",
+      "target": "rqt"
+    },
+    {
+      "source": "mnp",
+      "target": "spawncommand"
+    },
+    {
+      "source": "mnp",
+      "target": "usually"
+    },
+    {
+      "source": "mnp",
+      "target": "wrote"
+    },
+    {
+      "source": "mnp",
+      "target": "assert-diff"
+    },
+    {
+      "source": "mnp",
+      "target": "documentary"
+    },
+    {
+      "source": "mnp",
+      "target": "snapshot-context"
+    },
+    {
+      "source": "mnp",
+      "target": "yarn-s"
+    },
+    {
+      "source": "mnp",
+      "target": "zoroaster"
+    },
+    {
+      "source": "reloquent",
+      "target": "promto"
+    },
+    {
+      "source": "reloquent",
+      "target": "documentary"
+    },
+    {
+      "source": "reloquent",
+      "target": "yarn-s"
+    },
+    {
+      "source": "reloquent",
+      "target": "zoroaster"
+    },
+    {
+      "source": "exiftool-context",
+      "target": "dist-exiftool"
+    },
+    {
+      "source": "exiftool-context",
+      "target": "makepromise"
+    },
+    {
+      "source": "exiftool-context",
+      "target": "node-exiftool"
+    },
+    {
+      "source": "exiftool-context",
+      "target": "wrote"
+    },
+    {
+      "source": "exiftool-context",
+      "target": "catchment"
+    },
+    {
+      "source": "exiftool-context",
+      "target": "zoroaster"
+    },
+    {
+      "source": "splendid",
+      "target": "catchment"
+    },
+    {
+      "source": "splendid",
+      "target": "fsevents"
+    },
+    {
+      "source": "splendid",
+      "target": "highlight.js"
+    },
+    {
+      "source": "splendid",
+      "target": "reloquent"
+    },
+    {
+      "source": "splendid",
+      "target": "restream"
+    },
+    {
+      "source": "splendid",
+      "target": "spawncommand"
+    },
+    {
+      "source": "splendid",
+      "target": "wrote"
+    },
+    {
+      "source": "splendid",
+      "target": "zoroaster"
+    },
+    {
+      "source": "rqt",
+      "target": "catchment"
+    },
+    {
+      "source": "rqt",
+      "target": "erotic"
+    },
+    {
+      "source": "rqt",
+      "target": "documentary"
+    },
+    {
+      "source": "rqt",
+      "target": "server-destroy"
+    },
+    {
+      "source": "rqt",
+      "target": "zoroaster"
+    },
+    {
+      "source": "erotic",
+      "target": "clean-stack"
+    },
+    {
+      "source": "erotic",
+      "target": "noddy"
+    },
+    {
+      "source": "erotic",
+      "target": "yarn-s"
+    },
+    {
+      "source": "erotic",
+      "target": "zoroaster"
+    },
+    {
+      "source": "assert-throws",
+      "target": "erotic"
+    },
+    {
+      "source": "assert-throws",
+      "target": "erte"
+    },
+    {
+      "source": "assert-throws",
+      "target": "snapshot-context"
+    },
+    {
+      "source": "assert-throws",
+      "target": "yarn-s"
+    },
+    {
+      "source": "assert-throws",
+      "target": "zoroaster"
+    },
+    {
+      "source": "africa",
+      "target": "bosom"
+    },
+    {
+      "source": "africa",
+      "target": "reloquent"
+    },
+    {
+      "source": "africa",
+      "target": "documentary"
+    },
+    {
+      "source": "africa",
+      "target": "spawncommand"
+    },
+    {
+      "source": "africa",
+      "target": "wrote"
+    },
+    {
+      "source": "africa",
+      "target": "yarn-s"
+    },
+    {
+      "source": "africa",
+      "target": "zoroaster"
+    },
+    {
+      "source": "noddy",
+      "target": "bestie"
+    },
+    {
+      "source": "noddy",
+      "target": "zoroaster"
+    },
+    {
+      "source": "bestie",
+      "target": "argufy"
+    },
+    {
+      "source": "bestie",
+      "target": "bosom"
+    },
+    {
+      "source": "bestie",
+      "target": "documentary"
+    },
+    {
+      "source": "bestie",
+      "target": "erte"
+    },
+    {
+      "source": "bestie",
+      "target": "reloquent"
+    },
+    {
+      "source": "bestie",
+      "target": "snapshot-context"
+    },
+    {
+      "source": "bestie",
+      "target": "spawncommand"
+    },
+    {
+      "source": "bestie",
+      "target": "tablature"
+    },
+    {
+      "source": "bestie",
+      "target": "usually"
+    },
+    {
+      "source": "bestie",
+      "target": "wrote"
+    },
+    {
+      "source": "bestie",
+      "target": "yarn-s"
+    },
+    {
+      "source": "bestie",
+      "target": "zoroaster"
+    },
+    {
+      "source": "yarn-up",
+      "target": "spawncommand"
+    },
+    {
+      "source": "yarn-up",
+      "target": "zoroaster"
+    },
+    {
+      "source": "expensive",
+      "target": "africa"
+    },
+    {
+      "source": "expensive",
+      "target": "argufy"
+    },
+    {
+      "source": "expensive",
+      "target": "bosom"
+    },
+    {
+      "source": "expensive",
+      "target": "catchment"
+    },
+    {
+      "source": "expensive",
+      "target": "erotic"
+    },
+    {
+      "source": "expensive",
+      "target": "erte"
+    },
+    {
+      "source": "expensive",
+      "target": "promto"
+    },
+    {
+      "source": "expensive",
+      "target": "reloquent"
+    },
+    {
+      "source": "expensive",
+      "target": "rqt"
+    },
+    {
+      "source": "expensive",
+      "target": "tablature"
+    },
+    {
+      "source": "expensive",
+      "target": "usually"
+    },
+    {
+      "source": "expensive",
+      "target": "documentary"
+    },
+    {
+      "source": "expensive",
+      "target": "yarn-s"
+    },
+    {
+      "source": "expensive",
+      "target": "zoroaster"
+    },
+    {
+      "source": "mnp-package",
+      "target": "documentary"
+    },
+    {
+      "source": "snapshot-context",
+      "target": "assert-diff"
+    },
+    {
+      "source": "snapshot-context",
+      "target": "erotic"
+    },
+    {
+      "source": "snapshot-context",
+      "target": "erte"
+    },
+    {
+      "source": "snapshot-context",
+      "target": "reloquent"
+    },
+    {
+      "source": "snapshot-context",
+      "target": "wrote"
+    },
+    {
+      "source": "snapshot-context",
+      "target": "alamode"
+    },
+    {
+      "source": "snapshot-context",
+      "target": "documentary"
+    },
+    {
+      "source": "snapshot-context",
+      "target": "spawncommand"
+    },
+    {
+      "source": "snapshot-context",
+      "target": "strip-ansi"
+    },
+    {
+      "source": "snapshot-context",
+      "target": "yarn-s"
+    },
+    {
+      "source": "snapshot-context",
+      "target": "zoroaster"
+    },
+    {
+      "source": "erte",
+      "target": "diff"
+    },
+    {
+      "source": "erte",
+      "target": "snapshot-context"
+    },
+    {
+      "source": "erte",
+      "target": "zoroaster"
+    },
+    {
+      "source": "yarn-s",
+      "target": "spawncommand"
+    },
+    {
+      "source": "yarn-s",
+      "target": "zoroaster"
+    },
+    {
+      "source": "eslint-config-artdeco",
+      "target": "zoroaster"
+    },
+    {
+      "source": "window-info",
+      "target": "documentary"
+    },
+    {
+      "source": "window-info",
+      "target": "yarn-s"
+    },
+    {
+      "source": "window-info",
+      "target": "zoroaster"
+    },
+    {
+      "source": "argufy",
+      "target": "documentary"
+    },
+    {
+      "source": "argufy",
+      "target": "yarn-s"
+    },
+    {
+      "source": "argufy",
+      "target": "zoroaster"
+    },
+    {
+      "source": "usually",
+      "target": "snapshot-context"
+    },
+    {
+      "source": "usually",
+      "target": "yarn-s"
+    },
+    {
+      "source": "usually",
+      "target": "zoroaster"
+    },
+    {
+      "source": "bosom",
+      "target": "snapshot-context"
+    },
+    {
+      "source": "bosom",
+      "target": "yarn-s"
+    },
+    {
+      "source": "bosom",
+      "target": "zoroaster"
+    },
+    {
+      "source": "documentary",
+      "target": "argufy"
+    },
+    {
+      "source": "documentary",
+      "target": "catchment"
+    },
+    {
+      "source": "documentary",
+      "target": "pedantry"
+    },
+    {
+      "source": "documentary",
+      "target": "restream"
+    },
+    {
+      "source": "documentary",
+      "target": "spawncommand"
+    },
+    {
+      "source": "documentary",
+      "target": "snapshot-context"
+    },
+    {
+      "source": "documentary",
+      "target": "yarn-s"
+    },
+    {
+      "source": "documentary",
+      "target": "zoroaster"
+    },
+    {
+      "source": "tablature",
+      "target": "snapshot-context"
+    },
+    {
+      "source": "tablature",
+      "target": "yarn-s"
+    },
+    {
+      "source": "tablature",
+      "target": "zoroaster"
+    },
+    {
+      "source": "@wrote/read-dir-structure",
+      "target": "makepromise"
+    },
+    {
+      "source": "@wrote/read-dir-structure",
+      "target": "documentary"
+    },
+    {
+      "source": "@wrote/read-dir-structure",
+      "target": "snapshot-context"
+    },
+    {
+      "source": "@wrote/read-dir-structure",
+      "target": "yarn-s"
+    },
+    {
+      "source": "@wrote/read-dir-structure",
+      "target": "zoroaster"
+    },
+    {
+      "source": "pedantry",
+      "target": "@wrote/read-dir-structure"
+    },
+    {
+      "source": "pedantry",
+      "target": "catchment"
+    },
+    {
+      "source": "pedantry",
+      "target": "documentary"
+    },
+    {
+      "source": "pedantry",
+      "target": "snapshot-context"
+    },
+    {
+      "source": "pedantry",
+      "target": "yarn-s"
+    },
+    {
+      "source": "pedantry",
+      "target": "zoroaster"
+    },
+    {
+      "source": "aty",
+      "target": "reloquent"
+    },
+    {
+      "source": "aty",
+      "target": "spawncommand"
+    },
+    {
+      "source": "aty",
+      "target": "usually"
+    },
+    {
+      "source": "aty",
+      "target": "argufy"
+    },
+    {
+      "source": "aty",
+      "target": "documentary"
+    },
+    {
+      "source": "aty",
+      "target": "snapshot-context"
+    },
+    {
+      "source": "aty",
+      "target": "yarn-s"
+    },
+    {
+      "source": "aty",
+      "target": "zoroaster"
+    },
+    {
+      "source": "https-context",
+      "target": "catchment"
+    },
+    {
+      "source": "https-context",
+      "target": "documentary"
+    },
+    {
+      "source": "https-context",
+      "target": "rqt"
+    },
+    {
+      "source": "https-context",
+      "target": "yarn-s"
+    },
+    {
+      "source": "https-context",
+      "target": "zoroaster"
+    },
+    {
+      "source": "@wrote/ensure-path",
+      "target": "makepromise"
+    },
+    {
+      "source": "@wrote/ensure-path",
+      "target": "catchment"
+    },
+    {
+      "source": "@wrote/ensure-path",
+      "target": "documentary"
+    },
+    {
+      "source": "@wrote/ensure-path",
+      "target": "spawncommand"
+    },
+    {
+      "source": "@wrote/ensure-path",
+      "target": "yarn-s"
+    },
+    {
+      "source": "@wrote/ensure-path",
+      "target": "zoroaster"
+    },
+    {
+      "source": "@mnpjs/package",
+      "target": "documentary"
+    },
+    {
+      "source": "@rqt/aqt",
+      "target": "documentary"
+    },
+    {
+      "source": "@rqt/aqt",
+      "target": "https-context"
+    },
+    {
+      "source": "@rqt/aqt",
+      "target": "yarn-s"
+    },
+    {
+      "source": "@rqt/aqt",
+      "target": "zoroaster"
+    },
+    {
+      "source": "rexml",
+      "target": "documentary"
+    },
+    {
+      "source": "rexml",
+      "target": "yarn-s"
+    },
+    {
+      "source": "rexml",
+      "target": "zoroaster"
+    },
+    {
+      "source": "mismatch",
+      "target": "alamode"
+    },
+    {
+      "source": "mismatch",
+      "target": "documentary"
+    },
+    {
+      "source": "mismatch",
+      "target": "yarn-s"
+    },
+    {
+      "source": "mismatch",
+      "target": "zoroaster"
+    },
+    {
+      "source": "@a-la/import",
+      "target": "@a-la/context"
+    },
+    {
+      "source": "@a-la/import",
+      "target": "alamode"
+    },
+    {
+      "source": "@a-la/import",
+      "target": "catchment"
+    },
+    {
+      "source": "@a-la/import",
+      "target": "documentary"
+    },
+    {
+      "source": "@a-la/import",
+      "target": "restream"
+    },
+    {
+      "source": "@a-la/import",
+      "target": "yarn-s"
+    },
+    {
+      "source": "@a-la/import",
+      "target": "zoroaster"
+    },
+    {
+      "source": "alamode",
+      "target": "@a-la/export"
+    },
+    {
+      "source": "alamode",
+      "target": "@a-la/import"
+    },
+    {
+      "source": "alamode",
+      "target": "@wrote/ensure-path"
+    },
+    {
+      "source": "alamode",
+      "target": "@wrote/read-dir-structure"
+    },
+    {
+      "source": "alamode",
+      "target": "argufy"
+    },
+    {
+      "source": "alamode",
+      "target": "pirates"
+    },
+    {
+      "source": "alamode",
+      "target": "restream"
+    },
+    {
+      "source": "alamode",
+      "target": "source-map"
+    },
+    {
+      "source": "alamode",
+      "target": "usually"
+    },
+    {
+      "source": "alamode",
+      "target": "which-stream"
+    },
+    {
+      "source": "alamode",
+      "target": "catchment"
+    },
+    {
+      "source": "alamode",
+      "target": "documentary"
+    },
+    {
+      "source": "alamode",
+      "target": "snapshot-context"
+    },
+    {
+      "source": "alamode",
+      "target": "spawncommand"
+    },
+    {
+      "source": "alamode",
+      "target": "yarn-s"
+    },
+    {
+      "source": "alamode",
+      "target": "zoroaster"
+    },
+    {
+      "source": "@a-la/export",
+      "target": "@a-la/context"
+    },
+    {
+      "source": "@a-la/export",
+      "target": "alamode"
+    },
+    {
+      "source": "@a-la/export",
+      "target": "catchment"
+    },
+    {
+      "source": "@a-la/export",
+      "target": "documentary"
+    },
+    {
+      "source": "@a-la/export",
+      "target": "erte"
+    },
+    {
+      "source": "@a-la/export",
+      "target": "restream"
+    },
+    {
+      "source": "@a-la/export",
+      "target": "yarn-s"
+    },
+    {
+      "source": "@a-la/export",
+      "target": "zoroaster"
+    },
+    {
+      "source": "which-stream",
+      "target": "catchment"
+    },
+    {
+      "source": "which-stream",
+      "target": "@wrote/ensure-path"
+    },
+    {
+      "source": "which-stream",
+      "target": "documentary"
+    },
+    {
+      "source": "which-stream",
+      "target": "yarn-s"
+    },
+    {
+      "source": "which-stream",
+      "target": "zoroaster"
+    },
+    {
+      "source": "@a-la/context",
+      "target": "catchment"
+    },
+    {
+      "source": "@a-la/context",
+      "target": "erte"
+    },
+    {
+      "source": "@a-la/context",
+      "target": "restream"
+    },
+    {
+      "source": "@a-la/context",
+      "target": "alamode"
+    },
+    {
+      "source": "@a-la/context",
+      "target": "documentary"
+    },
+    {
+      "source": "@a-la/context",
+      "target": "yarn-s"
+    },
+    {
+      "source": "@a-la/context",
+      "target": "zoroaster"
+    }
+  ]
+}
