@@ -1,14 +1,15 @@
 import _packages from './packages.json'
-import { getCachePath  } from './lib'
+import { getCachePath, GIT  } from './lib'
 import spawn from 'spawncommand'
 import bosom from 'bosom'
+import { join } from 'path'
 
 ;(async () => {
   const info = await bosom('git-cache.json')
   await _packages.reduce(async (acc, name) => {
     await acc
     const to = getCachePath(name, 'commits')
-    const gitPath = info[name]
+    const gitPath = join(GIT, info[name])
     console.log(gitPath)
     await reset({ gitPath })
     const log = await getLog({ gitPath, name })
@@ -18,10 +19,10 @@ import bosom from 'bosom'
 })()
 
 const reset = async ({ gitPath }) => {
-  // const { promise } = spawn('git', ['reset', '--hard', 'origin/master'], {
-  //   cwd: gitPath,
-  // })
-  // await promise
+  const { promise } = spawn('git', ['reset', '--hard', 'origin/master'], {
+    cwd: gitPath,
+  })
+  await promise
 }
 const getLog = async ({ gitPath, name }) => {
   const { promise } = spawn('git', ['log', '--pretty=format:"%h%x09%ad%x09%s"'], {

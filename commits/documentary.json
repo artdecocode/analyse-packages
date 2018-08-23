@@ -1,0 +1,1982 @@
+[
+  {
+    "name": "documentary",
+    "hash": "371f0e3",
+    "date": "2018-08-06T02:40:17.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "5f728a6",
+    "date": "2018-08-06T02:40:07.000Z",
+    "subject": "fix test\""
+  },
+  {
+    "name": "documentary",
+    "hash": "b03025e",
+    "date": "2018-08-06T02:36:58.000Z",
+    "subject": "types & imports cross-links\""
+  },
+  {
+    "name": "documentary",
+    "hash": "33213c9",
+    "date": "2018-08-05T23:29:24.000Z",
+    "subject": "build escape pipe\""
+  },
+  {
+    "name": "documentary",
+    "hash": "abb432a",
+    "date": "2018-08-05T23:29:11.000Z",
+    "subject": "escape pipe\""
+  },
+  {
+    "name": "documentary",
+    "hash": "5b4efb8",
+    "date": "2018-08-05T22:24:01.000Z",
+    "subject": "note of spread manual remove\""
+  },
+  {
+    "name": "documentary",
+    "hash": "19ac7d2",
+    "date": "2018-08-05T22:19:41.000Z",
+    "subject": "build + doc noExpand\""
+  },
+  {
+    "name": "documentary",
+    "hash": "6b958ab",
+    "date": "2018-08-05T22:19:08.000Z",
+    "subject": "noExpand for a type as @param\""
+  },
+  {
+    "name": "documentary",
+    "hash": "88d77d9",
+    "date": "2018-08-05T20:30:16.000Z",
+    "subject": "build no prop desc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "4ba488e",
+    "date": "2018-08-05T20:29:20.000Z",
+    "subject": "write property without description\""
+  },
+  {
+    "name": "documentary",
+    "hash": "ee3f560",
+    "date": "2018-08-05T20:18:32.000Z",
+    "subject": "build optional\""
+  },
+  {
+    "name": "documentary",
+    "hash": "4006205",
+    "date": "2018-08-05T20:18:10.000Z",
+    "subject": "enable optional expanded @param type\""
+  },
+  {
+    "name": "documentary",
+    "hash": "6328aa3",
+    "date": "2018-08-05T17:20:15.000Z",
+    "subject": "c1.11.0\""
+  },
+  {
+    "name": "documentary",
+    "hash": "7b141ce",
+    "date": "2018-08-05T17:18:30.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "f6e26f1",
+    "date": "2018-08-05T17:17:37.000Z",
+    "subject": "Merge pull request #27 from artdecocode/typedef-doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "a66067c",
+    "date": "2018-08-05T17:15:19.000Z",
+    "subject": "doc tweaks\""
+  },
+  {
+    "name": "documentary",
+    "hash": "efdf82d",
+    "date": "2018-08-05T17:10:17.000Z",
+    "subject": "enable tests\""
+  },
+  {
+    "name": "documentary",
+    "hash": "663007b",
+    "date": "2018-08-05T17:07:23.000Z",
+    "subject": "build doc spread\""
+  },
+  {
+    "name": "documentary",
+    "hash": "7afd4cb",
+    "date": "2018-08-05T17:07:02.000Z",
+    "subject": "doc spread\""
+  },
+  {
+    "name": "documentary",
+    "hash": "7102235",
+    "date": "2018-08-05T17:04:49.000Z",
+    "subject": "spread type\""
+  },
+  {
+    "name": "documentary",
+    "hash": "1f5e6cf",
+    "date": "2018-08-05T16:54:53.000Z",
+    "subject": "doc ge in cli\""
+  },
+  {
+    "name": "documentary",
+    "hash": "c8c846c",
+    "date": "2018-08-05T16:40:09.000Z",
+    "subject": "preview prop desc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "3038f33",
+    "date": "2018-08-05T16:32:18.000Z",
+    "subject": "expanded & spread\""
+  },
+  {
+    "name": "documentary",
+    "hash": "e7778fd",
+    "date": "2018-08-05T15:44:29.000Z",
+    "subject": "easier migration example\""
+  },
+  {
+    "name": "documentary",
+    "hash": "97cf0de",
+    "date": "2018-08-05T15:39:12.000Z",
+    "subject": "doc w/ new lines in extract\""
+  },
+  {
+    "name": "documentary",
+    "hash": "0310056",
+    "date": "2018-08-05T15:38:57.000Z",
+    "subject": "new lines in props desc in extract\""
+  },
+  {
+    "name": "documentary",
+    "hash": "8e59ce7",
+    "date": "2018-08-05T15:35:38.000Z",
+    "subject": "don't add opt with default in extract\""
+  },
+  {
+    "name": "documentary",
+    "hash": "caaa250",
+    "date": "2018-08-05T15:32:19.000Z",
+    "subject": "update doc w/ new extract\""
+  },
+  {
+    "name": "documentary",
+    "hash": "2056c99",
+    "date": "2018-08-05T15:31:11.000Z",
+    "subject": "extract to imports\""
+  },
+  {
+    "name": "documentary",
+    "hash": "3f42e54",
+    "date": "2018-08-05T15:19:57.000Z",
+    "subject": "full node names in extract\""
+  },
+  {
+    "name": "documentary",
+    "hash": "c2e793b",
+    "date": "2018-08-05T15:13:55.000Z",
+    "subject": "migration\""
+  },
+  {
+    "name": "documentary",
+    "hash": "3a2ad64",
+    "date": "2018-08-05T15:00:04.000Z",
+    "subject": "rearrange sections\""
+  },
+  {
+    "name": "documentary",
+    "hash": "4a0f9ef",
+    "date": "2018-08-05T14:57:50.000Z",
+    "subject": "add typedef js section\""
+  },
+  {
+    "name": "documentary",
+    "hash": "cc35e05",
+    "date": "2018-08-05T14:50:32.000Z",
+    "subject": "edit typedef doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "07f9637",
+    "date": "2018-08-05T14:47:17.000Z",
+    "subject": "update typedef-config.gif\""
+  },
+  {
+    "name": "documentary",
+    "hash": "6af78a2",
+    "date": "2018-08-05T14:38:42.000Z",
+    "subject": "add no-expansion gif\""
+  },
+  {
+    "name": "documentary",
+    "hash": "d7f9fff",
+    "date": "2018-08-05T14:38:14.000Z",
+    "subject": "edit typedef doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "0f9fcdb",
+    "date": "2018-08-05T13:56:20.000Z",
+    "subject": "organise typedef doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "b41372b",
+    "date": "2018-08-05T13:52:27.000Z",
+    "subject": "move typedef doc to a dir\""
+  },
+  {
+    "name": "documentary",
+    "hash": "381f676",
+    "date": "2018-08-05T13:51:06.000Z",
+    "subject": "fix typedef required props + rename t -> type & p -> prop\""
+  },
+  {
+    "name": "documentary",
+    "hash": "128a886",
+    "date": "2018-08-05T13:48:04.000Z",
+    "subject": "t -> type in xml, Type.toMarkdown method\""
+  },
+  {
+    "name": "documentary",
+    "hash": "9148d61",
+    "date": "2018-08-05T13:25:22.000Z",
+    "subject": "rename typedef snapshots\""
+  },
+  {
+    "name": "documentary",
+    "hash": "732db00",
+    "date": "2018-08-05T11:49:12.000Z",
+    "subject": "rename tests\""
+  },
+  {
+    "name": "documentary",
+    "hash": "bae1cb9",
+    "date": "2018-08-05T11:38:29.000Z",
+    "subject": "edit typedef doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "f505e1b",
+    "date": "2018-08-05T01:11:40.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "f9eb6ec",
+    "date": "2018-08-05T01:10:55.000Z",
+    "subject": "move jsdoc rule\""
+  },
+  {
+    "name": "documentary",
+    "hash": "a4da919",
+    "date": "2018-08-05T01:08:17.000Z",
+    "subject": "jsdoc replaceable test + implementation\""
+  },
+  {
+    "name": "documentary",
+    "hash": "43306b7",
+    "date": "2018-08-04T23:58:29.000Z",
+    "subject": "emit typedefs\""
+  },
+  {
+    "name": "documentary",
+    "hash": "0c9f694",
+    "date": "2018-08-04T23:35:34.000Z",
+    "subject": "refactor typedefs\""
+  },
+  {
+    "name": "documentary",
+    "hash": "2e8a251",
+    "date": "2018-08-04T23:24:51.000Z",
+    "subject": "Type tests and class\""
+  },
+  {
+    "name": "documentary",
+    "hash": "f54662b",
+    "date": "2018-08-04T22:44:29.000Z",
+    "subject": "use context in Property fromXML tests\""
+  },
+  {
+    "name": "documentary",
+    "hash": "31f0b04",
+    "date": "2018-08-04T22:29:30.000Z",
+    "subject": "property class and tests\""
+  },
+  {
+    "name": "documentary",
+    "hash": "5a61484",
+    "date": "2018-08-04T12:04:37.000Z",
+    "subject": "jsdoc-re\""
+  },
+  {
+    "name": "documentary",
+    "hash": "0a36304",
+    "date": "2018-08-03T19:39:13.000Z",
+    "subject": "move typedef re tests\""
+  },
+  {
+    "name": "documentary",
+    "hash": "04d485b",
+    "date": "2018-08-03T19:27:49.000Z",
+    "subject": "update references to static.xml types\""
+  },
+  {
+    "name": "documentary",
+    "hash": "5e9882f",
+    "date": "2018-08-03T19:20:22.000Z",
+    "subject": "update static types ln\""
+  },
+  {
+    "name": "documentary",
+    "hash": "3e40e7c",
+    "date": "2018-08-03T19:11:37.000Z",
+    "subject": "u snapshot-context\""
+  },
+  {
+    "name": "documentary",
+    "hash": "137ca33",
+    "date": "2018-08-03T18:36:52.000Z",
+    "subject": "move types\""
+  },
+  {
+    "name": "documentary",
+    "hash": "c9be67c",
+    "date": "2018-08-03T10:43:22.000Z",
+    "subject": "u snapshot-context\""
+  },
+  {
+    "name": "documentary",
+    "hash": "85f7a05",
+    "date": "2018-07-28T02:20:48.000Z",
+    "subject": "use import in a test, fix missing new line\""
+  },
+  {
+    "name": "documentary",
+    "hash": "fbb4a89",
+    "date": "2018-07-28T02:11:25.000Z",
+    "subject": "add tags\""
+  },
+  {
+    "name": "documentary",
+    "hash": "15d96fb",
+    "date": "2018-07-28T02:01:00.000Z",
+    "subject": "doc import more\""
+  },
+  {
+    "name": "documentary",
+    "hash": "4067846",
+    "date": "2018-07-28T01:55:52.000Z",
+    "subject": "document imports\""
+  },
+  {
+    "name": "documentary",
+    "hash": "9000f46",
+    "date": "2018-07-28T01:45:52.000Z",
+    "subject": "add generate bin snapshot test\""
+  },
+  {
+    "name": "documentary",
+    "hash": "0ccd334",
+    "date": "2018-07-28T01:39:26.000Z",
+    "subject": "move generate imports snapshot\""
+  },
+  {
+    "name": "documentary",
+    "hash": "494b1e5",
+    "date": "2018-07-28T01:34:42.000Z",
+    "subject": "rename bin test\""
+  },
+  {
+    "name": "documentary",
+    "hash": "9537080",
+    "date": "2018-07-28T01:33:56.000Z",
+    "subject": "build imports\""
+  },
+  {
+    "name": "documentary",
+    "hash": "4890437",
+    "date": "2018-07-28T01:33:03.000Z",
+    "subject": "typedef no \\n after imports\""
+  },
+  {
+    "name": "documentary",
+    "hash": "644ac4d",
+    "date": "2018-07-28T01:31:18.000Z",
+    "subject": "generate imports and update snapshots for new line after @typedef\""
+  },
+  {
+    "name": "documentary",
+    "hash": "7d86b9d",
+    "date": "2018-07-28T01:26:36.000Z",
+    "subject": "extract props no desc test\""
+  },
+  {
+    "name": "documentary",
+    "hash": "18e375b",
+    "date": "2018-07-28T01:23:18.000Z",
+    "subject": "test generated imports\""
+  },
+  {
+    "name": "documentary",
+    "hash": "99b7eb8",
+    "date": "2018-07-28T00:37:02.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "4e1c560",
+    "date": "2018-07-28T00:31:12.000Z",
+    "subject": "write test for generate imports\""
+  },
+  {
+    "name": "documentary",
+    "hash": "37d1bce",
+    "date": "2018-07-28T00:24:54.000Z",
+    "subject": "which stream args\""
+  },
+  {
+    "name": "documentary",
+    "hash": "31bb877",
+    "date": "2018-07-28T00:22:20.000Z",
+    "subject": "typedef example\""
+  },
+  {
+    "name": "documentary",
+    "hash": "442ebe7",
+    "date": "2018-07-28T00:15:53.000Z",
+    "subject": "destination\""
+  },
+  {
+    "name": "documentary",
+    "hash": "88628a6",
+    "date": "2018-07-28T00:11:32.000Z",
+    "subject": "which-stream\""
+  },
+  {
+    "name": "documentary",
+    "hash": "b06ebc5",
+    "date": "2018-07-27T22:46:37.000Z",
+    "subject": "which stream, generate vs typedef\""
+  },
+  {
+    "name": "documentary",
+    "hash": "905671c",
+    "date": "2018-07-27T22:00:01.000Z",
+    "subject": "document extract\""
+  },
+  {
+    "name": "documentary",
+    "hash": "c5b0d6a",
+    "date": "2018-07-27T21:29:50.000Z",
+    "subject": "b: option desc of prop, runJs Config jsdoc, typedef new line\""
+  },
+  {
+    "name": "documentary",
+    "hash": "fd0b1c4",
+    "date": "2018-07-27T21:28:19.000Z",
+    "subject": "new line after typedef, jsDoc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "86dbaec",
+    "date": "2018-07-27T19:57:15.000Z",
+    "subject": "optional desc to property\""
+  },
+  {
+    "name": "documentary",
+    "hash": "6c25a4a",
+    "date": "2018-07-27T19:45:35.000Z",
+    "subject": "remove old files\""
+  },
+  {
+    "name": "documentary",
+    "hash": "25ca095",
+    "date": "2018-07-27T19:38:20.000Z",
+    "subject": "b\""
+  },
+  {
+    "name": "documentary",
+    "hash": "7d31838",
+    "date": "2018-07-27T19:38:04.000Z",
+    "subject": "test extract\""
+  },
+  {
+    "name": "documentary",
+    "hash": "ae02e4b",
+    "date": "2018-07-27T19:08:01.000Z",
+    "subject": "some refactor\""
+  },
+  {
+    "name": "documentary",
+    "hash": "50dd8f1",
+    "date": "2018-07-27T18:51:52.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "d77b9ca",
+    "date": "2018-07-27T18:49:06.000Z",
+    "subject": "implement extract\""
+  },
+  {
+    "name": "documentary",
+    "hash": "d35f6b8",
+    "date": "2018-07-27T18:47:28.000Z",
+    "subject": "catcher\""
+  },
+  {
+    "name": "documentary",
+    "hash": "bc530ab",
+    "date": "2018-07-27T18:47:09.000Z",
+    "subject": "organise bin + lib\""
+  },
+  {
+    "name": "documentary",
+    "hash": "cc929af",
+    "date": "2018-07-27T18:46:02.000Z",
+    "subject": "typedef lib - getNameWithDefault\""
+  },
+  {
+    "name": "documentary",
+    "hash": "822c90c",
+    "date": "2018-07-27T18:37:51.000Z",
+    "subject": "install mismatch\""
+  },
+  {
+    "name": "documentary",
+    "hash": "2449b3a",
+    "date": "2018-07-27T00:17:44.000Z",
+    "subject": "run dir\""
+  },
+  {
+    "name": "documentary",
+    "hash": "1e512fd",
+    "date": "2018-07-26T23:59:07.000Z",
+    "subject": "build save-existing\""
+  },
+  {
+    "name": "documentary",
+    "hash": "7cd4c06",
+    "date": "2018-07-26T23:54:11.000Z",
+    "subject": "typedef-existing\""
+  },
+  {
+    "name": "documentary",
+    "hash": "ea8d65c",
+    "date": "2018-07-26T23:27:31.000Z",
+    "subject": "print version\""
+  },
+  {
+    "name": "documentary",
+    "hash": "d7dd835",
+    "date": "2018-07-26T23:03:11.000Z",
+    "subject": "Merge pull request #21 from artdecocode/types.xml\""
+  },
+  {
+    "name": "documentary",
+    "hash": "653657d",
+    "date": "2018-07-26T22:57:43.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "180a3be",
+    "date": "2018-07-26T22:57:31.000Z",
+    "subject": "print saved to output when -T -o is given\""
+  },
+  {
+    "name": "documentary",
+    "hash": "0da5d98",
+    "date": "2018-07-26T22:56:43.000Z",
+    "subject": "update catchment and restream\""
+  },
+  {
+    "name": "documentary",
+    "hash": "36cb1e8",
+    "date": "2018-07-26T22:50:19.000Z",
+    "subject": "doc js regex\""
+  },
+  {
+    "name": "documentary",
+    "hash": "5e4667f",
+    "date": "2018-07-26T22:50:08.000Z",
+    "subject": "relative type fixture\""
+  },
+  {
+    "name": "documentary",
+    "hash": "af76d41",
+    "date": "2018-07-26T22:49:53.000Z",
+    "subject": "update snapshot\""
+  },
+  {
+    "name": "documentary",
+    "hash": "edef02e",
+    "date": "2018-07-26T22:35:59.000Z",
+    "subject": "build *@typedef undefined bug fix*\""
+  },
+  {
+    "name": "documentary",
+    "hash": "4b0a6f0",
+    "date": "2018-07-25T19:36:40.000Z",
+    "subject": "typedef screenshots\""
+  },
+  {
+    "name": "documentary",
+    "hash": "5d1fa2c",
+    "date": "2018-07-25T19:26:28.000Z",
+    "subject": "typedef example\""
+  },
+  {
+    "name": "documentary",
+    "hash": "cf72640",
+    "date": "2018-07-25T19:26:22.000Z",
+    "subject": "fix undefined bug in typedef\""
+  },
+  {
+    "name": "documentary",
+    "hash": "8c87387",
+    "date": "2018-07-25T19:17:33.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "abcaf58",
+    "date": "2018-07-25T19:17:20.000Z",
+    "subject": "run-js processor\""
+  },
+  {
+    "name": "documentary",
+    "hash": "b500de8",
+    "date": "2018-07-25T19:17:13.000Z",
+    "subject": "typedef use examples\""
+  },
+  {
+    "name": "documentary",
+    "hash": "93dba99",
+    "date": "2018-07-25T19:14:03.000Z",
+    "subject": "fix typedefJs\""
+  },
+  {
+    "name": "documentary",
+    "hash": "fd310cc",
+    "date": "2018-07-25T19:12:59.000Z",
+    "subject": "ls static.xml\""
+  },
+  {
+    "name": "documentary",
+    "hash": "b3fd373",
+    "date": "2018-07-25T19:12:35.000Z",
+    "subject": "get-args\""
+  },
+  {
+    "name": "documentary",
+    "hash": "d529714",
+    "date": "2018-07-25T19:12:07.000Z",
+    "subject": "typedef example\""
+  },
+  {
+    "name": "documentary",
+    "hash": "7c5f3d0",
+    "date": "2018-07-25T19:11:45.000Z",
+    "subject": "typedef-raw example\""
+  },
+  {
+    "name": "documentary",
+    "hash": "317f389",
+    "date": "2018-07-25T19:11:20.000Z",
+    "subject": "EXAMPLE: non-greedy\""
+  },
+  {
+    "name": "documentary",
+    "hash": "a4c5c2c",
+    "date": "2018-07-25T19:11:02.000Z",
+    "subject": "TYPE: required prop name to have *\""
+  },
+  {
+    "name": "documentary",
+    "hash": "db0a7f5",
+    "date": "2018-07-20T18:00:42.000Z",
+    "subject": "add typedef example\""
+  },
+  {
+    "name": "documentary",
+    "hash": "32201e0",
+    "date": "2018-07-20T01:57:28.000Z",
+    "subject": "noToc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "deaf4eb",
+    "date": "2018-07-20T01:47:27.000Z",
+    "subject": "embed all types from an xml file\""
+  },
+  {
+    "name": "documentary",
+    "hash": "787a492",
+    "date": "2018-07-20T01:46:04.000Z",
+    "subject": "doc all types from xml\""
+  },
+  {
+    "name": "documentary",
+    "hash": "c20b0b3",
+    "date": "2018-07-20T01:14:01.000Z",
+    "subject": "place typedef as a line\""
+  },
+  {
+    "name": "documentary",
+    "hash": "9982cb1",
+    "date": "2018-07-20T01:06:57.000Z",
+    "subject": "dep typedefs in readme\""
+  },
+  {
+    "name": "documentary",
+    "hash": "7eac9ce",
+    "date": "2018-07-20T00:58:54.000Z",
+    "subject": "implement typedef-md\""
+  },
+  {
+    "name": "documentary",
+    "hash": "eb2da7b",
+    "date": "2018-07-20T00:58:24.000Z",
+    "subject": "test typedef-md\""
+  },
+  {
+    "name": "documentary",
+    "hash": "f2debf4",
+    "date": "2018-07-20T00:45:52.000Z",
+    "subject": "place typedef in readme\""
+  },
+  {
+    "name": "documentary",
+    "hash": "6ea3e4c",
+    "date": "2018-07-19T22:37:27.000Z",
+    "subject": "screenshot types result\""
+  },
+  {
+    "name": "documentary",
+    "hash": "d3e9108",
+    "date": "2018-07-19T22:32:39.000Z",
+    "subject": "mv read to lib\""
+  },
+  {
+    "name": "documentary",
+    "hash": "1b51e0e",
+    "date": "2018-07-19T22:32:25.000Z",
+    "subject": "process types with js-replace-stream\""
+  },
+  {
+    "name": "documentary",
+    "hash": "0644075",
+    "date": "2018-07-19T17:08:48.000Z",
+    "subject": "update rexml\""
+  },
+  {
+    "name": "documentary",
+    "hash": "b34ec1d",
+    "date": "2018-07-18T23:42:07.000Z",
+    "subject": "use fixture for types example\""
+  },
+  {
+    "name": "documentary",
+    "hash": "f164d61",
+    "date": "2018-07-18T22:36:05.000Z",
+    "subject": "-T doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "c15364d",
+    "date": "2018-07-18T22:29:14.000Z",
+    "subject": "-T doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "2671ece",
+    "date": "2018-07-18T21:14:45.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "88cb17d",
+    "date": "2018-07-18T21:14:03.000Z",
+    "subject": "Merge pull request #20 from artdecocode/rexml\""
+  },
+  {
+    "name": "documentary",
+    "hash": "63186b4",
+    "date": "2018-07-18T21:12:00.000Z",
+    "subject": "use rexml\""
+  },
+  {
+    "name": "documentary",
+    "hash": "807d656",
+    "date": "2018-07-18T21:11:50.000Z",
+    "subject": "install rexml\""
+  },
+  {
+    "name": "documentary",
+    "hash": "00e9cbb",
+    "date": "2018-07-18T01:35:35.000Z",
+    "subject": "v1.10.0\""
+  },
+  {
+    "name": "documentary",
+    "hash": "14fcd80",
+    "date": "2018-07-18T01:31:12.000Z",
+    "subject": "c1100\""
+  },
+  {
+    "name": "documentary",
+    "hash": "adf54ce",
+    "date": "2018-07-18T01:29:53.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "08c8c61",
+    "date": "2018-07-18T01:29:02.000Z",
+    "subject": "Merge pull request #19 from artdecocode/example-row\""
+  },
+  {
+    "name": "documentary",
+    "hash": "f673cd1",
+    "date": "2018-07-18T01:27:20.000Z",
+    "subject": "doc no example header\""
+  },
+  {
+    "name": "documentary",
+    "hash": "e37a800",
+    "date": "2018-07-18T01:26:25.000Z",
+    "subject": "no example heading when no examples\""
+  },
+  {
+    "name": "documentary",
+    "hash": "70c9519",
+    "date": "2018-07-18T01:10:22.000Z",
+    "subject": "non-greedy type\""
+  },
+  {
+    "name": "documentary",
+    "hash": "2ddd52b",
+    "date": "2018-07-18T01:04:53.000Z",
+    "subject": "example row doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "991c42d",
+    "date": "2018-07-18T00:39:14.000Z",
+    "subject": "example row tests\""
+  },
+  {
+    "name": "documentary",
+    "hash": "172fe23",
+    "date": "2018-07-17T06:28:47.000Z",
+    "subject": "v1.9.0\""
+  },
+  {
+    "name": "documentary",
+    "hash": "ee10457",
+    "date": "2018-07-17T06:28:21.000Z",
+    "subject": "c190\""
+  },
+  {
+    "name": "documentary",
+    "hash": "04b5547",
+    "date": "2018-07-17T06:27:08.000Z",
+    "subject": "Merge pull request #17 from artdecocode/git-push\""
+  },
+  {
+    "name": "documentary",
+    "hash": "93b0f4c",
+    "date": "2018-07-17T06:26:33.000Z",
+    "subject": "nl\""
+  },
+  {
+    "name": "documentary",
+    "hash": "d9ba8a8",
+    "date": "2018-07-17T06:25:14.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "94d6922",
+    "date": "2018-07-17T06:23:57.000Z",
+    "subject": "document cli\""
+  },
+  {
+    "name": "documentary",
+    "hash": "969f54e",
+    "date": "2018-07-17T06:18:43.000Z",
+    "subject": "more -p implementation\""
+  },
+  {
+    "name": "documentary",
+    "hash": "b40c7c8",
+    "date": "2018-07-17T06:18:18.000Z",
+    "subject": "remove scripts\""
+  },
+  {
+    "name": "documentary",
+    "hash": "5a593b8",
+    "date": "2018-07-17T06:16:52.000Z",
+    "subject": "document -p\""
+  },
+  {
+    "name": "documentary",
+    "hash": "e8ffb79",
+    "date": "2018-07-17T06:04:46.000Z",
+    "subject": "-p to watch\""
+  },
+  {
+    "name": "documentary",
+    "hash": "946d445",
+    "date": "2018-07-17T06:03:57.000Z",
+    "subject": "rename doc folder\""
+  },
+  {
+    "name": "documentary",
+    "hash": "1f74bb3",
+    "date": "2018-07-17T06:02:56.000Z",
+    "subject": "implement -p\""
+  },
+  {
+    "name": "documentary",
+    "hash": "9ef0445",
+    "date": "2018-07-03T11:48:45.000Z",
+    "subject": "v1.8.2\""
+  },
+  {
+    "name": "documentary",
+    "hash": "1217045",
+    "date": "2018-07-03T11:48:35.000Z",
+    "subject": "c182\""
+  },
+  {
+    "name": "documentary",
+    "hash": "a1d85b2",
+    "date": "2018-07-03T11:44:55.000Z",
+    "subject": "matches context assertions\""
+  },
+  {
+    "name": "documentary",
+    "hash": "73aaa7e",
+    "date": "2018-07-03T10:07:21.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "25d57a5",
+    "date": "2018-07-03T10:06:44.000Z",
+    "subject": "badge separate implementation\""
+  },
+  {
+    "name": "documentary",
+    "hash": "c3f80d0",
+    "date": "2018-07-03T10:06:26.000Z",
+    "subject": "badge test\""
+  },
+  {
+    "name": "documentary",
+    "hash": "93d50c1",
+    "date": "2018-07-03T09:36:06.000Z",
+    "subject": "snapshot & fixture for scoped package name\""
+  },
+  {
+    "name": "documentary",
+    "hash": "9e850d3",
+    "date": "2018-06-30T18:39:46.000Z",
+    "subject": "v1.8.1\""
+  },
+  {
+    "name": "documentary",
+    "hash": "957e715",
+    "date": "2018-06-30T18:39:31.000Z",
+    "subject": "fix c\""
+  },
+  {
+    "name": "documentary",
+    "hash": "7763d97",
+    "date": "2018-06-30T18:38:20.000Z",
+    "subject": "update snapshots\""
+  },
+  {
+    "name": "documentary",
+    "hash": "f1ddaf0",
+    "date": "2018-06-30T18:35:32.000Z",
+    "subject": "c181\""
+  },
+  {
+    "name": "documentary",
+    "hash": "8f96b06",
+    "date": "2018-06-30T18:33:08.000Z",
+    "subject": "build rule\""
+  },
+  {
+    "name": "documentary",
+    "hash": "8aec17f",
+    "date": "2018-06-30T18:33:03.000Z",
+    "subject": "correct yarn-s\""
+  },
+  {
+    "name": "documentary",
+    "hash": "c8cf220",
+    "date": "2018-06-30T18:30:35.000Z",
+    "subject": "Merge pull request #6 from artdecocode/frame\""
+  },
+  {
+    "name": "documentary",
+    "hash": "13dde36",
+    "date": "2018-06-29T19:47:17.000Z",
+    "subject": "xml type\""
+  },
+  {
+    "name": "documentary",
+    "hash": "855b707",
+    "date": "2018-06-29T19:45:09.000Z",
+    "subject": "align td\""
+  },
+  {
+    "name": "documentary",
+    "hash": "3326aa5",
+    "date": "2018-06-29T18:37:22.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "493c413",
+    "date": "2018-06-26T05:49:54.000Z",
+    "subject": "v1.8.0\""
+  },
+  {
+    "name": "documentary",
+    "hash": "43a231a",
+    "date": "2018-06-26T05:49:34.000Z",
+    "subject": "c180\""
+  },
+  {
+    "name": "documentary",
+    "hash": "8ee9709",
+    "date": "2018-06-26T05:39:20.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "8f1e61b",
+    "date": "2018-06-26T05:39:18.000Z",
+    "subject": "remove ignore settings note\""
+  },
+  {
+    "name": "documentary",
+    "hash": "4b03cfc",
+    "date": "2018-06-26T05:35:31.000Z",
+    "subject": "short type for Toc in method titles\""
+  },
+  {
+    "name": "documentary",
+    "hash": "9bd50ce",
+    "date": "2018-06-26T05:27:43.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "3d6d04d",
+    "date": "2018-06-26T05:25:16.000Z",
+    "subject": "document `skipLevelOne`\""
+  },
+  {
+    "name": "documentary",
+    "hash": "10d4a1c",
+    "date": "2018-06-26T05:07:16.000Z",
+    "subject": "TocConfig Type\""
+  },
+  {
+    "name": "documentary",
+    "hash": "6c105c8",
+    "date": "2018-06-26T04:58:23.000Z",
+    "subject": "yarn b\""
+  },
+  {
+    "name": "documentary",
+    "hash": "01461fd",
+    "date": "2018-06-26T04:58:10.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "dd8ed32",
+    "date": "2018-06-26T04:57:59.000Z",
+    "subject": "test TYPE\""
+  },
+  {
+    "name": "documentary",
+    "hash": "3585d6b",
+    "date": "2018-06-26T04:57:44.000Z",
+    "subject": "implement type\""
+  },
+  {
+    "name": "documentary",
+    "hash": "0c8d02f",
+    "date": "2018-06-26T04:57:07.000Z",
+    "subject": "chmod +x bin\""
+  },
+  {
+    "name": "documentary",
+    "hash": "2b5feb3",
+    "date": "2018-06-26T04:48:55.000Z",
+    "subject": "type doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "c93740e",
+    "date": "2018-06-24T22:39:37.000Z",
+    "subject": "v1.7.0\""
+  },
+  {
+    "name": "documentary",
+    "hash": "18bc7c3",
+    "date": "2018-06-24T22:39:26.000Z",
+    "subject": "c170\""
+  },
+  {
+    "name": "documentary",
+    "hash": "5e1fb93",
+    "date": "2018-06-24T22:39:21.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "89efc12",
+    "date": "2018-06-24T22:35:39.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "788b555",
+    "date": "2018-06-24T22:20:23.000Z",
+    "subject": "gif rule\""
+  },
+  {
+    "name": "documentary",
+    "hash": "95d64d8",
+    "date": "2018-06-24T22:17:47.000Z",
+    "subject": "babel => b\""
+  },
+  {
+    "name": "documentary",
+    "hash": "a8fe11b",
+    "date": "2018-06-22T10:11:58.000Z",
+    "subject": "v1.6.1\""
+  },
+  {
+    "name": "documentary",
+    "hash": "19713ab",
+    "date": "2018-06-22T10:11:47.000Z",
+    "subject": "c161\""
+  },
+  {
+    "name": "documentary",
+    "hash": "23b8343",
+    "date": "2018-06-22T10:11:05.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "892396b",
+    "date": "2018-06-22T10:10:56.000Z",
+    "subject": "doc: Toc skipLevelOne = true\""
+  },
+  {
+    "name": "documentary",
+    "hash": "14d4d6d",
+    "date": "2018-06-22T10:10:21.000Z",
+    "subject": "implement read without wrote\""
+  },
+  {
+    "name": "documentary",
+    "hash": "ae14bd1",
+    "date": "2018-06-22T10:00:23.000Z",
+    "subject": "v1.6.0\""
+  },
+  {
+    "name": "documentary",
+    "hash": "e0c13da",
+    "date": "2018-06-22T10:00:12.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "e92d17f",
+    "date": "2018-06-22T09:59:55.000Z",
+    "subject": "c160\""
+  },
+  {
+    "name": "documentary",
+    "hash": "3ddbc19",
+    "date": "2018-06-22T09:55:34.000Z",
+    "subject": "speicific level bold\""
+  },
+  {
+    "name": "documentary",
+    "hash": "1c2b3b7",
+    "date": "2018-06-22T09:53:58.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "68d0055",
+    "date": "2018-06-22T09:53:54.000Z",
+    "subject": "reset regex\""
+  },
+  {
+    "name": "documentary",
+    "hash": "7533e6b",
+    "date": "2018-06-22T09:29:42.000Z",
+    "subject": "correctly generate toc for link-titles\""
+  },
+  {
+    "name": "documentary",
+    "hash": "aacfc3b",
+    "date": "2018-06-22T08:13:36.000Z",
+    "subject": "toc titles\""
+  },
+  {
+    "name": "documentary",
+    "hash": "0540c19",
+    "date": "2018-06-22T06:45:53.000Z",
+    "subject": "document fork\""
+  },
+  {
+    "name": "documentary",
+    "hash": "864c2f5",
+    "date": "2018-06-22T06:22:32.000Z",
+    "subject": "use fork in doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "4fcbe69",
+    "date": "2018-06-22T06:15:57.000Z",
+    "subject": "rearrange replace stream\""
+  },
+  {
+    "name": "documentary",
+    "hash": "96a19a2",
+    "date": "2018-06-22T06:07:55.000Z",
+    "subject": "update snapshots with fork\""
+  },
+  {
+    "name": "documentary",
+    "hash": "5daffa1",
+    "date": "2018-06-22T06:07:01.000Z",
+    "subject": "test & implement fork\""
+  },
+  {
+    "name": "documentary",
+    "hash": "a7bc082",
+    "date": "2018-06-22T06:06:26.000Z",
+    "subject": "move snapshot\""
+  },
+  {
+    "name": "documentary",
+    "hash": "85dde74",
+    "date": "2018-06-22T05:42:49.000Z",
+    "subject": "better regexes\""
+  },
+  {
+    "name": "documentary",
+    "hash": "9b65c93",
+    "date": "2018-06-22T05:42:05.000Z",
+    "subject": "recursive watch + debounce\""
+  },
+  {
+    "name": "documentary",
+    "hash": "04587b7",
+    "date": "2018-06-22T04:39:12.000Z",
+    "subject": "markers\""
+  },
+  {
+    "name": "documentary",
+    "hash": "a92347d",
+    "date": "2018-06-21T23:48:04.000Z",
+    "subject": "reuse code & comment re\""
+  },
+  {
+    "name": "documentary",
+    "hash": "e1d9134",
+    "date": "2018-06-21T22:57:30.000Z",
+    "subject": "update pedantry\""
+  },
+  {
+    "name": "documentary",
+    "hash": "e0d9f90",
+    "date": "2018-06-21T10:25:48.000Z",
+    "subject": "update babel\""
+  },
+  {
+    "name": "documentary",
+    "hash": "1e74fa5",
+    "date": "2018-06-21T10:20:27.000Z",
+    "subject": "v1.5.0\""
+  },
+  {
+    "name": "documentary",
+    "hash": "02fe7a1",
+    "date": "2018-06-21T10:19:19.000Z",
+    "subject": "c150\""
+  },
+  {
+    "name": "documentary",
+    "hash": "c705bc3",
+    "date": "2018-06-21T10:19:15.000Z",
+    "subject": "toc embed example\""
+  },
+  {
+    "name": "documentary",
+    "hash": "0c7daa5",
+    "date": "2018-06-21T09:40:07.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "65d6531",
+    "date": "2018-06-21T09:39:51.000Z",
+    "subject": "document tree\""
+  },
+  {
+    "name": "documentary",
+    "hash": "d197435",
+    "date": "2018-06-21T09:37:29.000Z",
+    "subject": "implement tree\""
+  },
+  {
+    "name": "documentary",
+    "hash": "43eb041",
+    "date": "2018-06-21T08:33:49.000Z",
+    "subject": "v1.4.2\""
+  },
+  {
+    "name": "documentary",
+    "hash": "6c154a8",
+    "date": "2018-06-21T08:33:38.000Z",
+    "subject": "c142\""
+  },
+  {
+    "name": "documentary",
+    "hash": "f686d2e",
+    "date": "2018-06-21T08:32:30.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "fe43c8b",
+    "date": "2018-06-21T08:32:25.000Z",
+    "subject": "doc method title & table source\""
+  },
+  {
+    "name": "documentary",
+    "hash": "459d7df",
+    "date": "2018-06-21T08:28:21.000Z",
+    "subject": "exactMethodTitle to ignore code blocks in toc, processing\""
+  },
+  {
+    "name": "documentary",
+    "hash": "9dbee71",
+    "date": "2018-06-21T08:05:05.000Z",
+    "subject": "4-backtick-method-title test\""
+  },
+  {
+    "name": "documentary",
+    "hash": "183d79f",
+    "date": "2018-06-21T07:56:01.000Z",
+    "subject": "4 backtick blocks\""
+  },
+  {
+    "name": "documentary",
+    "hash": "663395b",
+    "date": "2018-06-21T06:27:55.000Z",
+    "subject": "v1.4.1\""
+  },
+  {
+    "name": "documentary",
+    "hash": "a14a929",
+    "date": "2018-06-21T06:27:06.000Z",
+    "subject": "remove dir-stream\""
+  },
+  {
+    "name": "documentary",
+    "hash": "103990a",
+    "date": "2018-06-21T06:26:44.000Z",
+    "subject": "c141\""
+  },
+  {
+    "name": "documentary",
+    "hash": "573fa48",
+    "date": "2018-06-21T06:25:55.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "9ce7227",
+    "date": "2018-06-21T06:25:38.000Z",
+    "subject": "fix-doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "cfee36d",
+    "date": "2018-06-21T06:24:15.000Z",
+    "subject": "skip titles in comments and blocks\""
+  },
+  {
+    "name": "documentary",
+    "hash": "9496d8b",
+    "date": "2018-06-21T06:23:53.000Z",
+    "subject": "toc test\""
+  },
+  {
+    "name": "documentary",
+    "hash": "ba3a733",
+    "date": "2018-06-21T05:47:34.000Z",
+    "subject": "brake test\""
+  },
+  {
+    "name": "documentary",
+    "hash": "e345fe2",
+    "date": "2018-06-21T05:45:00.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "3419288",
+    "date": "2018-06-21T05:44:46.000Z",
+    "subject": "debug.md\""
+  },
+  {
+    "name": "documentary",
+    "hash": "d4aa09c",
+    "date": "2018-06-21T05:43:30.000Z",
+    "subject": "use pedantry\""
+  },
+  {
+    "name": "documentary",
+    "hash": "e1f581c",
+    "date": "2018-06-21T05:41:30.000Z",
+    "subject": "install pedantry\""
+  },
+  {
+    "name": "documentary",
+    "hash": "c92c6eb",
+    "date": "2018-06-20T20:51:07.000Z",
+    "subject": "v1.4.0\""
+  },
+  {
+    "name": "documentary",
+    "hash": "149249d",
+    "date": "2018-06-20T20:50:33.000Z",
+    "subject": "c140\""
+  },
+  {
+    "name": "documentary",
+    "hash": "b5ae405",
+    "date": "2018-06-20T20:47:39.000Z",
+    "subject": "Merge pull request #2 from artdecocode/feature/example\""
+  },
+  {
+    "name": "documentary",
+    "hash": "91be4a8",
+    "date": "2018-06-20T20:47:16.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "5c0d0f9",
+    "date": "2018-06-20T20:46:47.000Z",
+    "subject": "enable watch\""
+  },
+  {
+    "name": "documentary",
+    "hash": "71b072e",
+    "date": "2018-06-20T20:43:27.000Z",
+    "subject": "placement\""
+  },
+  {
+    "name": "documentary",
+    "hash": "7a570e8",
+    "date": "2018-06-20T20:42:08.000Z",
+    "subject": "extract extension\""
+  },
+  {
+    "name": "documentary",
+    "hash": "6e90683",
+    "date": "2018-06-20T20:37:15.000Z",
+    "subject": "intergration test\""
+  },
+  {
+    "name": "documentary",
+    "hash": "ae26d11",
+    "date": "2018-06-20T20:31:52.000Z",
+    "subject": "examples doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "cd60b9c",
+    "date": "2018-06-20T20:27:14.000Z",
+    "subject": "test and implement example rule\""
+  },
+  {
+    "name": "documentary",
+    "hash": "655329b",
+    "date": "2018-06-20T19:32:37.000Z",
+    "subject": "add test for example\""
+  },
+  {
+    "name": "documentary",
+    "hash": "1a98bfc",
+    "date": "2018-06-20T19:31:35.000Z",
+    "subject": "Replaceable\""
+  },
+  {
+    "name": "documentary",
+    "hash": "d12d5c4",
+    "date": "2018-06-20T19:24:09.000Z",
+    "subject": "update restream\""
+  },
+  {
+    "name": "documentary",
+    "hash": "133b7d7",
+    "date": "2018-06-20T16:56:57.000Z",
+    "subject": "organise by rules\""
+  },
+  {
+    "name": "documentary",
+    "hash": "b7ee70d",
+    "date": "2018-06-20T15:52:40.000Z",
+    "subject": "write example documentation\""
+  },
+  {
+    "name": "documentary",
+    "hash": "9e7d3ed",
+    "date": "2018-06-18T14:19:37.000Z",
+    "subject": "v1.3.1\""
+  },
+  {
+    "name": "documentary",
+    "hash": "4581753",
+    "date": "2018-06-18T14:19:27.000Z",
+    "subject": "c131\""
+  },
+  {
+    "name": "documentary",
+    "hash": "3900c73",
+    "date": "2018-06-18T14:16:54.000Z",
+    "subject": "yarn add -DE\""
+  },
+  {
+    "name": "documentary",
+    "hash": "205dd19",
+    "date": "2018-06-18T14:16:24.000Z",
+    "subject": "move docs to documentation dir\""
+  },
+  {
+    "name": "documentary",
+    "hash": "801c798",
+    "date": "2018-06-18T14:11:42.000Z",
+    "subject": "v1.3.0\""
+  },
+  {
+    "name": "documentary",
+    "hash": "09b685a",
+    "date": "2018-06-18T14:11:18.000Z",
+    "subject": "c130\""
+  },
+  {
+    "name": "documentary",
+    "hash": "2ef80e3",
+    "date": "2018-06-16T11:38:34.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "30da5cb",
+    "date": "2018-06-16T11:38:05.000Z",
+    "subject": "Merge pull request #1 from artdecocode/feature/folders\""
+  },
+  {
+    "name": "documentary",
+    "hash": "4b12079",
+    "date": "2018-06-16T11:36:29.000Z",
+    "subject": "describe rules\""
+  },
+  {
+    "name": "documentary",
+    "hash": "5568dc4",
+    "date": "2018-06-16T11:33:27.000Z",
+    "subject": "add test for dir\""
+  },
+  {
+    "name": "documentary",
+    "hash": "0d84608",
+    "date": "2018-06-16T11:27:05.000Z",
+    "subject": "document file splitting\""
+  },
+  {
+    "name": "documentary",
+    "hash": "aa717bf",
+    "date": "2018-06-16T11:20:19.000Z",
+    "subject": "generate readme from dir\""
+  },
+  {
+    "name": "documentary",
+    "hash": "1e8e11e",
+    "date": "2018-06-16T11:18:19.000Z",
+    "subject": "dir-stream\""
+  },
+  {
+    "name": "documentary",
+    "hash": "46afe32",
+    "date": "2018-06-16T11:18:01.000Z",
+    "subject": "fix npm rule\""
+  },
+  {
+    "name": "documentary",
+    "hash": "ce97fd6",
+    "date": "2018-06-16T09:08:44.000Z",
+    "subject": "badge rule\""
+  },
+  {
+    "name": "documentary",
+    "hash": "cac25b3",
+    "date": "2018-06-16T09:08:12.000Z",
+    "subject": "split doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "24acc41",
+    "date": "2018-06-15T20:53:47.000Z",
+    "subject": "v1.2.0\""
+  },
+  {
+    "name": "documentary",
+    "hash": "d909d9a",
+    "date": "2018-06-15T20:53:35.000Z",
+    "subject": "c120\""
+  },
+  {
+    "name": "documentary",
+    "hash": "c370c0b",
+    "date": "2018-06-15T20:49:09.000Z",
+    "subject": "update snapshots\""
+  },
+  {
+    "name": "documentary",
+    "hash": "13c67e2",
+    "date": "2018-06-15T20:46:33.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "b201bcb",
+    "date": "2018-06-15T20:46:21.000Z",
+    "subject": "correct arg name - type\""
+  },
+  {
+    "name": "documentary",
+    "hash": "2050273",
+    "date": "2018-06-15T20:44:22.000Z",
+    "subject": "shorthand TOC for method titles\""
+  },
+  {
+    "name": "documentary",
+    "hash": "b48f230",
+    "date": "2018-06-15T19:36:15.000Z",
+    "subject": "commas in code\""
+  },
+  {
+    "name": "documentary",
+    "hash": "8043d71",
+    "date": "2018-06-15T19:22:19.000Z",
+    "subject": "build-s\""
+  },
+  {
+    "name": "documentary",
+    "hash": "c9b1c7f",
+    "date": "2018-06-15T19:21:22.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "92c7393",
+    "date": "2018-06-15T19:21:03.000Z",
+    "subject": "update tests\""
+  },
+  {
+    "name": "documentary",
+    "hash": "2f1ad02",
+    "date": "2018-06-15T19:19:17.000Z",
+    "subject": "include method-titles in the TOC\""
+  },
+  {
+    "name": "documentary",
+    "hash": "4a2e430",
+    "date": "2018-06-15T19:07:12.000Z",
+    "subject": "document method title\""
+  },
+  {
+    "name": "documentary",
+    "hash": "b9766cf",
+    "date": "2018-06-15T19:07:08.000Z",
+    "subject": "implement & test method title\""
+  },
+  {
+    "name": "documentary",
+    "hash": "d85640c",
+    "date": "2018-06-15T15:20:42.000Z",
+    "subject": "v1.1.0\""
+  },
+  {
+    "name": "documentary",
+    "hash": "0847a56",
+    "date": "2018-06-15T15:20:32.000Z",
+    "subject": "c110\""
+  },
+  {
+    "name": "documentary",
+    "hash": "cf67495",
+    "date": "2018-06-15T15:20:10.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "e618a7f",
+    "date": "2018-06-15T15:18:24.000Z",
+    "subject": "easier toc example\""
+  },
+  {
+    "name": "documentary",
+    "hash": "d4beb45",
+    "date": "2018-06-15T15:15:38.000Z",
+    "subject": "update toc doc example\""
+  },
+  {
+    "name": "documentary",
+    "hash": "61393a7",
+    "date": "2018-06-15T15:15:27.000Z",
+    "subject": "toc api\""
+  },
+  {
+    "name": "documentary",
+    "hash": "9b7de2a",
+    "date": "2018-06-15T15:05:29.000Z",
+    "subject": "move snippet to usage\""
+  },
+  {
+    "name": "documentary",
+    "hash": "5815c02",
+    "date": "2018-06-15T15:04:39.000Z",
+    "subject": "vs code settings snippet\""
+  },
+  {
+    "name": "documentary",
+    "hash": "acd8d70",
+    "date": "2018-06-15T15:01:30.000Z",
+    "subject": "readme\""
+  },
+  {
+    "name": "documentary",
+    "hash": "8053322",
+    "date": "2018-06-15T15:01:26.000Z",
+    "subject": "build watch\""
+  },
+  {
+    "name": "documentary",
+    "hash": "aa58268",
+    "date": "2018-06-15T15:01:13.000Z",
+    "subject": "watch\""
+  },
+  {
+    "name": "documentary",
+    "hash": "9e75425",
+    "date": "2018-06-15T14:44:07.000Z",
+    "subject": "update readme\""
+  },
+  {
+    "name": "documentary",
+    "hash": "edebc5f",
+    "date": "2018-06-15T14:43:17.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "03c1dee",
+    "date": "2018-06-15T14:42:34.000Z",
+    "subject": "update tests\""
+  },
+  {
+    "name": "documentary",
+    "hash": "559212f",
+    "date": "2018-06-15T14:08:07.000Z",
+    "subject": "new binary API\""
+  },
+  {
+    "name": "documentary",
+    "hash": "08218de",
+    "date": "2018-06-15T14:02:41.000Z",
+    "subject": "implement & test replace-stream ␚\""
+  },
+  {
+    "name": "documentary",
+    "hash": "2b686b3",
+    "date": "2018-06-15T14:00:56.000Z",
+    "subject": "update argufy and restream\""
+  },
+  {
+    "name": "documentary",
+    "hash": "dd415a5",
+    "date": "2018-06-15T14:00:27.000Z",
+    "subject": "VS search settings\""
+  },
+  {
+    "name": "documentary",
+    "hash": "2e13fb9",
+    "date": "2018-06-15T11:38:54.000Z",
+    "subject": "ignore babel-register\""
+  },
+  {
+    "name": "documentary",
+    "hash": "980da94",
+    "date": "2018-06-12T07:10:52.000Z",
+    "subject": "v1.0.1\""
+  },
+  {
+    "name": "documentary",
+    "hash": "6d93071",
+    "date": "2018-06-12T07:10:29.000Z",
+    "subject": "c101\""
+  },
+  {
+    "name": "documentary",
+    "hash": "445e1c6",
+    "date": "2018-06-12T07:09:41.000Z",
+    "subject": "test toc replace and output\""
+  },
+  {
+    "name": "documentary",
+    "hash": "8415f7a",
+    "date": "2018-06-12T06:55:06.000Z",
+    "subject": "test replacement\""
+  },
+  {
+    "name": "documentary",
+    "hash": "11a317a",
+    "date": "2018-06-12T06:52:57.000Z",
+    "subject": "lib test\""
+  },
+  {
+    "name": "documentary",
+    "hash": "937a5bf",
+    "date": "2018-06-12T06:50:03.000Z",
+    "subject": "add bin test\""
+  },
+  {
+    "name": "documentary",
+    "hash": "126193b",
+    "date": "2018-06-12T06:39:17.000Z",
+    "subject": "c101\""
+  },
+  {
+    "name": "documentary",
+    "hash": "683ce24",
+    "date": "2018-06-12T05:59:49.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "c5b52d1",
+    "date": "2018-06-12T05:56:20.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "435f716",
+    "date": "2018-06-12T05:56:06.000Z",
+    "subject": "strip comments\""
+  },
+  {
+    "name": "documentary",
+    "hash": "fe77526",
+    "date": "2018-06-12T05:46:37.000Z",
+    "subject": "readme-source\""
+  },
+  {
+    "name": "documentary",
+    "hash": "83194c7",
+    "date": "2018-06-12T05:45:17.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "documentary",
+    "hash": "bf3cd0c",
+    "date": "2018-06-12T05:45:04.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "f6377f6",
+    "date": "2018-06-12T05:44:25.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "3e2349b",
+    "date": "2018-06-12T05:42:16.000Z",
+    "subject": "md\""
+  },
+  {
+    "name": "documentary",
+    "hash": "b35f08e",
+    "date": "2018-06-12T05:41:15.000Z",
+    "subject": "readme for toc\""
+  },
+  {
+    "name": "documentary",
+    "hash": "26fb185",
+    "date": "2018-06-12T05:37:17.000Z",
+    "subject": "toc binary\""
+  },
+  {
+    "name": "documentary",
+    "hash": "e3d81d9",
+    "date": "2018-06-12T04:10:31.000Z",
+    "subject": "add binary\""
+  },
+  {
+    "name": "documentary",
+    "hash": "0f75b87",
+    "date": "2018-06-12T03:58:44.000Z",
+    "subject": "strip html (br & nbsp)\""
+  },
+  {
+    "name": "documentary",
+    "hash": "6ea535c",
+    "date": "2018-06-12T03:44:40.000Z",
+    "subject": "add files\""
+  },
+  {
+    "name": "documentary",
+    "hash": "5262c7c",
+    "date": "2018-06-12T02:34:15.000Z",
+    "subject": "initialise package\""
+  },
+  {
+    "name": "documentary",
+    "hash": "b732947",
+    "date": "2018-06-12T02:34:12.000Z",
+    "subject": "Initial commit\""
+  }
+]

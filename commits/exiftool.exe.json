@@ -1,0 +1,74 @@
+[
+  {
+    "name": "exiftool.exe",
+    "hash": "84d9039",
+    "date": "2017-05-17T19:33:19.000Z",
+    "subject": "Merge pull request #2 from Sobesednik/feature/10.51\""
+  },
+  {
+    "name": "exiftool.exe",
+    "hash": "b18fd16",
+    "date": "2017-05-17T19:26:31.000Z",
+    "subject": "v10.53\""
+  },
+  {
+    "name": "exiftool.exe",
+    "hash": "ab3479a",
+    "date": "2016-11-20T08:07:02.000Z",
+    "subject": "v10.33\""
+  },
+  {
+    "name": "exiftool.exe",
+    "hash": "34515f7",
+    "date": "2016-08-21T17:56:33.000Z",
+    "subject": "10.25.3\""
+  },
+  {
+    "name": "exiftool.exe",
+    "hash": "2ef8e3d",
+    "date": "2016-08-21T17:56:00.000Z",
+    "subject": "update readme\""
+  },
+  {
+    "name": "exiftool.exe",
+    "hash": "bbc1308",
+    "date": "2016-08-21T17:11:40.000Z",
+    "subject": "10.25.2\""
+  },
+  {
+    "name": "exiftool.exe",
+    "hash": "4118c0c",
+    "date": "2016-08-21T17:08:34.000Z",
+    "subject": "Increate test timeout and check version\""
+  },
+  {
+    "name": "exiftool.exe",
+    "hash": "01cd1d9",
+    "date": "2016-08-21T16:52:02.000Z",
+    "subject": "10.25.1\""
+  },
+  {
+    "name": "exiftool.exe",
+    "hash": "d63d0fc",
+    "date": "2016-08-21T16:49:47.000Z",
+    "subject": "Merge pull request #1 from Sobesednik/feature/appveyor\""
+  },
+  {
+    "name": "exiftool.exe",
+    "hash": "30f1167",
+    "date": "2016-08-21T16:48:19.000Z",
+    "subject": "Add Appveyor CI\""
+  },
+  {
+    "name": "exiftool.exe",
+    "hash": "825a452",
+    "date": "2016-08-20T22:21:39.000Z",
+    "subject": "Exiftool 10.25\""
+  },
+  {
+    "name": "exiftool.exe",
+    "hash": "9ed32cd",
+    "date": "2016-08-20T22:10:10.000Z",
+    "subject": "Initial commit\""
+  }
+]

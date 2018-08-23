@@ -1,0 +1,422 @@
+[
+  {
+    "name": "wrote",
+    "hash": "24992ad",
+    "date": "2018-01-02T04:17:33.000Z",
+    "subject": "1.4.0\""
+  },
+  {
+    "name": "wrote",
+    "hash": "4ab1b84",
+    "date": "2018-01-02T04:17:28.000Z",
+    "subject": "changelog@1.4.0\""
+  },
+  {
+    "name": "wrote",
+    "hash": "f0b3623",
+    "date": "2018-01-02T04:15:38.000Z",
+    "subject": "es5 for read as binary\""
+  },
+  {
+    "name": "wrote",
+    "hash": "fdd2ac2",
+    "date": "2018-01-02T04:13:06.000Z",
+    "subject": "read as a Buffer\""
+  },
+  {
+    "name": "wrote",
+    "hash": "9bde318",
+    "date": "2018-01-02T03:56:25.000Z",
+    "subject": "es5 for catchment@2\""
+  },
+  {
+    "name": "wrote",
+    "hash": "38bfb45",
+    "date": "2018-01-02T03:55:02.000Z",
+    "subject": "fix json error message regex for node 4\""
+  },
+  {
+    "name": "wrote",
+    "hash": "8cb42af",
+    "date": "2018-01-02T03:49:47.000Z",
+    "subject": "update catchment@2.0.0\""
+  },
+  {
+    "name": "wrote",
+    "hash": "ffd04aa",
+    "date": "2018-01-01T21:08:48.000Z",
+    "subject": "add todos\""
+  },
+  {
+    "name": "wrote",
+    "hash": "3d95447",
+    "date": "2018-01-01T18:09:17.000Z",
+    "subject": "1.3.0\""
+  },
+  {
+    "name": "wrote",
+    "hash": "510ea0c",
+    "date": "2018-01-01T18:09:12.000Z",
+    "subject": "changelog@1.3.0\""
+  },
+  {
+    "name": "wrote",
+    "hash": "9aaa66f",
+    "date": "2018-01-01T18:08:08.000Z",
+    "subject": "Merge pull request #12 from Sobesednik/feature/json\""
+  },
+  {
+    "name": "wrote",
+    "hash": "3688651",
+    "date": "2018-01-01T17:57:16.000Z",
+    "subject": "es5\""
+  },
+  {
+    "name": "wrote",
+    "hash": "7217ba0",
+    "date": "2018-01-01T17:56:31.000Z",
+    "subject": "readJSON and writeJSON readme\""
+  },
+  {
+    "name": "wrote",
+    "hash": "4077c6e",
+    "date": "2018-01-01T17:46:51.000Z",
+    "subject": "read and write json\""
+  },
+  {
+    "name": "wrote",
+    "hash": "368b73f",
+    "date": "2017-12-30T23:40:26.000Z",
+    "subject": "1.2.0\""
+  },
+  {
+    "name": "wrote",
+    "hash": "dbecfad",
+    "date": "2017-12-30T23:40:22.000Z",
+    "subject": "changelog 1.2.0\""
+  },
+  {
+    "name": "wrote",
+    "hash": "09f1bc3",
+    "date": "2017-12-30T23:39:19.000Z",
+    "subject": "Merge pull request #11 from Sobesednik/feature/exists\""
+  },
+  {
+    "name": "wrote",
+    "hash": "2c201ee",
+    "date": "2017-12-30T23:39:04.000Z",
+    "subject": "add es5\""
+  },
+  {
+    "name": "wrote",
+    "hash": "7faaa13",
+    "date": "2017-12-30T23:35:32.000Z",
+    "subject": "exists\""
+  },
+  {
+    "name": "wrote",
+    "hash": "33c6a82",
+    "date": "2017-12-29T18:34:17.000Z",
+    "subject": "1.1.0\""
+  },
+  {
+    "name": "wrote",
+    "hash": "5e48614",
+    "date": "2017-12-29T18:34:10.000Z",
+    "subject": "changelog 1.1.0\""
+  },
+  {
+    "name": "wrote",
+    "hash": "3110cb2",
+    "date": "2017-12-29T18:31:34.000Z",
+    "subject": "Merge pull request #10 from Sobesednik/feature/clone-2\""
+  },
+  {
+    "name": "wrote",
+    "hash": "24553e0",
+    "date": "2017-12-29T17:11:57.000Z",
+    "subject": "implement clone\""
+  },
+  {
+    "name": "wrote",
+    "hash": "6eb953d",
+    "date": "2017-12-28T04:48:35.000Z",
+    "subject": "1.0.0\""
+  },
+  {
+    "name": "wrote",
+    "hash": "55bae3b",
+    "date": "2017-12-28T04:48:18.000Z",
+    "subject": "update changelog\""
+  },
+  {
+    "name": "wrote",
+    "hash": "cdf255a",
+    "date": "2017-12-28T04:46:13.000Z",
+    "subject": "Merge pull request #9 from Sobesednik/feature/1\""
+  },
+  {
+    "name": "wrote",
+    "hash": "e7daa87",
+    "date": "2017-12-28T04:43:21.000Z",
+    "subject": "createWritable, update readme\""
+  },
+  {
+    "name": "wrote",
+    "hash": "2d5c9d6",
+    "date": "2017-12-28T00:15:30.000Z",
+    "subject": "0.7.1\""
+  },
+  {
+    "name": "wrote",
+    "hash": "8c1e604",
+    "date": "2017-12-28T00:15:26.000Z",
+    "subject": "0.7.1 changelog\""
+  },
+  {
+    "name": "wrote",
+    "hash": "5c2aab4",
+    "date": "2017-12-28T00:14:42.000Z",
+    "subject": "Merge pull request #8 from Sobesednik/feature/update-src\""
+  },
+  {
+    "name": "wrote",
+    "hash": "d1cefc1",
+    "date": "2017-12-27T23:02:27.000Z",
+    "subject": "update to es2017\""
+  },
+  {
+    "name": "wrote",
+    "hash": "f090a08",
+    "date": "2017-12-27T22:18:31.000Z",
+    "subject": "0.7.0\""
+  },
+  {
+    "name": "wrote",
+    "hash": "ade3063",
+    "date": "2017-12-27T22:18:28.000Z",
+    "subject": "0.7.0 changelog\""
+  },
+  {
+    "name": "wrote",
+    "hash": "c01942b",
+    "date": "2017-12-27T22:16:47.000Z",
+    "subject": "Merge pull request #7 from Sobesednik/feature/es8\""
+  },
+  {
+    "name": "wrote",
+    "hash": "4638331",
+    "date": "2017-12-27T22:14:45.000Z",
+    "subject": "add es5\""
+  },
+  {
+    "name": "wrote",
+    "hash": "8fd67a8",
+    "date": "2017-12-27T22:14:32.000Z",
+    "subject": "prepare for es5\""
+  },
+  {
+    "name": "wrote",
+    "hash": "d9d8f4f",
+    "date": "2017-12-26T18:35:22.000Z",
+    "subject": "Merge pull request #6 from Sobesednik/feature/read-dir-structure\""
+  },
+  {
+    "name": "wrote",
+    "hash": "b43b143",
+    "date": "2017-09-26T18:38:33.000Z",
+    "subject": "implement read-dir-structure\""
+  },
+  {
+    "name": "wrote",
+    "hash": "5f4330c",
+    "date": "2017-08-29T14:40:46.000Z",
+    "subject": "0.6.1\""
+  },
+  {
+    "name": "wrote",
+    "hash": "9552591",
+    "date": "2017-08-29T14:40:37.000Z",
+    "subject": "update changelog for 0.6.1\""
+  },
+  {
+    "name": "wrote",
+    "hash": "0d6455d",
+    "date": "2017-08-29T14:39:50.000Z",
+    "subject": "install catchment\""
+  },
+  {
+    "name": "wrote",
+    "hash": "e5eafad",
+    "date": "2017-06-11T19:18:32.000Z",
+    "subject": "0.6.0\""
+  },
+  {
+    "name": "wrote",
+    "hash": "40369e3",
+    "date": "2017-06-11T19:17:50.000Z",
+    "subject": "update changelog\""
+  },
+  {
+    "name": "wrote",
+    "hash": "1cc039f",
+    "date": "2017-06-11T19:16:45.000Z",
+    "subject": "Merge pull request #4 from Sobesednik/feature/read-dir\""
+  },
+  {
+    "name": "wrote",
+    "hash": "d85a472",
+    "date": "2017-06-11T19:03:20.000Z",
+    "subject": "add readme for readDir\""
+  },
+  {
+    "name": "wrote",
+    "hash": "8e1dade",
+    "date": "2017-06-07T18:15:00.000Z",
+    "subject": "read directory as an object\""
+  },
+  {
+    "name": "wrote",
+    "hash": "a4b2f87",
+    "date": "2017-06-01T23:00:38.000Z",
+    "subject": "0.5.0\""
+  },
+  {
+    "name": "wrote",
+    "hash": "de40945",
+    "date": "2017-06-01T23:00:32.000Z",
+    "subject": "add changelog\""
+  },
+  {
+    "name": "wrote",
+    "hash": "860f473",
+    "date": "2017-06-01T22:59:21.000Z",
+    "subject": "Merge pull request #3 from Sobesednik/feature/read\""
+  },
+  {
+    "name": "wrote",
+    "hash": "2d0dddc",
+    "date": "2017-06-01T22:58:56.000Z",
+    "subject": "add api test\""
+  },
+  {
+    "name": "wrote",
+    "hash": "6d7d573",
+    "date": "2017-06-01T22:52:19.000Z",
+    "subject": "add readme and example\""
+  },
+  {
+    "name": "wrote",
+    "hash": "cbc261e",
+    "date": "2017-06-01T22:49:35.000Z",
+    "subject": "add test and require read in api\""
+  },
+  {
+    "name": "wrote",
+    "hash": "9fb55c9",
+    "date": "2017-06-01T22:43:56.000Z",
+    "subject": "split code into files\""
+  },
+  {
+    "name": "wrote",
+    "hash": "c45569e",
+    "date": "2017-06-01T22:34:21.000Z",
+    "subject": "read file\""
+  },
+  {
+    "name": "wrote",
+    "hash": "57fbec3",
+    "date": "2017-05-28T20:34:23.000Z",
+    "subject": "0.4.0\""
+  },
+  {
+    "name": "wrote",
+    "hash": "79e0f57",
+    "date": "2017-05-28T20:34:18.000Z",
+    "subject": "update changelog\""
+  },
+  {
+    "name": "wrote",
+    "hash": "88e844a",
+    "date": "2017-05-28T20:33:05.000Z",
+    "subject": "Merge pull request #2 from Sobesednik/feature/ensure-path\""
+  },
+  {
+    "name": "wrote",
+    "hash": "f1e54ef",
+    "date": "2017-05-28T20:17:22.000Z",
+    "subject": "ensurePath method\""
+  },
+  {
+    "name": "wrote",
+    "hash": "db005b3",
+    "date": "2017-05-28T04:37:11.000Z",
+    "subject": "Merge pull request #1 from Sobesednik/feature/write\""
+  },
+  {
+    "name": "wrote",
+    "hash": "6b60fa9",
+    "date": "2017-05-28T04:28:54.000Z",
+    "subject": "add wrote.write method\""
+  },
+  {
+    "name": "wrote",
+    "hash": "2528de3",
+    "date": "2017-05-28T03:19:04.000Z",
+    "subject": "update changelog\""
+  },
+  {
+    "name": "wrote",
+    "hash": "2c0698b",
+    "date": "2017-05-20T20:22:16.000Z",
+    "subject": "0.2.0\""
+  },
+  {
+    "name": "wrote",
+    "hash": "afe05ef",
+    "date": "2017-05-20T20:17:57.000Z",
+    "subject": "in node4, writable property stays true after closing stream\""
+  },
+  {
+    "name": "wrote",
+    "hash": "1a3a7f9",
+    "date": "2017-05-20T19:48:45.000Z",
+    "subject": "use makepromise to erase\""
+  },
+  {
+    "name": "wrote",
+    "hash": "0f2539b",
+    "date": "2017-05-20T15:22:09.000Z",
+    "subject": "add eslint\""
+  },
+  {
+    "name": "wrote",
+    "hash": "d950b5b",
+    "date": "2017-05-20T01:38:20.000Z",
+    "subject": "add test for temp wrote\""
+  },
+  {
+    "name": "wrote",
+    "hash": "9b90c39",
+    "date": "2017-05-20T01:36:00.000Z",
+    "subject": "add erase test\""
+  },
+  {
+    "name": "wrote",
+    "hash": "fbd9a5d",
+    "date": "2017-05-20T01:07:52.000Z",
+    "subject": "readme, tests, src, example\""
+  },
+  {
+    "name": "wrote",
+    "hash": "ff9d258",
+    "date": "2017-05-19T23:02:30.000Z",
+    "subject": "initialise repo\""
+  },
+  {
+    "name": "wrote",
+    "hash": "18aeb20",
+    "date": "2017-05-19T22:59:05.000Z",
+    "subject": "Initial commit\""
+  }
+]

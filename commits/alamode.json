@@ -1,0 +1,494 @@
+[
+  {
+    "name": "alamode",
+    "hash": "dac5f50",
+    "date": "2018-08-22T06:22:49.000Z",
+    "subject": "v1.2.1\""
+  },
+  {
+    "name": "alamode",
+    "hash": "9b864d4",
+    "date": "2018-08-22T06:22:35.000Z",
+    "subject": "c121\""
+  },
+  {
+    "name": "alamode",
+    "hash": "412ebb5",
+    "date": "2018-08-22T06:22:12.000Z",
+    "subject": "build require config\""
+  },
+  {
+    "name": "alamode",
+    "hash": "a887683",
+    "date": "2018-08-22T06:22:06.000Z",
+    "subject": "read config for require hook\""
+  },
+  {
+    "name": "alamode",
+    "hash": "5cae6ae",
+    "date": "2018-08-22T05:10:04.000Z",
+    "subject": "v1.2.0\""
+  },
+  {
+    "name": "alamode",
+    "hash": "d8b97d3",
+    "date": "2018-08-22T05:09:46.000Z",
+    "subject": "c120\""
+  },
+  {
+    "name": "alamode",
+    "hash": "4f7c000",
+    "date": "2018-08-22T05:08:38.000Z",
+    "subject": "update transforms\""
+  },
+  {
+    "name": "alamode",
+    "hash": "4a5f796",
+    "date": "2018-08-22T05:02:52.000Z",
+    "subject": "%gif doc\""
+  },
+  {
+    "name": "alamode",
+    "hash": "b89a357",
+    "date": "2018-08-22T05:01:01.000Z",
+    "subject": "add gifs\""
+  },
+  {
+    "name": "alamode",
+    "hash": "d526a1e",
+    "date": "2018-08-22T04:55:20.000Z",
+    "subject": "add source maps doc\""
+  },
+  {
+    "name": "alamode",
+    "hash": "7cb9725",
+    "date": "2018-08-22T04:36:35.000Z",
+    "subject": "document .alamoderc and options\""
+  },
+  {
+    "name": "alamode",
+    "hash": "17b9da8",
+    "date": "2018-08-22T04:29:32.000Z",
+    "subject": "add types (not used)\""
+  },
+  {
+    "name": "alamode",
+    "hash": "5c5f7b8",
+    "date": "2018-08-22T04:20:12.000Z",
+    "subject": "build alamoderc\""
+  },
+  {
+    "name": "alamode",
+    "hash": "380b1a5",
+    "date": "2018-08-22T04:19:54.000Z",
+    "subject": "read .alamoderc\""
+  },
+  {
+    "name": "alamode",
+    "hash": "b951653",
+    "date": "2018-08-22T01:57:03.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "alamode",
+    "hash": "d922468",
+    "date": "2018-08-22T01:57:01.000Z",
+    "subject": "require examples\""
+  },
+  {
+    "name": "alamode",
+    "hash": "1ea02ea",
+    "date": "2018-08-22T01:56:47.000Z",
+    "subject": "call require to activate\""
+  },
+  {
+    "name": "alamode",
+    "hash": "4841b80",
+    "date": "2018-08-22T01:55:40.000Z",
+    "subject": "document hook\""
+  },
+  {
+    "name": "alamode",
+    "hash": "c81d6f9",
+    "date": "2018-08-22T01:17:02.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "alamode",
+    "hash": "5ebe4e0",
+    "date": "2018-08-22T01:14:57.000Z",
+    "subject": "transpile ref\""
+  },
+  {
+    "name": "alamode",
+    "hash": "3edba0b",
+    "date": "2018-08-22T00:49:56.000Z",
+    "subject": "ignore build3\""
+  },
+  {
+    "name": "alamode",
+    "hash": "e745931",
+    "date": "2018-08-22T00:49:49.000Z",
+    "subject": "implement require hook\""
+  },
+  {
+    "name": "alamode",
+    "hash": "7b0d8ba",
+    "date": "2018-08-21T21:54:20.000Z",
+    "subject": "install pirates\""
+  },
+  {
+    "name": "alamode",
+    "hash": "c4ce6f4",
+    "date": "2018-08-21T21:54:11.000Z",
+    "subject": "sync-transform\""
+  },
+  {
+    "name": "alamode",
+    "hash": "2bc965f",
+    "date": "2018-08-21T03:04:09.000Z",
+    "subject": "tidy lib\""
+  },
+  {
+    "name": "alamode",
+    "hash": "49c7c46",
+    "date": "2018-08-21T01:36:23.000Z",
+    "subject": "build w/ source maps\""
+  },
+  {
+    "name": "alamode",
+    "hash": "f27fd92",
+    "date": "2018-08-21T01:31:21.000Z",
+    "subject": "i source-map, u @a-la/export\""
+  },
+  {
+    "name": "alamode",
+    "hash": "eada6d9",
+    "date": "2018-08-21T00:08:35.000Z",
+    "subject": "generate source maps\""
+  },
+  {
+    "name": "alamode",
+    "hash": "6f004ac",
+    "date": "2018-08-20T19:25:48.000Z",
+    "subject": "update deps\""
+  },
+  {
+    "name": "alamode",
+    "hash": "8aff7c3",
+    "date": "2018-08-13T16:29:23.000Z",
+    "subject": "update snapshot-context\""
+  },
+  {
+    "name": "alamode",
+    "hash": "fb797a6",
+    "date": "2018-08-13T16:20:57.000Z",
+    "subject": "v1.1.0\""
+  },
+  {
+    "name": "alamode",
+    "hash": "272d3e3",
+    "date": "2018-08-13T16:20:10.000Z",
+    "subject": "keywords\""
+  },
+  {
+    "name": "alamode",
+    "hash": "e985edb",
+    "date": "2018-08-13T16:17:58.000Z",
+    "subject": "c110\""
+  },
+  {
+    "name": "alamode",
+    "hash": "ed2ca2d",
+    "date": "2018-08-13T16:16:43.000Z",
+    "subject": "ignore build2\""
+  },
+  {
+    "name": "alamode",
+    "hash": "fe484f8",
+    "date": "2018-08-13T16:16:38.000Z",
+    "subject": "export example\""
+  },
+  {
+    "name": "alamode",
+    "hash": "de89d4f",
+    "date": "2018-08-13T16:16:32.000Z",
+    "subject": "run()\""
+  },
+  {
+    "name": "alamode",
+    "hash": "ed185fa",
+    "date": "2018-08-13T16:14:49.000Z",
+    "subject": "doc NODE_DEBUG\""
+  },
+  {
+    "name": "alamode",
+    "hash": "668663b",
+    "date": "2018-08-13T16:07:53.000Z",
+    "subject": "build w/ alamode\""
+  },
+  {
+    "name": "alamode",
+    "hash": "c42934b",
+    "date": "2018-08-13T16:07:29.000Z",
+    "subject": "nl\""
+  },
+  {
+    "name": "alamode",
+    "hash": "2d86402",
+    "date": "2018-08-13T16:04:24.000Z",
+    "subject": "copy mode\""
+  },
+  {
+    "name": "alamode",
+    "hash": "78f8d43",
+    "date": "2018-08-13T15:49:45.000Z",
+    "subject": "remove babel build\""
+  },
+  {
+    "name": "alamode",
+    "hash": "fca2318",
+    "date": "2018-08-13T15:49:22.000Z",
+    "subject": "debug\""
+  },
+  {
+    "name": "alamode",
+    "hash": "43b80d7",
+    "date": "2018-08-13T15:42:29.000Z",
+    "subject": "dev deps\""
+  },
+  {
+    "name": "alamode",
+    "hash": "5d5612d",
+    "date": "2018-08-13T15:42:19.000Z",
+    "subject": "fix src\""
+  },
+  {
+    "name": "alamode",
+    "hash": "7f2d167",
+    "date": "2018-08-13T15:42:15.000Z",
+    "subject": "itegration test\""
+  },
+  {
+    "name": "alamode",
+    "hash": "78059c1",
+    "date": "2018-08-13T14:48:03.000Z",
+    "subject": "examples\""
+  },
+  {
+    "name": "alamode",
+    "hash": "780cbca",
+    "date": "2018-08-13T14:47:18.000Z",
+    "subject": "doc transforms\""
+  },
+  {
+    "name": "alamode",
+    "hash": "6fe2f8f",
+    "date": "2018-08-13T14:32:28.000Z",
+    "subject": "i which-stream\""
+  },
+  {
+    "name": "alamode",
+    "hash": "ca2f072",
+    "date": "2018-08-13T14:31:31.000Z",
+    "subject": "usage, version, which-stream\""
+  },
+  {
+    "name": "alamode",
+    "hash": "c438ada",
+    "date": "2018-08-10T23:25:20.000Z",
+    "subject": "u @a-la/import\""
+  },
+  {
+    "name": "alamode",
+    "hash": "2bad01b",
+    "date": "2018-08-10T23:16:02.000Z",
+    "subject": "doc transforms\""
+  },
+  {
+    "name": "alamode",
+    "hash": "9318c79",
+    "date": "2018-08-10T16:58:50.000Z",
+    "subject": "deps\""
+  },
+  {
+    "name": "alamode",
+    "hash": "16ee396",
+    "date": "2018-08-10T16:58:28.000Z",
+    "subject": "old doc\""
+  },
+  {
+    "name": "alamode",
+    "hash": "e21d423",
+    "date": "2018-08-10T16:58:06.000Z",
+    "subject": "document\""
+  },
+  {
+    "name": "alamode",
+    "hash": "72a3319",
+    "date": "2018-08-10T16:34:35.000Z",
+    "subject": "test fixture\""
+  },
+  {
+    "name": "alamode",
+    "hash": "b82c154",
+    "date": "2018-08-10T16:34:17.000Z",
+    "subject": "cut strings\""
+  },
+  {
+    "name": "alamode",
+    "hash": "36fcddd",
+    "date": "2018-08-08T11:46:40.000Z",
+    "subject": "start implementation\""
+  },
+  {
+    "name": "alamode",
+    "hash": "ff3e340",
+    "date": "2018-08-08T11:46:23.000Z",
+    "subject": "add src fixture\""
+  },
+  {
+    "name": "alamode",
+    "hash": "37f4895",
+    "date": "2018-08-08T11:46:11.000Z",
+    "subject": "i deps\""
+  },
+  {
+    "name": "alamode",
+    "hash": "81aa930",
+    "date": "2018-07-25T18:54:12.000Z",
+    "subject": "v1.0.3\""
+  },
+  {
+    "name": "alamode",
+    "hash": "106edab",
+    "date": "2018-07-25T18:54:05.000Z",
+    "subject": "c103\""
+  },
+  {
+    "name": "alamode",
+    "hash": "eab7d86",
+    "date": "2018-07-25T18:51:59.000Z",
+    "subject": "cdn-links\""
+  },
+  {
+    "name": "alamode",
+    "hash": "272b199",
+    "date": "2018-07-25T18:44:11.000Z",
+    "subject": "v1.0.2\""
+  },
+  {
+    "name": "alamode",
+    "hash": "786f071",
+    "date": "2018-07-25T18:44:02.000Z",
+    "subject": "c102\""
+  },
+  {
+    "name": "alamode",
+    "hash": "5b53e01",
+    "date": "2018-07-25T18:43:15.000Z",
+    "subject": "npm-install\""
+  },
+  {
+    "name": "alamode",
+    "hash": "6507c27",
+    "date": "2018-07-25T18:38:00.000Z",
+    "subject": "add npm logo\""
+  },
+  {
+    "name": "alamode",
+    "hash": "357730e",
+    "date": "2018-07-25T18:36:48.000Z",
+    "subject": "npm-install\""
+  },
+  {
+    "name": "alamode",
+    "hash": "1cf52fb",
+    "date": "2018-07-25T18:35:32.000Z",
+    "subject": "add kitten\""
+  },
+  {
+    "name": "alamode",
+    "hash": "3a4bd2b",
+    "date": "2018-07-25T18:35:16.000Z",
+    "subject": "npm-install\""
+  },
+  {
+    "name": "alamode",
+    "hash": "e99f44b",
+    "date": "2018-07-25T18:26:44.000Z",
+    "subject": "v1.0.1\""
+  },
+  {
+    "name": "alamode",
+    "hash": "e73540c",
+    "date": "2018-07-25T18:26:36.000Z",
+    "subject": "c101\""
+  },
+  {
+    "name": "alamode",
+    "hash": "ae40a0b",
+    "date": "2018-07-25T18:25:25.000Z",
+    "subject": "npm-command\""
+  },
+  {
+    "name": "alamode",
+    "hash": "b27c243",
+    "date": "2018-07-25T18:15:20.000Z",
+    "subject": "b\""
+  },
+  {
+    "name": "alamode",
+    "hash": "1eca0e5",
+    "date": "2018-07-25T18:14:56.000Z",
+    "subject": "comment in example package\""
+  },
+  {
+    "name": "alamode",
+    "hash": "5dfccf5",
+    "date": "2018-07-25T18:14:06.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "alamode",
+    "hash": "5210a75",
+    "date": "2018-07-25T17:42:59.000Z",
+    "subject": "u doc\""
+  },
+  {
+    "name": "alamode",
+    "hash": "dfea518",
+    "date": "2018-07-25T17:42:52.000Z",
+    "subject": "installation section\""
+  },
+  {
+    "name": "alamode",
+    "hash": "369ebf9",
+    "date": "2018-07-25T17:16:22.000Z",
+    "subject": "c\""
+  },
+  {
+    "name": "alamode",
+    "hash": "0dac16e",
+    "date": "2018-07-25T17:14:01.000Z",
+    "subject": "doc / example\""
+  },
+  {
+    "name": "alamode",
+    "hash": "3ab4e14",
+    "date": "2018-07-25T17:13:53.000Z",
+    "subject": "move org\""
+  },
+  {
+    "name": "alamode",
+    "hash": "8ed49c3",
+    "date": "2018-07-25T17:10:50.000Z",
+    "subject": "initialise package\""
+  },
+  {
+    "name": "alamode",
+    "hash": "fd26bad",
+    "date": "2018-07-25T17:10:45.000Z",
+    "subject": "Initial commit\""
+  }
+]

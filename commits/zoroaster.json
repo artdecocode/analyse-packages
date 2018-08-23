@@ -1,0 +1,1412 @@
+[
+  {
+    "name": "zoroaster",
+    "hash": "3a397d2",
+    "date": "2018-08-22T06:28:18.000Z",
+    "subject": "v2.4.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "3bfd24a",
+    "date": "2018-08-22T06:28:04.000Z",
+    "subject": "c240\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "37cbd1e",
+    "date": "2018-08-22T06:25:58.000Z",
+    "subject": "ALAMODE_ENV in launch\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "9d5145b",
+    "date": "2018-08-22T06:23:38.000Z",
+    "subject": "update alamode\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "d4210be",
+    "date": "2018-08-22T05:53:55.000Z",
+    "subject": "build alamode\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "4a50fa3",
+    "date": "2018-08-22T05:53:37.000Z",
+    "subject": "implement alamode flag\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "960cb88",
+    "date": "2018-08-22T05:53:30.000Z",
+    "subject": "test with alamode\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "4610c86",
+    "date": "2018-08-22T05:17:23.000Z",
+    "subject": "register with alamode\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "f8a7f4c",
+    "date": "2018-08-22T05:14:25.000Z",
+    "subject": "install alamode as dependency\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "90c8583",
+    "date": "2018-08-22T05:13:22.000Z",
+    "subject": "add .alamoderc\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "312d4b6",
+    "date": "2018-08-18T22:25:25.000Z",
+    "subject": "v2.3.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "39c6cb8",
+    "date": "2018-08-18T22:25:10.000Z",
+    "subject": "c230\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "9da2a5d",
+    "date": "2018-08-18T22:22:09.000Z",
+    "subject": "test getTests from lib\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "aff148a",
+    "date": "2018-08-18T22:20:48.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "d0dfcca",
+    "date": "2018-08-18T21:37:17.000Z",
+    "subject": "make-test-suite tests\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "b77a378",
+    "date": "2018-08-18T20:50:31.000Z",
+    "subject": "new types\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "4495c88",
+    "date": "2018-08-18T16:03:29.000Z",
+    "subject": "build make-test-suite\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "bf31902",
+    "date": "2018-08-18T16:03:16.000Z",
+    "subject": "add types for make-test-suite config\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "b29cc4c",
+    "date": "2018-08-18T15:30:14.000Z",
+    "subject": "build make-test-suite\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "1afb455",
+    "date": "2018-08-18T15:28:33.000Z",
+    "subject": "custom tests in make-test-suite\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "11373c4",
+    "date": "2018-08-17T15:45:26.000Z",
+    "subject": "test an error correctly\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "da89578",
+    "date": "2018-08-17T15:41:16.000Z",
+    "subject": "make-test-suite lib and test\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "f69e51e",
+    "date": "2018-08-17T00:28:10.000Z",
+    "subject": "i erte\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "9f6e6ae",
+    "date": "2018-08-16T18:29:01.000Z",
+    "subject": "v2.2.2\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "e4d66b1",
+    "date": "2018-08-16T18:28:46.000Z",
+    "subject": "c222\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "96c4f49",
+    "date": "2018-08-16T18:27:21.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "c400372",
+    "date": "2018-08-16T18:27:10.000Z",
+    "subject": "fix mask \\s*\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "4909ea0",
+    "date": "2018-08-16T18:08:46.000Z",
+    "subject": "v2.2.1\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "bcb4d1e",
+    "date": "2018-08-16T18:08:12.000Z",
+    "subject": "c221\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "3ebe6e1",
+    "date": "2018-08-16T18:06:55.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "c463f99",
+    "date": "2018-08-16T18:06:44.000Z",
+    "subject": "mask onError serialise\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "ac20c3b",
+    "date": "2018-08-16T18:05:04.000Z",
+    "subject": "mask test\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "95d3cbb",
+    "date": "2018-08-15T14:28:04.000Z",
+    "subject": "v2.2.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "8deceda",
+    "date": "2018-08-15T14:27:44.000Z",
+    "subject": "c220\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "9d4d19b",
+    "date": "2018-08-15T14:27:30.000Z",
+    "subject": "u deps\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "2b5c096",
+    "date": "2018-08-15T13:57:17.000Z",
+    "subject": "build mask-lib\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "ae9059d",
+    "date": "2018-08-15T13:54:03.000Z",
+    "subject": "add mask lib\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "7df7a81",
+    "date": "2018-08-15T13:47:16.000Z",
+    "subject": "i mismatch\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "d66429d",
+    "date": "2018-08-15T13:46:58.000Z",
+    "subject": "remove eslint\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "5b08342",
+    "date": "2018-08-15T13:34:32.000Z",
+    "subject": "build w/ alamode\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "6d7c602",
+    "date": "2018-08-15T13:34:27.000Z",
+    "subject": "import/export throws\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "d64c118",
+    "date": "2018-08-15T13:34:19.000Z",
+    "subject": "install alamode\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "1d6260b",
+    "date": "2018-08-15T01:26:59.000Z",
+    "subject": "remove babel build\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "7211f59",
+    "date": "2018-08-15T01:25:13.000Z",
+    "subject": "remove babel\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "5c658df",
+    "date": "2018-05-24T18:12:31.000Z",
+    "subject": "c@2.1.1\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "b401d74",
+    "date": "2018-05-24T18:07:42.000Z",
+    "subject": "simpler Context reference, snapshot-context@2, better context\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "d41a874",
+    "date": "2018-05-24T16:20:09.000Z",
+    "subject": "v2.1.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "9c975a4",
+    "date": "2018-05-23T19:25:52.000Z",
+    "subject": "build2.1.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "27bb0b3",
+    "date": "2018-05-23T19:25:25.000Z",
+    "subject": "shebang\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "3c036f8",
+    "date": "2018-05-23T10:01:31.000Z",
+    "subject": "c2.1\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "e5dee6d",
+    "date": "2018-05-23T10:00:09.000Z",
+    "subject": "flags in readme\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "0f8d2d2",
+    "date": "2018-05-23T09:56:45.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "f56c460",
+    "date": "2018-05-23T09:55:59.000Z",
+    "subject": "readme for class context\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "1be9ab1",
+    "date": "2018-05-23T09:52:42.000Z",
+    "subject": "examples\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "e30a503",
+    "date": "2018-05-23T09:52:36.000Z",
+    "subject": "update context struc\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "5df34d0",
+    "date": "2018-05-23T09:06:09.000Z",
+    "subject": "better contexts logic\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "9e6bc16",
+    "date": "2018-05-23T07:49:04.000Z",
+    "subject": "flags\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "04e24bd",
+    "date": "2018-05-23T07:48:42.000Z",
+    "subject": "class context\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "9aea8b5",
+    "date": "2018-05-23T07:48:13.000Z",
+    "subject": "move context tests to Context\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "5a0d854",
+    "date": "2018-05-17T05:16:30.000Z",
+    "subject": "v2.0.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "933711d",
+    "date": "2018-05-17T05:16:11.000Z",
+    "subject": "c!2@17/5/18\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "03e6b7e",
+    "date": "2018-05-17T05:13:40.000Z",
+    "subject": "update snapshot test, spawncommand\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "84ec942",
+    "date": "2018-05-17T05:13:30.000Z",
+    "subject": "use erotic in test suite\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "d21ec91",
+    "date": "2018-05-15T18:36:48.000Z",
+    "subject": "c@ok\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "8e67ea5",
+    "date": "2018-05-15T18:36:15.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "e271cda",
+    "date": "2018-05-15T18:36:03.000Z",
+    "subject": "export ok from assert\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "a9da798",
+    "date": "2018-05-15T18:35:57.000Z",
+    "subject": "multipe context example\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "09fb3fb",
+    "date": "2018-05-15T18:00:27.000Z",
+    "subject": "add tags\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "f55cd91",
+    "date": "2018-05-15T17:59:45.000Z",
+    "subject": "c!2\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "a1d5368",
+    "date": "2018-05-15T17:56:31.000Z",
+    "subject": "test-build\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "fa440df",
+    "date": "2018-05-15T17:07:10.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "dfb4575",
+    "date": "2018-05-15T17:06:46.000Z",
+    "subject": "export assert\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "41130a8",
+    "date": "2018-05-15T17:06:38.000Z",
+    "subject": "move doc graphics\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "c4ddab0",
+    "date": "2018-05-15T16:56:14.000Z",
+    "subject": ".eslintrc\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "9c3490d",
+    "date": "2018-05-15T16:55:09.000Z",
+    "subject": "fix lint problems\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "c7de94a",
+    "date": "2018-05-15T16:53:44.000Z",
+    "subject": "artdeco eslint\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "987a371",
+    "date": "2018-05-15T16:27:56.000Z",
+    "subject": "organise tests\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "bd70195",
+    "date": "2018-05-15T15:53:35.000Z",
+    "subject": "remove old babelrc\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "ebc3815",
+    "date": "2018-05-15T15:53:15.000Z",
+    "subject": "remove old snapshots\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "8588a82",
+    "date": "2018-05-15T03:02:06.000Z",
+    "subject": "update snapshot context & make integration test pass\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "da61ec1",
+    "date": "2018-05-15T00:31:38.000Z",
+    "subject": "remove old versions of node from appveyor\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "75db7de",
+    "date": "2018-05-15T00:25:20.000Z",
+    "subject": "eslint\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "86ba864",
+    "date": "2018-05-15T00:22:55.000Z",
+    "subject": "update snapshot\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "a533ffe",
+    "date": "2018-05-15T00:16:17.000Z",
+    "subject": "remove node 6 from travis\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "2934294",
+    "date": "2018-05-15T00:14:23.000Z",
+    "subject": "remove node 4 travis\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "dc8a998",
+    "date": "2018-05-15T00:13:31.000Z",
+    "subject": "add plugin-proposal-object-rest-spread\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "312da64",
+    "date": "2018-05-15T00:08:06.000Z",
+    "subject": "update integration test\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "72932b3",
+    "date": "2018-05-14T20:57:36.000Z",
+    "subject": "update tests\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "87290a2",
+    "date": "2018-05-11T19:11:03.000Z",
+    "subject": "remove es5\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "4cf2d68",
+    "date": "2018-05-11T13:06:28.000Z",
+    "subject": "organise context tests\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "8fcf22b",
+    "date": "2018-05-11T12:18:14.000Z",
+    "subject": "print better report\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "1c8fa63",
+    "date": "2018-05-11T09:16:37.000Z",
+    "subject": "move files around\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "64d26e8",
+    "date": "2018-05-11T08:56:46.000Z",
+    "subject": "update syntax\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "05d815d",
+    "date": "2018-05-10T10:01:00.000Z",
+    "subject": "Merge pull request #19 from artdecocode/feature/move\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "59aab45",
+    "date": "2018-05-10T09:51:47.000Z",
+    "subject": "move to artdeco\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "6c8b7a2",
+    "date": "2018-05-04T07:06:10.000Z",
+    "subject": "v1.1.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "36bb32b",
+    "date": "2018-05-04T07:02:33.000Z",
+    "subject": "c@1.1.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "ce04926",
+    "date": "2018-05-04T07:02:13.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "c473369",
+    "date": "2018-05-04T07:02:03.000Z",
+    "subject": "--babel\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "55515a7",
+    "date": "2018-05-04T07:01:41.000Z",
+    "subject": "multiple contexts\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "2e081f1",
+    "date": "2018-03-17T00:23:16.000Z",
+    "subject": "v1.0.1\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "ebc1ef9",
+    "date": "2018-03-17T00:22:43.000Z",
+    "subject": "build es5 bin\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "6e026c2",
+    "date": "2018-03-17T00:21:47.000Z",
+    "subject": "write bin in es7\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "ea8815a",
+    "date": "2018-03-17T00:08:00.000Z",
+    "subject": "v1.0.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "62563d2",
+    "date": "2018-03-16T22:01:59.000Z",
+    "subject": "changelog@v1.0.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "b1ee819",
+    "date": "2018-03-16T21:57:36.000Z",
+    "subject": "update example output\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "5d261c1",
+    "date": "2018-03-16T21:52:11.000Z",
+    "subject": "renew image\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "bdc9367",
+    "date": "2018-03-16T21:31:17.000Z",
+    "subject": "build emoji\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "7c3f9c0",
+    "date": "2018-03-16T21:30:42.000Z",
+    "subject": "add emoji\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "9fc397e",
+    "date": "2018-03-16T21:06:37.000Z",
+    "subject": "add software example\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "dfa7124",
+    "date": "2018-03-15T17:07:04.000Z",
+    "subject": "tweak readme\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "ef96f3b",
+    "date": "2018-03-15T16:55:30.000Z",
+    "subject": "v1.0.0-beta.2\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "2ed6eb6",
+    "date": "2018-03-15T16:55:17.000Z",
+    "subject": "full paths for bin\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "74a5279",
+    "date": "2018-03-15T16:35:41.000Z",
+    "subject": "v1.0.0-beta.1\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "59a40ac",
+    "date": "2018-03-15T16:35:16.000Z",
+    "subject": "readme adjusments\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "0fa287a",
+    "date": "2018-03-15T16:19:25.000Z",
+    "subject": "v1.0.0-beta.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "b1a97d7",
+    "date": "2018-03-15T16:18:48.000Z",
+    "subject": "changelog@1.0.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "03565d2",
+    "date": "2018-03-15T16:10:30.000Z",
+    "subject": "documentation\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "e64b614",
+    "date": "2018-03-15T14:50:36.000Z",
+    "subject": "1123\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "e75f046",
+    "date": "2018-03-15T14:43:24.000Z",
+    "subject": "readme\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "4abf5fc",
+    "date": "2018-03-15T14:31:09.000Z",
+    "subject": "fix dep\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "fa3a500",
+    "date": "2018-03-15T14:29:49.000Z",
+    "subject": "spellcheck\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "026e6f9",
+    "date": "2018-03-15T11:06:17.000Z",
+    "subject": "Update readme\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "de48dea",
+    "date": "2018-03-15T04:19:45.000Z",
+    "subject": "Merge pull request #17 from Sobesednik/feature/ci\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "4a3273d",
+    "date": "2018-03-15T04:13:24.000Z",
+    "subject": "build win-4 snapshot\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "35c8203",
+    "date": "2018-03-15T04:11:55.000Z",
+    "subject": "fix win4 snapshot\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "0ddc977",
+    "date": "2018-03-15T04:09:33.000Z",
+    "subject": "win-6 snapshot\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "b451571",
+    "date": "2018-03-15T04:02:00.000Z",
+    "subject": "add node8-es5 snapshot\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "ee94330",
+    "date": "2018-03-15T03:47:18.000Z",
+    "subject": "add snapshots\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "2e62188",
+    "date": "2018-03-15T02:59:28.000Z",
+    "subject": "alias catchment es5\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "d974f83",
+    "date": "2018-03-15T02:56:45.000Z",
+    "subject": "alias noddy es5\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "8f86021",
+    "date": "2018-03-15T02:46:15.000Z",
+    "subject": "build run tests\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "002d98e",
+    "date": "2018-03-15T02:36:45.000Z",
+    "subject": "reference assert-throws es5\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "21c4387",
+    "date": "2018-03-14T22:44:39.000Z",
+    "subject": "skip mac build\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "2827e40",
+    "date": "2018-03-14T22:40:35.000Z",
+    "subject": "fix win integration test\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "fbfd756",
+    "date": "2018-03-14T22:38:47.000Z",
+    "subject": "return fork exit\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "b7dacf8",
+    "date": "2018-03-14T22:37:10.000Z",
+    "subject": "use yarn in appveyor\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "242819f",
+    "date": "2018-03-14T22:35:31.000Z",
+    "subject": "run es5 tests\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "c7df4d0",
+    "date": "2018-03-14T22:35:22.000Z",
+    "subject": "better run_tests\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "fbdc5cf",
+    "date": "2018-03-14T22:11:32.000Z",
+    "subject": "build es5\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "cc780e7",
+    "date": "2018-03-14T21:52:32.000Z",
+    "subject": "Merge pull request #16 from Sobesednik/feature/es7\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "506db46",
+    "date": "2018-03-14T17:00:16.000Z",
+    "subject": "fixture path async\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "886c38d",
+    "date": "2018-03-14T16:57:23.000Z",
+    "subject": "update travis\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "986e4b9",
+    "date": "2018-03-14T16:45:10.000Z",
+    "subject": "remove website\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "3f85ea1",
+    "date": "2018-03-14T16:44:48.000Z",
+    "subject": "remove splendid\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "fa2b79f",
+    "date": "2018-03-14T16:41:40.000Z",
+    "subject": "syntax\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "640f800",
+    "date": "2018-03-14T14:00:37.000Z",
+    "subject": "eslint indent\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "e1b926d",
+    "date": "2018-03-14T14:00:19.000Z",
+    "subject": "update packages\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "8f100f3",
+    "date": "2018-03-01T00:46:32.000Z",
+    "subject": "add website\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "ab86b19",
+    "date": "2018-03-01T00:29:47.000Z",
+    "subject": "add website\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "b970965",
+    "date": "2018-02-28T20:34:27.000Z",
+    "subject": "add yarn\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "2e47cb0",
+    "date": "2018-01-02T00:46:28.000Z",
+    "subject": "update dependencies\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "9c42825",
+    "date": "2018-01-02T00:45:42.000Z",
+    "subject": "add todo items\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "f0c7b07",
+    "date": "2018-01-02T00:17:41.000Z",
+    "subject": "0.5.3\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "18e4fdb",
+    "date": "2018-01-02T00:17:37.000Z",
+    "subject": "changelog@5.0.3\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "037aa75",
+    "date": "2018-01-02T00:16:58.000Z",
+    "subject": "update assert-throws to return the error\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "8fdc3b3",
+    "date": "2018-01-01T17:26:36.000Z",
+    "subject": "0.5.2\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "a71123c",
+    "date": "2018-01-01T17:26:17.000Z",
+    "subject": "changelog@0.5.2\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "e0e5563",
+    "date": "2018-01-01T17:24:48.000Z",
+    "subject": "update to assert-throws@1.2.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "199b4f1",
+    "date": "2018-01-01T15:57:09.000Z",
+    "subject": "0.5.1\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "5d0777d",
+    "date": "2018-01-01T15:56:57.000Z",
+    "subject": "changelog 0.5.1\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "9176455",
+    "date": "2018-01-01T15:56:48.000Z",
+    "subject": "update assert-throws\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "a63d3c9",
+    "date": "2017-12-31T04:05:12.000Z",
+    "subject": "0.5.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "4f93ea8",
+    "date": "2017-12-31T04:05:06.000Z",
+    "subject": "changelog 0.5.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "245c406",
+    "date": "2017-12-31T04:03:08.000Z",
+    "subject": "Merge pull request #15 from Sobesednik/feature/assert\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "58d9351",
+    "date": "2017-12-31T03:49:32.000Z",
+    "subject": "win8 debug\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "49729bc",
+    "date": "2017-12-31T03:40:10.000Z",
+    "subject": "implement assert module\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "2a05901",
+    "date": "2017-05-28T22:13:23.000Z",
+    "subject": "0.4.6\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "a6e6230",
+    "date": "2017-05-28T22:13:03.000Z",
+    "subject": "Merge pull request #14 from Sobesednik/bugfix/win-tests\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "d0ab69c",
+    "date": "2017-05-28T22:10:08.000Z",
+    "subject": "update changelog\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "6c0a706",
+    "date": "2017-05-28T22:02:46.000Z",
+    "subject": "spawn for windows\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "05b8903",
+    "date": "2017-05-25T21:11:04.000Z",
+    "subject": "0.4.5\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "0b81c9b",
+    "date": "2017-05-25T21:10:58.000Z",
+    "subject": "export main function\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "6e19be3",
+    "date": "2017-05-25T20:51:56.000Z",
+    "subject": "clearer code\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "1b6e82b",
+    "date": "2017-05-14T23:03:46.000Z",
+    "subject": "0.4.4\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "f5debd0",
+    "date": "2017-05-14T23:00:47.000Z",
+    "subject": "changelog for v0.4.4\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "8b9c1e8",
+    "date": "2017-05-14T22:54:12.000Z",
+    "subject": "Merge pull request #13 from Sobesednik/bugfix/destroy-context-after-timeout\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "7dec23f",
+    "date": "2017-05-14T18:12:30.000Z",
+    "subject": "call context.destroy after timeout\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "d518713",
+    "date": "2017-05-10T19:47:49.000Z",
+    "subject": "0.4.3\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "a2a178d",
+    "date": "2017-05-10T19:47:45.000Z",
+    "subject": "changelog for v0.4.3\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "835d85d",
+    "date": "2017-05-10T19:46:46.000Z",
+    "subject": "reject _evaluateContext if error was thrown\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "d518d80",
+    "date": "2017-05-10T19:00:47.000Z",
+    "subject": "0.4.2\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "39e54bc",
+    "date": "2017-05-10T19:00:42.000Z",
+    "subject": "v0.4.2 changelog\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "153fe1a",
+    "date": "2017-05-10T18:59:19.000Z",
+    "subject": "Merge pull request #12 from Sobesednik/feature/context-destroy\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "c12f1a1",
+    "date": "2017-05-10T18:56:30.000Z",
+    "subject": "context-destroy function\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "d6beb9f",
+    "date": "2017-05-09T21:45:21.000Z",
+    "subject": "add eslint\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "70cde24",
+    "date": "2017-05-07T18:29:21.000Z",
+    "subject": "0.4.1\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "3d37503",
+    "date": "2017-05-07T18:29:15.000Z",
+    "subject": "changelog for 0.4.1\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "dd704bd",
+    "date": "2017-05-07T18:27:09.000Z",
+    "subject": "Merge pull request #11 from Sobesednik/feature/context-as-function\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "e8b33ee",
+    "date": "2017-05-07T16:16:00.000Z",
+    "subject": "context as a function\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "969aefa",
+    "date": "2017-05-01T18:36:45.000Z",
+    "subject": "0.4.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "03b5300",
+    "date": "2017-05-01T18:36:38.000Z",
+    "subject": "update readme for v0.4.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "12b44d6",
+    "date": "2017-05-01T18:35:15.000Z",
+    "subject": "Merge pull request #10 from Sobesednik/feature/context-from-object\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "a82b550",
+    "date": "2017-05-01T17:23:39.000Z",
+    "subject": "update readme images\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "1f648e8",
+    "date": "2017-05-01T16:18:53.000Z",
+    "subject": "update readme and example\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "d39763c",
+    "date": "2017-05-01T15:34:42.000Z",
+    "subject": "pass context as test suite property\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "9d84279",
+    "date": "2017-04-19T01:31:49.000Z",
+    "subject": "v0.3.1\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "227ec65",
+    "date": "2017-04-19T01:28:30.000Z",
+    "subject": "Merge pull request #9 from Sobesednik/feature/integration-test\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "4556418",
+    "date": "2017-04-18T23:31:42.000Z",
+    "subject": "add integration test\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "55b9880",
+    "date": "2017-04-18T21:54:42.000Z",
+    "subject": "use catchment\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "4d11b44",
+    "date": "2017-04-18T14:39:32.000Z",
+    "subject": "0.3.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "9ec61b1",
+    "date": "2017-04-18T14:39:23.000Z",
+    "subject": "Add changelog\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "0016d79",
+    "date": "2017-03-29T20:40:46.000Z",
+    "subject": "Implement test context\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "6de5830",
+    "date": "2017-03-29T20:19:38.000Z",
+    "subject": "Pipe error stream to a drain\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "5a7a8f1",
+    "date": "2016-12-12T22:00:48.000Z",
+    "subject": "0.2.0\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "2445d55",
+    "date": "2016-12-12T21:59:07.000Z",
+    "subject": "Merge pull request #8 from Sobesednik/bugfix/sort\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "617c166",
+    "date": "2016-12-12T21:57:52.000Z",
+    "subject": "stable sort\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "a082e0a",
+    "date": "2016-12-12T21:55:05.000Z",
+    "subject": "Merge pull request #7 from Sobesednik/feature/progress-stream\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "674d0c4",
+    "date": "2016-12-12T21:48:02.000Z",
+    "subject": "use streams in zoroaster\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "5939063",
+    "date": "2016-12-12T21:47:17.000Z",
+    "subject": "Allow to run tests and test suites with notify callback\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "afc70ed",
+    "date": "2016-12-12T21:45:59.000Z",
+    "subject": "Stream library: TestSuiteStack, Progress and Error\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "1d9fcd9",
+    "date": "2016-12-12T21:45:51.000Z",
+    "subject": "getPadding function\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "f0c7102",
+    "date": "2016-12-12T21:22:57.000Z",
+    "subject": "Clear timeout even if test failed\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "82017f0",
+    "date": "2016-12-12T21:21:07.000Z",
+    "subject": "Better run_tests.js with streaming of output\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "99700c8",
+    "date": "2016-12-12T21:19:15.000Z",
+    "subject": "Tidy up comments and style\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "f04ff68",
+    "date": "2016-12-04T20:41:53.000Z",
+    "subject": "0.1.5\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "32dfef5",
+    "date": "2016-12-04T20:41:28.000Z",
+    "subject": "Merge pull request #6 from Sobesednik/feature/timeout-tests\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "531a0e8",
+    "date": "2016-12-04T20:39:08.000Z",
+    "subject": "timeout tests and default global timeout\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "3b14b5e",
+    "date": "2016-12-04T03:48:11.000Z",
+    "subject": "0.1.4\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "063bada",
+    "date": "2016-12-04T03:46:36.000Z",
+    "subject": "Merge pull request #5 from Sobesednik/feature/timeout\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "93a3273",
+    "date": "2016-12-04T03:45:30.000Z",
+    "subject": "add basic timeout\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "1dbb462",
+    "date": "2016-12-04T01:59:10.000Z",
+    "subject": "Merge pull request #4 from Sobesednik/feature/no-semicolon\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "3563204",
+    "date": "2016-12-04T01:57:07.000Z",
+    "subject": "no semicolon\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "a5f2cde",
+    "date": "2016-10-22T03:24:12.000Z",
+    "subject": "0.1.3\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "e400a98",
+    "date": "2016-10-22T03:21:09.000Z",
+    "subject": "0.1.2\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "b891a08",
+    "date": "2016-10-22T03:19:15.000Z",
+    "subject": "fix README badge\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "6d8f104",
+    "date": "2016-10-22T03:16:28.000Z",
+    "subject": "Merge pull request #3 from Sobesednik/feature/appveyor\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "28fad75",
+    "date": "2016-10-22T01:53:19.000Z",
+    "subject": "appveyor.yml\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "71034c9",
+    "date": "2016-10-22T01:48:25.000Z",
+    "subject": "0.1.1\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "e87dc08",
+    "date": "2016-10-22T01:48:04.000Z",
+    "subject": "Merge pull request #2 from Sobesednik/bugfix/use-strict\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "1ef84ae",
+    "date": "2016-10-22T01:41:28.000Z",
+    "subject": "use strict\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "0ba6670",
+    "date": "2016-10-22T01:40:26.000Z",
+    "subject": "Merge pull request #1 from Sobesednik/feature/travis\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "46968ba",
+    "date": "2016-10-22T01:37:29.000Z",
+    "subject": "Travis.yml\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "c810b34",
+    "date": "2016-10-22T01:13:12.000Z",
+    "subject": "version 0.1.0: src, bin, readme, tests, examples\""
+  },
+  {
+    "name": "zoroaster",
+    "hash": "d15c617",
+    "date": "2016-09-10T11:35:19.000Z",
+    "subject": "Initial commit\""
+  }
+]

@@ -1,0 +1,1118 @@
+[
+  {
+    "name": "mnp",
+    "hash": "24a9362",
+    "date": "2018-07-17T04:41:33.000Z",
+    "subject": "v0.10.1\""
+  },
+  {
+    "name": "mnp",
+    "hash": "1628f0d",
+    "date": "2018-07-17T04:41:22.000Z",
+    "subject": "c0101\""
+  },
+  {
+    "name": "mnp",
+    "hash": "2be7d09",
+    "date": "2018-07-17T04:39:24.000Z",
+    "subject": "fix doc\""
+  },
+  {
+    "name": "mnp",
+    "hash": "688ba67",
+    "date": "2018-07-17T04:19:23.000Z",
+    "subject": "v0.10.0\""
+  },
+  {
+    "name": "mnp",
+    "hash": "31d78eb",
+    "date": "2018-07-17T04:19:08.000Z",
+    "subject": "c010\""
+  },
+  {
+    "name": "mnp",
+    "hash": "69b842e",
+    "date": "2018-07-17T04:17:15.000Z",
+    "subject": "doc scripts\""
+  },
+  {
+    "name": "mnp",
+    "hash": "02275c2",
+    "date": "2018-07-17T04:11:19.000Z",
+    "subject": "u clone snapshot\""
+  },
+  {
+    "name": "mnp",
+    "hash": "6d4c63b",
+    "date": "2018-07-17T04:00:10.000Z",
+    "subject": "u test\""
+  },
+  {
+    "name": "mnp",
+    "hash": "eb1ea14",
+    "date": "2018-07-17T03:54:01.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "590dbdc",
+    "date": "2018-07-17T03:53:59.000Z",
+    "subject": "version & usage\""
+  },
+  {
+    "name": "mnp",
+    "hash": "cc53bd2",
+    "date": "2018-07-17T02:10:45.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "aeee32b",
+    "date": "2018-07-17T02:10:41.000Z",
+    "subject": "l\""
+  },
+  {
+    "name": "mnp",
+    "hash": "c12a71a",
+    "date": "2018-07-17T01:29:03.000Z",
+    "subject": "upgrade structures\""
+  },
+  {
+    "name": "mnp",
+    "hash": "322ffd4",
+    "date": "2018-07-17T01:28:45.000Z",
+    "subject": "execute on-create scripts\""
+  },
+  {
+    "name": "mnp",
+    "hash": "6644d66",
+    "date": "2018-07-16T23:17:12.000Z",
+    "subject": "use @mnpjs/structure\""
+  },
+  {
+    "name": "mnp",
+    "hash": "1ea63d4",
+    "date": "2018-07-15T08:33:13.000Z",
+    "subject": "v0.9.1\""
+  },
+  {
+    "name": "mnp",
+    "hash": "50fc577",
+    "date": "2018-07-15T08:32:45.000Z",
+    "subject": "c091\""
+  },
+  {
+    "name": "mnp",
+    "hash": "b6f9854",
+    "date": "2018-07-15T08:31:18.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "3033f31",
+    "date": "2018-07-15T08:31:16.000Z",
+    "subject": "null scope fix\""
+  },
+  {
+    "name": "mnp",
+    "hash": "484fbd0",
+    "date": "2018-07-15T08:08:15.000Z",
+    "subject": "add timeout\""
+  },
+  {
+    "name": "mnp",
+    "hash": "579bcde",
+    "date": "2018-07-15T07:55:41.000Z",
+    "subject": "transfer to mnpjs\""
+  },
+  {
+    "name": "mnp",
+    "hash": "8c6b4b9",
+    "date": "2018-07-03T18:14:02.000Z",
+    "subject": "v0.9.0\""
+  },
+  {
+    "name": "mnp",
+    "hash": "b2cac4b",
+    "date": "2018-07-03T18:09:44.000Z",
+    "subject": "doc commas\""
+  },
+  {
+    "name": "mnp",
+    "hash": "5d10a81",
+    "date": "2018-07-03T18:07:41.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "68007e4",
+    "date": "2018-07-03T18:07:29.000Z",
+    "subject": "fix integration test\""
+  },
+  {
+    "name": "mnp",
+    "hash": "f2ed17b",
+    "date": "2018-07-03T17:10:19.000Z",
+    "subject": "ignore .mnprc\""
+  },
+  {
+    "name": "mnp",
+    "hash": "a3799a9",
+    "date": "2018-07-03T17:05:09.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "12a9058",
+    "date": "2018-07-03T17:05:05.000Z",
+    "subject": "test scoped packages\""
+  },
+  {
+    "name": "mnp",
+    "hash": "ddb4328",
+    "date": "2018-07-03T16:49:08.000Z",
+    "subject": "udpate africa@1.2.0\""
+  },
+  {
+    "name": "mnp",
+    "hash": "a646b28",
+    "date": "2018-07-03T16:45:39.000Z",
+    "subject": "c090\""
+  },
+  {
+    "name": "mnp",
+    "hash": "baa1ac0",
+    "date": "2018-07-03T16:40:55.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "mnp",
+    "hash": "105ecf9",
+    "date": "2018-07-03T16:38:03.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "56fe756",
+    "date": "2018-07-03T16:38:01.000Z",
+    "subject": "delete usage\""
+  },
+  {
+    "name": "mnp",
+    "hash": "a141786",
+    "date": "2018-07-03T16:33:53.000Z",
+    "subject": "update doc for @mnpjs/package\""
+  },
+  {
+    "name": "mnp",
+    "hash": "f7ea4ae",
+    "date": "2018-07-03T16:26:05.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "46b58e3",
+    "date": "2018-07-03T16:25:53.000Z",
+    "subject": "assign scoped package name\""
+  },
+  {
+    "name": "mnp",
+    "hash": "01ec0ce",
+    "date": "2018-07-03T16:25:00.000Z",
+    "subject": "scope @mnpjs/package\""
+  },
+  {
+    "name": "mnp",
+    "hash": "3ea6680",
+    "date": "2018-07-03T14:52:15.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "43826ce",
+    "date": "2018-07-03T14:51:48.000Z",
+    "subject": "scoped packages, trademark\""
+  },
+  {
+    "name": "mnp",
+    "hash": "278d076",
+    "date": "2018-07-03T14:48:46.000Z",
+    "subject": "local africa\""
+  },
+  {
+    "name": "mnp",
+    "hash": "dabbd66",
+    "date": "2018-07-03T13:20:55.000Z",
+    "subject": "u africa\""
+  },
+  {
+    "name": "mnp",
+    "hash": "9f1d0ab",
+    "date": "2018-07-03T12:41:11.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "80c52da",
+    "date": "2018-07-03T12:41:07.000Z",
+    "subject": "readme\""
+  },
+  {
+    "name": "mnp",
+    "hash": "ecaeaa6",
+    "date": "2018-07-03T12:39:36.000Z",
+    "subject": "local sign in\""
+  },
+  {
+    "name": "mnp",
+    "hash": "6e411ca",
+    "date": "2018-07-03T12:39:14.000Z",
+    "subject": "usage\""
+  },
+  {
+    "name": "mnp",
+    "hash": "fb9c911",
+    "date": "2018-07-03T12:38:50.000Z",
+    "subject": "deps\""
+  },
+  {
+    "name": "mnp",
+    "hash": "7db8c93",
+    "date": "2018-06-29T17:29:47.000Z",
+    "subject": "doc formatting\""
+  },
+  {
+    "name": "mnp",
+    "hash": "7a42090",
+    "date": "2018-06-25T22:18:46.000Z",
+    "subject": "usage\""
+  },
+  {
+    "name": "mnp",
+    "hash": "e8b2424",
+    "date": "2018-06-25T08:22:02.000Z",
+    "subject": "v0.8.0\""
+  },
+  {
+    "name": "mnp",
+    "hash": "8567ffc",
+    "date": "2018-06-25T08:20:41.000Z",
+    "subject": "c080\""
+  },
+  {
+    "name": "mnp",
+    "hash": "2792727",
+    "date": "2018-06-25T08:18:13.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "79ac9aa",
+    "date": "2018-06-25T08:17:52.000Z",
+    "subject": "footer\""
+  },
+  {
+    "name": "mnp",
+    "hash": "6121e4a",
+    "date": "2018-06-25T08:12:32.000Z",
+    "subject": "init config\""
+  },
+  {
+    "name": "mnp",
+    "hash": "2a7abf8",
+    "date": "2018-06-25T07:47:16.000Z",
+    "subject": "update create gif\""
+  },
+  {
+    "name": "mnp",
+    "hash": "6f34179",
+    "date": "2018-06-25T07:47:10.000Z",
+    "subject": "delete repo\""
+  },
+  {
+    "name": "mnp",
+    "hash": "3ad80d8",
+    "date": "2018-06-25T07:32:08.000Z",
+    "subject": "delete repo\""
+  },
+  {
+    "name": "mnp",
+    "hash": "083abe0",
+    "date": "2018-06-25T07:03:07.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "f38416e",
+    "date": "2018-06-25T06:59:41.000Z",
+    "subject": "star repo\""
+  },
+  {
+    "name": "mnp",
+    "hash": "92c4778",
+    "date": "2018-06-25T06:38:55.000Z",
+    "subject": "u argufy\""
+  },
+  {
+    "name": "mnp",
+    "hash": "ba68450",
+    "date": "2018-06-25T06:38:48.000Z",
+    "subject": "meet new dep apis\""
+  },
+  {
+    "name": "mnp",
+    "hash": "09b3100",
+    "date": "2018-06-25T05:46:56.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "7b451d2",
+    "date": "2018-06-25T05:46:50.000Z",
+    "subject": "reame w/ blank structure\""
+  },
+  {
+    "name": "mnp",
+    "hash": "9c0f29f",
+    "date": "2018-06-25T05:45:57.000Z",
+    "subject": "add snapshot\""
+  },
+  {
+    "name": "mnp",
+    "hash": "b957523",
+    "date": "2018-06-25T05:45:00.000Z",
+    "subject": "remove dir fixture\""
+  },
+  {
+    "name": "mnp",
+    "hash": "5929fff",
+    "date": "2018-06-25T05:39:33.000Z",
+    "subject": "update dep\""
+  },
+  {
+    "name": "mnp",
+    "hash": "016774d",
+    "date": "2018-06-25T04:18:53.000Z",
+    "subject": "MNP_PACKAGE in context\""
+  },
+  {
+    "name": "mnp",
+    "hash": "fa83289",
+    "date": "2018-06-25T04:18:21.000Z",
+    "subject": "snapshot-context\""
+  },
+  {
+    "name": "mnp",
+    "hash": "1c68077",
+    "date": "2018-06-25T03:55:03.000Z",
+    "subject": "up argufy\""
+  },
+  {
+    "name": "mnp",
+    "hash": "cd3f23b",
+    "date": "2018-06-25T03:54:53.000Z",
+    "subject": "test getStructure\""
+  },
+  {
+    "name": "mnp",
+    "hash": "43ba777",
+    "date": "2018-06-25T03:54:48.000Z",
+    "subject": "remove findStructure\""
+  },
+  {
+    "name": "mnp",
+    "hash": "0b486fb",
+    "date": "2018-06-25T03:32:21.000Z",
+    "subject": "html in table\""
+  },
+  {
+    "name": "mnp",
+    "hash": "1fefabc",
+    "date": "2018-06-25T03:30:20.000Z",
+    "subject": "create gif\""
+  },
+  {
+    "name": "mnp",
+    "hash": "4720968",
+    "date": "2018-06-25T03:00:11.000Z",
+    "subject": "debug\""
+  },
+  {
+    "name": "mnp",
+    "hash": "bfe0411",
+    "date": "2018-06-25T02:53:15.000Z",
+    "subject": "describe scripts\""
+  },
+  {
+    "name": "mnp",
+    "hash": "9514b13",
+    "date": "2018-06-25T02:49:00.000Z",
+    "subject": "document examples\""
+  },
+  {
+    "name": "mnp",
+    "hash": "5126227",
+    "date": "2018-06-25T02:24:23.000Z",
+    "subject": "readme retainLines\""
+  },
+  {
+    "name": "mnp",
+    "hash": "abae590",
+    "date": "2018-06-25T01:49:36.000Z",
+    "subject": "context destructuring\""
+  },
+  {
+    "name": "mnp",
+    "hash": "7171e80",
+    "date": "2018-06-25T01:42:50.000Z",
+    "subject": "readme\""
+  },
+  {
+    "name": "mnp",
+    "hash": "7b239e2",
+    "date": "2018-06-25T01:10:03.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "mnp",
+    "hash": "958f6e1",
+    "date": "2018-06-25T01:05:32.000Z",
+    "subject": "docs\""
+  },
+  {
+    "name": "mnp",
+    "hash": "e98d98e",
+    "date": "2018-06-25T00:47:08.000Z",
+    "subject": "install doc + build-s\""
+  },
+  {
+    "name": "mnp",
+    "hash": "af679eb",
+    "date": "2018-06-25T00:46:56.000Z",
+    "subject": "doc structure\""
+  },
+  {
+    "name": "mnp",
+    "hash": "7b1e0e8",
+    "date": "2018-06-25T00:03:24.000Z",
+    "subject": "remove babel/eslint\""
+  },
+  {
+    "name": "mnp",
+    "hash": "fce1039",
+    "date": "2018-06-09T09:45:19.000Z",
+    "subject": "v0.7.2\""
+  },
+  {
+    "name": "mnp",
+    "hash": "ce49c06",
+    "date": "2018-06-09T09:45:09.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "3b6b6f5",
+    "date": "2018-06-09T09:45:03.000Z",
+    "subject": "c072\""
+  },
+  {
+    "name": "mnp",
+    "hash": "438d014",
+    "date": "2018-06-09T09:44:51.000Z",
+    "subject": "mnp-package@1.3.0\""
+  },
+  {
+    "name": "mnp",
+    "hash": "190c87c",
+    "date": "2018-06-09T09:44:41.000Z",
+    "subject": "usually for usage\""
+  },
+  {
+    "name": "mnp",
+    "hash": "e70ed7d",
+    "date": "2018-06-09T09:31:35.000Z",
+    "subject": "usually\""
+  },
+  {
+    "name": "mnp",
+    "hash": "710afb5",
+    "date": "2018-06-08T04:58:04.000Z",
+    "subject": "v0.7.1\""
+  },
+  {
+    "name": "mnp",
+    "hash": "d7b001e",
+    "date": "2018-06-08T04:57:30.000Z",
+    "subject": "point to bin/index.js\""
+  },
+  {
+    "name": "mnp",
+    "hash": "61a01b0",
+    "date": "2018-06-07T17:54:48.000Z",
+    "subject": "v0.7.0\""
+  },
+  {
+    "name": "mnp",
+    "hash": "470275a",
+    "date": "2018-06-07T17:53:11.000Z",
+    "subject": "c@07\""
+  },
+  {
+    "name": "mnp",
+    "hash": "77421f4",
+    "date": "2018-06-07T17:51:31.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "64395fe",
+    "date": "2018-06-07T17:51:01.000Z",
+    "subject": "taken.png\""
+  },
+  {
+    "name": "mnp",
+    "hash": "5e603da",
+    "date": "2018-06-07T17:49:41.000Z",
+    "subject": "readme\""
+  },
+  {
+    "name": "mnp",
+    "hash": "e534895",
+    "date": "2018-06-07T17:45:53.000Z",
+    "subject": "check package name\""
+  },
+  {
+    "name": "mnp",
+    "hash": "e4b2b40",
+    "date": "2018-06-07T16:39:08.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "7d90714",
+    "date": "2018-06-07T16:39:05.000Z",
+    "subject": "launch mnp\""
+  },
+  {
+    "name": "mnp",
+    "hash": "66396b3",
+    "date": "2018-06-07T16:38:58.000Z",
+    "subject": "add argufy\""
+  },
+  {
+    "name": "mnp",
+    "hash": "56af038",
+    "date": "2018-06-07T16:38:45.000Z",
+    "subject": "parse args with argufy\""
+  },
+  {
+    "name": "mnp",
+    "hash": "f61d68d",
+    "date": "2018-06-07T15:16:22.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "93322b8",
+    "date": "2018-06-07T15:16:18.000Z",
+    "subject": "register\""
+  },
+  {
+    "name": "mnp",
+    "hash": "dc2f820",
+    "date": "2018-06-07T15:16:10.000Z",
+    "subject": "usage\""
+  },
+  {
+    "name": "mnp",
+    "hash": "43d4e71",
+    "date": "2018-05-26T12:29:38.000Z",
+    "subject": "v0.6.3\""
+  },
+  {
+    "name": "mnp",
+    "hash": "e0d69c1",
+    "date": "2018-05-26T12:29:23.000Z",
+    "subject": "c063\""
+  },
+  {
+    "name": "mnp",
+    "hash": "5f931bf",
+    "date": "2018-05-26T12:28:36.000Z",
+    "subject": "source maps for build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "ac67ba0",
+    "date": "2018-05-26T12:28:18.000Z",
+    "subject": "update zoroaster\""
+  },
+  {
+    "name": "mnp",
+    "hash": "ae4994b",
+    "date": "2018-05-26T12:27:47.000Z",
+    "subject": "update expected cloned\""
+  },
+  {
+    "name": "mnp",
+    "hash": "16ef2c9",
+    "date": "2018-05-18T03:36:37.000Z",
+    "subject": "v0.6.2\""
+  },
+  {
+    "name": "mnp",
+    "hash": "fb4f8df",
+    "date": "2018-05-18T03:35:45.000Z",
+    "subject": "c@0.6.2\""
+  },
+  {
+    "name": "mnp",
+    "hash": "39ba8af",
+    "date": "2018-05-18T03:34:23.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "e82e6c8",
+    "date": "2018-05-18T03:30:29.000Z",
+    "subject": "update syntax & provide build\""
+  },
+  {
+    "name": "mnp",
+    "hash": "95a4ddd",
+    "date": "2018-05-18T02:35:53.000Z",
+    "subject": "artdeco eslint\""
+  },
+  {
+    "name": "mnp",
+    "hash": "02d858a",
+    "date": "2018-05-18T02:17:44.000Z",
+    "subject": "udpate dependencies, package structure\""
+  },
+  {
+    "name": "mnp",
+    "hash": "80f51b6",
+    "date": "2018-05-04T10:05:42.000Z",
+    "subject": "v0.6.1\""
+  },
+  {
+    "name": "mnp",
+    "hash": "5908603",
+    "date": "2018-05-04T08:28:43.000Z",
+    "subject": "use mnp-package\""
+  },
+  {
+    "name": "mnp",
+    "hash": "004c5bd",
+    "date": "2018-05-04T08:21:50.000Z",
+    "subject": "install mnp-structure and mnp-package\""
+  },
+  {
+    "name": "mnp",
+    "hash": "eeb2a1f",
+    "date": "2018-05-04T08:21:38.000Z",
+    "subject": "remove structure\""
+  },
+  {
+    "name": "mnp",
+    "hash": "a852fbf",
+    "date": "2018-05-02T05:28:12.000Z",
+    "subject": "v0.5.1\""
+  },
+  {
+    "name": "mnp",
+    "hash": "6f2db9c",
+    "date": "2018-05-02T05:27:50.000Z",
+    "subject": "postpublish\""
+  },
+  {
+    "name": "mnp",
+    "hash": "4e07295",
+    "date": "2018-05-02T05:27:08.000Z",
+    "subject": "update mnp-idio\""
+  },
+  {
+    "name": "mnp",
+    "hash": "d84907d",
+    "date": "2018-05-02T04:37:04.000Z",
+    "subject": "v0.5.0\""
+  },
+  {
+    "name": "mnp",
+    "hash": "0bbfdf9",
+    "date": "2018-05-02T04:36:30.000Z",
+    "subject": "c@0.5.0\""
+  },
+  {
+    "name": "mnp",
+    "hash": "f8e88ac",
+    "date": "2018-05-02T04:35:03.000Z",
+    "subject": "idio structure\""
+  },
+  {
+    "name": "mnp",
+    "hash": "98d3a8f",
+    "date": "2018-05-01T05:31:17.000Z",
+    "subject": "specify structure\""
+  },
+  {
+    "name": "mnp",
+    "hash": "f827711",
+    "date": "2018-05-01T05:18:08.000Z",
+    "subject": "indent\""
+  },
+  {
+    "name": "mnp",
+    "hash": "e55b4eb",
+    "date": "2018-05-01T05:16:37.000Z",
+    "subject": "update dependencies\""
+  },
+  {
+    "name": "mnp",
+    "hash": "9b4630b",
+    "date": "2018-05-01T05:14:16.000Z",
+    "subject": "migrate to adc\""
+  },
+  {
+    "name": "mnp",
+    "hash": "3ada121",
+    "date": "2018-02-05T21:38:25.000Z",
+    "subject": "update dep\""
+  },
+  {
+    "name": "mnp",
+    "hash": "fc38ae6",
+    "date": "2018-01-01T21:33:02.000Z",
+    "subject": "update structure\""
+  },
+  {
+    "name": "mnp",
+    "hash": "3181b5d",
+    "date": "2018-01-01T21:26:32.000Z",
+    "subject": "use africa\""
+  },
+  {
+    "name": "mnp",
+    "hash": "e7fde4a",
+    "date": "2017-12-31T06:31:48.000Z",
+    "subject": "add website\""
+  },
+  {
+    "name": "mnp",
+    "hash": "ff5118a",
+    "date": "2017-12-31T00:20:25.000Z",
+    "subject": "0.4.3\""
+  },
+  {
+    "name": "mnp",
+    "hash": "a8112f8",
+    "date": "2017-12-31T00:20:22.000Z",
+    "subject": "changelog 0.4.3\""
+  },
+  {
+    "name": "mnp",
+    "hash": "41935c8",
+    "date": "2017-12-31T00:18:36.000Z",
+    "subject": "update files\""
+  },
+  {
+    "name": "mnp",
+    "hash": "f82522f",
+    "date": "2017-12-31T00:15:38.000Z",
+    "subject": "0.4.2\""
+  },
+  {
+    "name": "mnp",
+    "hash": "b4bb5af",
+    "date": "2017-12-31T00:15:29.000Z",
+    "subject": "changelog 0.4.2\""
+  },
+  {
+    "name": "mnp",
+    "hash": "51d5686",
+    "date": "2017-12-31T00:13:20.000Z",
+    "subject": "use wrote.exists\""
+  },
+  {
+    "name": "mnp",
+    "hash": "7b1bdf8",
+    "date": "2017-12-30T22:49:35.000Z",
+    "subject": "0.4.1\""
+  },
+  {
+    "name": "mnp",
+    "hash": "538a1b0",
+    "date": "2017-12-30T22:49:31.000Z",
+    "subject": "changelog 0.4.1\""
+  },
+  {
+    "name": "mnp",
+    "hash": "7ebbe97",
+    "date": "2017-12-30T22:48:44.000Z",
+    "subject": "fill in github description\""
+  },
+  {
+    "name": "mnp",
+    "hash": "dd14ead",
+    "date": "2017-12-30T15:27:09.000Z",
+    "subject": "0.4.0\""
+  },
+  {
+    "name": "mnp",
+    "hash": "ace1e15",
+    "date": "2017-12-30T15:27:06.000Z",
+    "subject": "changelog for 0.4.0\""
+  },
+  {
+    "name": "mnp",
+    "hash": "9c10587",
+    "date": "2017-12-30T15:22:30.000Z",
+    "subject": "Merge pull request #3 from Sobesednik/feature/es2017\""
+  },
+  {
+    "name": "mnp",
+    "hash": "f93ae32",
+    "date": "2017-12-29T23:08:03.000Z",
+    "subject": "update readme\""
+  },
+  {
+    "name": "mnp",
+    "hash": "3488188",
+    "date": "2017-12-29T22:16:05.000Z",
+    "subject": "update to es8 and use wrote.clone\""
+  },
+  {
+    "name": "mnp",
+    "hash": "a773677",
+    "date": "2017-06-02T22:42:20.000Z",
+    "subject": "Merge pull request #2 from Sobesednik/feature/ask-questions\""
+  },
+  {
+    "name": "mnp",
+    "hash": "d77bbb3",
+    "date": "2017-05-31T02:17:51.000Z",
+    "subject": "use askQuestions from reloquent\""
+  },
+  {
+    "name": "mnp",
+    "hash": "c5c7b96",
+    "date": "2017-05-24T23:05:09.000Z",
+    "subject": "0.3.0\""
+  },
+  {
+    "name": "mnp",
+    "hash": "b9eb557",
+    "date": "2017-05-24T23:04:14.000Z",
+    "subject": "Merge pull request #1 from Sobesednik/feature/better-config\""
+  },
+  {
+    "name": "mnp",
+    "hash": "b2969b2",
+    "date": "2017-05-24T23:03:55.000Z",
+    "subject": "update tests\""
+  },
+  {
+    "name": "mnp",
+    "hash": "93c7d23",
+    "date": "2017-05-24T22:39:35.000Z",
+    "subject": "update changelog with correct published versions\""
+  },
+  {
+    "name": "mnp",
+    "hash": "8b88074",
+    "date": "2017-05-24T22:35:01.000Z",
+    "subject": "0.2.6\""
+  },
+  {
+    "name": "mnp",
+    "hash": "616712f",
+    "date": "2017-05-24T22:34:04.000Z",
+    "subject": "add link to the website\""
+  },
+  {
+    "name": "mnp",
+    "hash": "0616163",
+    "date": "2017-05-24T22:31:55.000Z",
+    "subject": "update readme\""
+  },
+  {
+    "name": "mnp",
+    "hash": "1a9e7aa",
+    "date": "2017-05-24T22:21:13.000Z",
+    "subject": "0.2.5\""
+  },
+  {
+    "name": "mnp",
+    "hash": "f6be1c4",
+    "date": "2017-05-24T22:21:08.000Z",
+    "subject": "readme with config gif\""
+  },
+  {
+    "name": "mnp",
+    "hash": "80c4420",
+    "date": "2017-05-24T22:20:44.000Z",
+    "subject": "no files in structure package.json\""
+  },
+  {
+    "name": "mnp",
+    "hash": "4af0d36",
+    "date": "2017-05-24T21:46:36.000Z",
+    "subject": "0.2.4\""
+  },
+  {
+    "name": "mnp",
+    "hash": "374cefa",
+    "date": "2017-05-24T21:46:27.000Z",
+    "subject": "install ask-questions\""
+  },
+  {
+    "name": "mnp",
+    "hash": "d951a64",
+    "date": "2017-05-24T21:45:11.000Z",
+    "subject": "0.2.3\""
+  },
+  {
+    "name": "mnp",
+    "hash": "0012474",
+    "date": "2017-05-24T21:39:34.000Z",
+    "subject": "set author in package.json\""
+  },
+  {
+    "name": "mnp",
+    "hash": "3ca49d8",
+    "date": "2017-05-24T21:34:40.000Z",
+    "subject": "update changelog\""
+  },
+  {
+    "name": "mnp",
+    "hash": "2c329e7",
+    "date": "2017-05-24T21:28:55.000Z",
+    "subject": "remove debugging\""
+  },
+  {
+    "name": "mnp",
+    "hash": "775eec5",
+    "date": "2017-05-24T21:26:26.000Z",
+    "subject": "refactor and set config\""
+  },
+  {
+    "name": "mnp",
+    "hash": "6b7eac0",
+    "date": "2017-05-24T21:24:55.000Z",
+    "subject": "ask questions\""
+  },
+  {
+    "name": "mnp",
+    "hash": "c474a5e",
+    "date": "2017-05-23T19:11:58.000Z",
+    "subject": "0.2.2\""
+  },
+  {
+    "name": "mnp",
+    "hash": "39d975d",
+    "date": "2017-05-23T19:11:52.000Z",
+    "subject": "update files strcture\""
+  },
+  {
+    "name": "mnp",
+    "hash": "2d0684f",
+    "date": "2017-05-23T19:07:54.000Z",
+    "subject": "0.2.1\""
+  },
+  {
+    "name": "mnp",
+    "hash": "37c2fb2",
+    "date": "2017-05-23T19:07:49.000Z",
+    "subject": "specify src in files in package.json\""
+  },
+  {
+    "name": "mnp",
+    "hash": "ea48faa",
+    "date": "2017-05-23T19:03:01.000Z",
+    "subject": "v0.2.0\""
+  },
+  {
+    "name": "mnp",
+    "hash": "f0d027b",
+    "date": "2017-05-23T19:01:51.000Z",
+    "subject": "changelog\""
+  },
+  {
+    "name": "mnp",
+    "hash": "36351cd",
+    "date": "2017-05-23T18:51:07.000Z",
+    "subject": "push to origin\""
+  },
+  {
+    "name": "mnp",
+    "hash": "98dd87b",
+    "date": "2017-05-22T21:40:28.000Z",
+    "subject": "enter description\""
+  },
+  {
+    "name": "mnp",
+    "hash": "1ccf8cf",
+    "date": "2017-05-22T21:30:22.000Z",
+    "subject": "read config and initialise one\""
+  },
+  {
+    "name": "mnp",
+    "hash": "a108cbe",
+    "date": "2017-05-22T04:25:51.000Z",
+    "subject": "create github repo and copy files\""
+  },
+  {
+    "name": "mnp",
+    "hash": "9dbf59a",
+    "date": "2017-05-22T03:05:35.000Z",
+    "subject": "default structure\""
+  },
+  {
+    "name": "mnp",
+    "hash": "ecc31b4",
+    "date": "2017-05-21T18:04:46.000Z",
+    "subject": "0.1.1\""
+  },
+  {
+    "name": "mnp",
+    "hash": "3fab7e2",
+    "date": "2017-05-21T18:04:39.000Z",
+    "subject": "specify only binary in files\""
+  },
+  {
+    "name": "mnp",
+    "hash": "755fdf6",
+    "date": "2017-05-21T17:58:59.000Z",
+    "subject": "fix readme\""
+  },
+  {
+    "name": "mnp",
+    "hash": "cfd2563",
+    "date": "2017-05-21T17:56:37.000Z",
+    "subject": "add changelog\""
+  },
+  {
+    "name": "mnp",
+    "hash": "c9b07eb",
+    "date": "2017-05-21T17:53:46.000Z",
+    "subject": "update to mnp\""
+  },
+  {
+    "name": "mnp",
+    "hash": "cbcfad6",
+    "date": "2017-05-21T17:40:44.000Z",
+    "subject": "tests and binary\""
+  },
+  {
+    "name": "mnp",
+    "hash": "168cc51",
+    "date": "2017-05-21T16:42:41.000Z",
+    "subject": "add function and example\""
+  },
+  {
+    "name": "mnp",
+    "hash": "e2ae046",
+    "date": "2017-05-21T16:37:50.000Z",
+    "subject": "Initial commit\""
+  }
+]

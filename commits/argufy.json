@@ -1,0 +1,254 @@
+[
+  {
+    "name": "argufy",
+    "hash": "dd93a19",
+    "date": "2018-06-24T00:11:30.000Z",
+    "subject": "v1.2.0\""
+  },
+  {
+    "name": "argufy",
+    "hash": "8aabd9c",
+    "date": "2018-06-24T00:11:22.000Z",
+    "subject": "c120\""
+  },
+  {
+    "name": "argufy",
+    "hash": "717a591",
+    "date": "2018-06-24T00:08:27.000Z",
+    "subject": "toc-link\""
+  },
+  {
+    "name": "argufy",
+    "hash": "3e72868",
+    "date": "2018-06-24T00:04:27.000Z",
+    "subject": "doc _argv\""
+  },
+  {
+    "name": "argufy",
+    "hash": "d6e011d",
+    "date": "2018-06-24T00:01:31.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "argufy",
+    "hash": "dc1a736",
+    "date": "2018-06-23T23:59:35.000Z",
+    "subject": "hr\""
+  },
+  {
+    "name": "argufy",
+    "hash": "273ce90",
+    "date": "2018-06-23T23:58:46.000Z",
+    "subject": "toc + config type\""
+  },
+  {
+    "name": "argufy",
+    "hash": "3cc4151",
+    "date": "2018-06-23T23:56:03.000Z",
+    "subject": "preprocess readme\""
+  },
+  {
+    "name": "argufy",
+    "hash": "c7b3076",
+    "date": "2018-06-23T23:37:16.000Z",
+    "subject": "readme-source\""
+  },
+  {
+    "name": "argufy",
+    "hash": "52d0cc2",
+    "date": "2018-06-23T23:36:18.000Z",
+    "subject": "install doc\""
+  },
+  {
+    "name": "argufy",
+    "hash": "0ff75e4",
+    "date": "2018-06-23T23:35:05.000Z",
+    "subject": "extract additional _argv and check faster\""
+  },
+  {
+    "name": "argufy",
+    "hash": "2be2237",
+    "date": "2018-06-23T22:02:16.000Z",
+    "subject": "update dep state\""
+  },
+  {
+    "name": "argufy",
+    "hash": "15fc516",
+    "date": "2018-06-16T10:59:21.000Z",
+    "subject": "v1.1.2\""
+  },
+  {
+    "name": "argufy",
+    "hash": "8e122c1",
+    "date": "2018-06-16T10:59:13.000Z",
+    "subject": "c112\""
+  },
+  {
+    "name": "argufy",
+    "hash": "fb02396",
+    "date": "2018-06-16T10:58:08.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "argufy",
+    "hash": "dab162a",
+    "date": "2018-06-16T10:58:02.000Z",
+    "subject": "regex check arg start only\""
+  },
+  {
+    "name": "argufy",
+    "hash": "a7ffbde",
+    "date": "2018-06-14T23:38:19.000Z",
+    "subject": "v1.1.1\""
+  },
+  {
+    "name": "argufy",
+    "hash": "935e3d8",
+    "date": "2018-06-14T23:38:11.000Z",
+    "subject": "c111\""
+  },
+  {
+    "name": "argufy",
+    "hash": "645abab",
+    "date": "2018-06-14T23:38:08.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "argufy",
+    "hash": "026e296",
+    "date": "2018-06-14T23:37:58.000Z",
+    "subject": "jsdoc\""
+  },
+  {
+    "name": "argufy",
+    "hash": "7c7ef71",
+    "date": "2018-06-14T23:32:05.000Z",
+    "subject": "v1.1.0\""
+  },
+  {
+    "name": "argufy",
+    "hash": "b4e88f5",
+    "date": "2018-06-14T23:31:56.000Z",
+    "subject": "c110\""
+  },
+  {
+    "name": "argufy",
+    "hash": "00a585c",
+    "date": "2018-06-14T23:30:15.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "argufy",
+    "hash": "68ec627",
+    "date": "2018-06-14T23:30:06.000Z",
+    "subject": "extract multiple\""
+  },
+  {
+    "name": "argufy",
+    "hash": "b495634",
+    "date": "2018-06-12T04:46:33.000Z",
+    "subject": "v1.0.2\""
+  },
+  {
+    "name": "argufy",
+    "hash": "2d6445f",
+    "date": "2018-06-12T04:46:23.000Z",
+    "subject": "test\""
+  },
+  {
+    "name": "argufy",
+    "hash": "3990533",
+    "date": "2018-06-12T04:46:12.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "argufy",
+    "hash": "b885b4a",
+    "date": "2018-06-12T04:41:49.000Z",
+    "subject": "c102\""
+  },
+  {
+    "name": "argufy",
+    "hash": "cb844b2",
+    "date": "2018-06-12T04:41:02.000Z",
+    "subject": "jsdoc configuration\""
+  },
+  {
+    "name": "argufy",
+    "hash": "95c91af",
+    "date": "2018-06-11T09:59:09.000Z",
+    "subject": "v1.0.1\""
+  },
+  {
+    "name": "argufy",
+    "hash": "f786c8a",
+    "date": "2018-06-11T09:58:32.000Z",
+    "subject": "Merge pull request #1 from artdecocode/fix/numerical\""
+  },
+  {
+    "name": "argufy",
+    "hash": "79a4270",
+    "date": "2018-06-11T09:57:21.000Z",
+    "subject": "c101\""
+  },
+  {
+    "name": "argufy",
+    "hash": "91e45ef",
+    "date": "2018-06-11T09:56:37.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "argufy",
+    "hash": "882d260",
+    "date": "2018-06-11T09:56:24.000Z",
+    "subject": "launch\""
+  },
+  {
+    "name": "argufy",
+    "hash": "7ff235a",
+    "date": "2018-06-11T09:56:21.000Z",
+    "subject": "bugfix\""
+  },
+  {
+    "name": "argufy",
+    "hash": "af376c9",
+    "date": "2018-06-11T09:56:14.000Z",
+    "subject": "test for 2 edge cases\""
+  },
+  {
+    "name": "argufy",
+    "hash": "b76d2aa",
+    "date": "2018-06-07T16:21:21.000Z",
+    "subject": "license\""
+  },
+  {
+    "name": "argufy",
+    "hash": "4a1e6e5",
+    "date": "2018-06-07T16:19:36.000Z",
+    "subject": "readme + example\""
+  },
+  {
+    "name": "argufy",
+    "hash": "c306ef7",
+    "date": "2018-06-07T16:10:43.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "argufy",
+    "hash": "cbcc696",
+    "date": "2018-06-07T16:10:21.000Z",
+    "subject": "test & implementation\""
+  },
+  {
+    "name": "argufy",
+    "hash": "33884e3",
+    "date": "2018-06-07T15:30:13.000Z",
+    "subject": "initialise package\""
+  },
+  {
+    "name": "argufy",
+    "hash": "a97b7b8",
+    "date": "2018-06-07T15:30:07.000Z",
+    "subject": "Initial commit\""
+  }
+]

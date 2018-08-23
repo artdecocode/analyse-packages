@@ -1,0 +1,158 @@
+[
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "482a048",
+    "date": "2018-07-04T14:36:56.000Z",
+    "subject": "v1.0.1\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "1377441",
+    "date": "2018-07-04T14:36:49.000Z",
+    "subject": "c101\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "49b4f85",
+    "date": "2018-07-04T14:35:46.000Z",
+    "subject": "tags\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "919580a",
+    "date": "2018-07-04T13:54:12.000Z",
+    "subject": "embed example output\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "0329c0a",
+    "date": "2018-07-04T13:53:44.000Z",
+    "subject": "migrate to wrote org\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "e63d6a8",
+    "date": "2018-06-21T03:57:59.000Z",
+    "subject": "limited\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "60ade3e",
+    "date": "2018-06-21T03:57:45.000Z",
+    "subject": "context-tested\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "1d008d8",
+    "date": "2018-06-21T03:56:33.000Z",
+    "subject": "doc link errors\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "f752c52",
+    "date": "2018-06-21T03:56:08.000Z",
+    "subject": "split tests\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "8b5b3c2",
+    "date": "2018-06-21T03:53:24.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "8169de0",
+    "date": "2018-06-21T03:53:16.000Z",
+    "subject": "fix example\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "faa9e98",
+    "date": "2018-06-21T03:51:54.000Z",
+    "subject": "fix bug in nested dirs\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "7fbf6e6",
+    "date": "2018-06-21T03:41:58.000Z",
+    "subject": "add test for nested dir\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "2b4ff59",
+    "date": "2018-06-21T03:37:38.000Z",
+    "subject": "correct snapshot\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "7c0d509",
+    "date": "2018-06-21T03:35:24.000Z",
+    "subject": "build-s\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "5b08b8f",
+    "date": "2018-06-21T03:35:14.000Z",
+    "subject": "js-dic\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "54a990b",
+    "date": "2018-06-21T03:34:50.000Z",
+    "subject": "example, error codes\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "a407da4",
+    "date": "2018-06-21T03:14:25.000Z",
+    "subject": "keywords\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "1ca58c9",
+    "date": "2018-06-21T03:14:04.000Z",
+    "subject": "update package.json git name\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "fd584b0",
+    "date": "2018-06-21T03:11:58.000Z",
+    "subject": "write doc\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "8ed8b47",
+    "date": "2018-06-21T02:58:26.000Z",
+    "subject": "install doc\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "cf8e074",
+    "date": "2018-06-21T02:54:57.000Z",
+    "subject": "test and implementation\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "585b525",
+    "date": "2018-06-21T02:47:49.000Z",
+    "subject": "makepromise snapshot-context\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "2c84fa8",
+    "date": "2018-06-21T02:21:51.000Z",
+    "subject": "yarn-up -E\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "a545648",
+    "date": "2018-06-21T02:16:33.000Z",
+    "subject": "initialise package\""
+  },
+  {
+    "name": "@wrote/read-dir-structure",
+    "hash": "8635ba8",
+    "date": "2018-06-21T02:16:28.000Z",
+    "subject": "Initial commit\""
+  }
+]

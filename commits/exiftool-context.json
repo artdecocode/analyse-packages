@@ -1,0 +1,188 @@
+[
+  {
+    "name": "exiftool-context",
+    "hash": "a6c44d2",
+    "date": "2017-08-31T13:52:08.000Z",
+    "subject": "1.4.0\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "85d3d23",
+    "date": "2017-08-31T13:52:02.000Z",
+    "subject": "update changelog for 1.4.0\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "9856e45",
+    "date": "2017-08-31T13:49:57.000Z",
+    "subject": "Statically export exiftoolBin\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "2e83812",
+    "date": "2017-08-30T11:10:18.000Z",
+    "subject": "1.3.1\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "f951933",
+    "date": "2017-08-30T11:10:13.000Z",
+    "subject": "update changelog for 1.3.1\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "013b5fc",
+    "date": "2017-08-30T11:05:50.000Z",
+    "subject": "add note about publishing from linux\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "345e595",
+    "date": "2017-08-30T10:51:37.000Z",
+    "subject": "1.3.0\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "294308f",
+    "date": "2017-08-30T10:50:39.000Z",
+    "subject": "update changelog for 1.3.0\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "5411142",
+    "date": "2017-08-30T10:10:13.000Z",
+    "subject": "Add toUnicode method and document mac git unicode issue\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "2b88054",
+    "date": "2017-08-30T08:56:15.000Z",
+    "subject": "1.2.1\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "9026326",
+    "date": "2017-08-29T15:11:41.000Z",
+    "subject": "add encoding fixture file\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "36a6c13",
+    "date": "2017-08-29T15:11:06.000Z",
+    "subject": "Revert \"remove encoding fixture file\"\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "6097d52",
+    "date": "2017-08-29T14:58:08.000Z",
+    "subject": "1.2.0\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "a821ade",
+    "date": "2017-08-29T14:28:11.000Z",
+    "subject": "update changelog for 1.2.0\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "3e95d57",
+    "date": "2017-08-29T14:20:30.000Z",
+    "subject": "remove encoding fixture file\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "10e4f09",
+    "date": "2017-08-15T20:38:39.000Z",
+    "subject": "allow to pass options\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "4e4783c",
+    "date": "2017-05-27T23:11:05.000Z",
+    "subject": "1.1.1\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "9140c06",
+    "date": "2017-05-27T22:57:27.000Z",
+    "subject": "1.1.0\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "9702458",
+    "date": "2017-05-27T22:57:24.000Z",
+    "subject": "update changelog\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "0406152",
+    "date": "2017-05-27T22:48:14.000Z",
+    "subject": "allow to specify global constructor\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "91d1dec",
+    "date": "2017-05-27T22:08:42.000Z",
+    "subject": "Allow to specify constructor\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "13df079",
+    "date": "2017-05-27T18:06:02.000Z",
+    "subject": "1.0.1\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "29e16c7",
+    "date": "2017-05-27T18:00:15.000Z",
+    "subject": "Merge pull request #1 from Sobesednik/feature/file-encoding\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "0649e37",
+    "date": "2017-05-27T17:29:46.000Z",
+    "subject": "add test for filename encoding\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "8ef0a9a",
+    "date": "2017-05-27T01:06:16.000Z",
+    "subject": "1.0.0\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "95e0c62",
+    "date": "2017-05-27T00:50:45.000Z",
+    "subject": "use current master context\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "be6384b",
+    "date": "2017-05-27T00:39:32.000Z",
+    "subject": "README\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "c8a305e",
+    "date": "2017-05-27T00:22:27.000Z",
+    "subject": "add more tests\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "add005e",
+    "date": "2017-05-27T00:15:15.000Z",
+    "subject": "add files\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "69a7e4c",
+    "date": "2017-05-26T23:26:44.000Z",
+    "subject": "initialise package\""
+  },
+  {
+    "name": "exiftool-context",
+    "hash": "1a77abc",
+    "date": "2017-05-26T23:26:40.000Z",
+    "subject": "Initial commit\""
+  }
+]

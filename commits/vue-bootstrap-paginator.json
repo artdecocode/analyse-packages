@@ -1,0 +1,86 @@
+[
+  {
+    "name": "vue-bootstrap-paginator",
+    "hash": "0137363",
+    "date": "2017-01-04T07:40:57.000Z",
+    "subject": "add npm badge\""
+  },
+  {
+    "name": "vue-bootstrap-paginator",
+    "hash": "1d29d22",
+    "date": "2017-01-04T07:37:00.000Z",
+    "subject": "keyup example\""
+  },
+  {
+    "name": "vue-bootstrap-paginator",
+    "hash": "c2ee9b1",
+    "date": "2017-01-04T07:32:04.000Z",
+    "subject": "typo in example\""
+  },
+  {
+    "name": "vue-bootstrap-paginator",
+    "hash": "4705208",
+    "date": "2017-01-04T07:28:28.000Z",
+    "subject": "give better example usage\""
+  },
+  {
+    "name": "vue-bootstrap-paginator",
+    "hash": "ded4d9d",
+    "date": "2017-01-04T07:21:23.000Z",
+    "subject": "add example HTML\""
+  },
+  {
+    "name": "vue-bootstrap-paginator",
+    "hash": "a38259d",
+    "date": "2017-01-04T07:14:17.000Z",
+    "subject": "use version 1.0.0\""
+  },
+  {
+    "name": "vue-bootstrap-paginator",
+    "hash": "53ba2ba",
+    "date": "2017-01-04T07:13:37.000Z",
+    "subject": "add install snippet\""
+  },
+  {
+    "name": "vue-bootstrap-paginator",
+    "hash": "3e9d0f3",
+    "date": "2017-01-04T07:12:37.000Z",
+    "subject": " add gifs\""
+  },
+  {
+    "name": "vue-bootstrap-paginator",
+    "hash": "a56f237",
+    "date": "2017-01-04T06:12:51.000Z",
+    "subject": "readme\""
+  },
+  {
+    "name": "vue-bootstrap-paginator",
+    "hash": "effdb23",
+    "date": "2017-01-04T06:11:25.000Z",
+    "subject": "add package.json\""
+  },
+  {
+    "name": "vue-bootstrap-paginator",
+    "hash": "3fb2a8d",
+    "date": "2017-01-04T06:10:33.000Z",
+    "subject": "karma.conf.js\""
+  },
+  {
+    "name": "vue-bootstrap-paginator",
+    "hash": "1a01a8d",
+    "date": "2017-01-04T06:10:11.000Z",
+    "subject": "add test\""
+  },
+  {
+    "name": "vue-bootstrap-paginator",
+    "hash": "1123e64",
+    "date": "2017-01-04T06:10:05.000Z",
+    "subject": "add source\""
+  },
+  {
+    "name": "vue-bootstrap-paginator",
+    "hash": "c7ae09b",
+    "date": "2017-01-02T23:34:00.000Z",
+    "subject": "Initial commit\""
+  }
+]

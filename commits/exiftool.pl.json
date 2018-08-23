@@ -1,0 +1,74 @@
+[
+  {
+    "name": "exiftool.pl",
+    "hash": "a8ce24c",
+    "date": "2017-05-17T19:44:51.000Z",
+    "subject": "Merge pull request #4 from Sobesednik/feature/v10.53\""
+  },
+  {
+    "name": "exiftool.pl",
+    "hash": "3c75807",
+    "date": "2017-05-17T19:42:57.000Z",
+    "subject": "v10.53\""
+  },
+  {
+    "name": "exiftool.pl",
+    "hash": "364dd83",
+    "date": "2017-05-15T21:09:07.000Z",
+    "subject": "Merge pull request #3 from theolampert/master\""
+  },
+  {
+    "name": "exiftool.pl",
+    "hash": "ad0dd16",
+    "date": "2017-05-11T20:08:59.000Z",
+    "subject": "v10.51\""
+  },
+  {
+    "name": "exiftool.pl",
+    "hash": "420fb24",
+    "date": "2016-11-20T07:58:12.000Z",
+    "subject": "v10.33\""
+  },
+  {
+    "name": "exiftool.pl",
+    "hash": "b8793a1",
+    "date": "2016-08-21T17:10:16.000Z",
+    "subject": "10.25.2\""
+  },
+  {
+    "name": "exiftool.pl",
+    "hash": "6ca96db",
+    "date": "2016-08-21T17:09:20.000Z",
+    "subject": "Test version\""
+  },
+  {
+    "name": "exiftool.pl",
+    "hash": "412477a",
+    "date": "2016-08-21T16:56:21.000Z",
+    "subject": "10.25.1\""
+  },
+  {
+    "name": "exiftool.pl",
+    "hash": "aada294",
+    "date": "2016-08-21T16:44:36.000Z",
+    "subject": "Merge pull request #1 from Sobesednik/feature/travis\""
+  },
+  {
+    "name": "exiftool.pl",
+    "hash": "7f7ac8c",
+    "date": "2016-08-21T16:41:12.000Z",
+    "subject": "Add Travis CI\""
+  },
+  {
+    "name": "exiftool.pl",
+    "hash": "ba9acbe",
+    "date": "2016-08-20T22:49:11.000Z",
+    "subject": "Exiftool 10.25\""
+  },
+  {
+    "name": "exiftool.pl",
+    "hash": "0b93593",
+    "date": "2016-08-20T22:35:13.000Z",
+    "subject": "Initial commit\""
+  }
+]

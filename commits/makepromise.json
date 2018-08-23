@@ -1,0 +1,218 @@
+[
+  {
+    "name": "makepromise",
+    "hash": "ca15bee",
+    "date": "2018-05-12T03:56:01.000Z",
+    "subject": "Merge pull request #6 from artdecocode/feature/adc\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "25c7beb",
+    "date": "2018-05-12T03:53:06.000Z",
+    "subject": "test es5\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "de58e5d",
+    "date": "2018-05-12T03:48:25.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "586ca0c",
+    "date": "2018-05-12T03:47:00.000Z",
+    "subject": "secretary\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "aacf92c",
+    "date": "2018-05-12T03:46:42.000Z",
+    "subject": "+ es5/index\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "6d49a34",
+    "date": "2018-05-12T03:46:34.000Z",
+    "subject": "build without retain\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "109e5b4",
+    "date": "2018-05-12T03:45:58.000Z",
+    "subject": "examples\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "624ce1e",
+    "date": "2018-05-12T03:34:01.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "3f4bc42",
+    "date": "2018-05-12T03:26:31.000Z",
+    "subject": "modules\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "e62bae0",
+    "date": "2018-05-12T03:05:13.000Z",
+    "subject": "adc\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "08c5982",
+    "date": "2018-05-12T03:02:31.000Z",
+    "subject": "indent\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "dca005b",
+    "date": "2017-12-29T17:08:54.000Z",
+    "subject": "1.1.1\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "38ac62b",
+    "date": "2017-12-29T17:05:50.000Z",
+    "subject": "changelog\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "2536811",
+    "date": "2017-12-29T17:04:18.000Z",
+    "subject": "Merge pull request #5 from Sobesednik/bugfix/bound-function\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "1bf43ed",
+    "date": "2017-12-29T17:03:30.000Z",
+    "subject": "build es5\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "07a5ee9",
+    "date": "2017-12-29T16:59:58.000Z",
+    "subject": "work with bound functions\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "f361f2e",
+    "date": "2017-12-29T16:06:27.000Z",
+    "subject": "1.1.0\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "5d8ad64",
+    "date": "2017-12-29T16:04:00.000Z",
+    "subject": "readme\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "dc7d3cd",
+    "date": "2017-12-29T15:31:01.000Z",
+    "subject": "changelog\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "44aae28",
+    "date": "2017-12-29T15:28:27.000Z",
+    "subject": "Merge pull request #4 from Sobesednik/feature/es8\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "9e869c0",
+    "date": "2017-12-29T15:12:17.000Z",
+    "subject": "readme\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "c7ae68b",
+    "date": "2017-12-29T15:03:09.000Z",
+    "subject": "rewrite to es8 and build scripts\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "dd7bf63",
+    "date": "2017-12-29T14:11:39.000Z",
+    "subject": "Merge pull request #3 from Sobesednik/feature/update-wrote\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "fb302d8",
+    "date": "2017-12-29T14:10:41.000Z",
+    "subject": "update wrote and start using es8\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "06614ba",
+    "date": "2017-12-29T12:53:14.000Z",
+    "subject": "Merge pull request #2 from Sobesednik/feature/erotic\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "297b64a",
+    "date": "2017-12-29T12:51:53.000Z",
+    "subject": "use erotic for stack traces\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "8bdfd1d",
+    "date": "2017-12-29T12:33:37.000Z",
+    "subject": "Merge pull request #1 from Sobesednik/bugfix/deprecation-warning\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "190568d",
+    "date": "2017-06-04T01:43:52.000Z",
+    "subject": "pass tests on node 4\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "215f7a9",
+    "date": "2017-06-04T01:17:13.000Z",
+    "subject": "pass arguments correctly\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "fd0e38b",
+    "date": "2017-05-20T19:03:53.000Z",
+    "subject": "update readme\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "8c31318",
+    "date": "2017-05-20T18:56:01.000Z",
+    "subject": "add lockFile integration test\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "4f88f83",
+    "date": "2017-05-20T17:23:34.000Z",
+    "subject": "add more integration tests\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "4ab6dc1",
+    "date": "2017-05-20T17:10:58.000Z",
+    "subject": "add documentation\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "e06ecbe",
+    "date": "2017-05-20T16:52:16.000Z",
+    "subject": "tests and src\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "3f63085",
+    "date": "2017-05-20T15:48:58.000Z",
+    "subject": "eslint\""
+  },
+  {
+    "name": "makepromise",
+    "hash": "fdf0e35",
+    "date": "2017-05-20T15:33:17.000Z",
+    "subject": "Initial commit\""
+  }
+]

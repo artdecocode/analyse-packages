@@ -1,0 +1,152 @@
+[
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "398a68f",
+    "date": "2016-07-22T19:34:27.000Z",
+    "subject": "1.0.2\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "b401966",
+    "date": "2016-07-22T19:34:10.000Z",
+    "subject": "add npm badge\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "e226393",
+    "date": "2016-07-22T19:31:01.000Z",
+    "subject": "1.0.1\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "6021520",
+    "date": "2016-07-22T19:30:57.000Z",
+    "subject": "update readme about window options\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "369a0f0",
+    "date": "2016-07-22T19:20:44.000Z",
+    "subject": "update readme with better example\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "82115d4",
+    "date": "2016-07-22T19:15:24.000Z",
+    "subject": "update package.json\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "5e5160a",
+    "date": "2016-07-22T19:11:17.000Z",
+    "subject": "update readme\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "6fa0797",
+    "date": "2016-07-22T19:08:33.000Z",
+    "subject": "document error\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "d875f8b",
+    "date": "2016-07-22T19:06:05.000Z",
+    "subject": "document debug\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "21c2714",
+    "date": "2016-07-22T18:59:01.000Z",
+    "subject": "write documentation about debug module\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "bb5b92b",
+    "date": "2016-07-22T18:54:00.000Z",
+    "subject": "write README\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "feb937e",
+    "date": "2016-07-22T18:52:18.000Z",
+    "subject": "fix debug bug\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "05b6e51",
+    "date": "2016-07-22T18:42:02.000Z",
+    "subject": "add screenshot to README\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "25d0bd0",
+    "date": "2016-07-22T18:16:48.000Z",
+    "subject": "rename package\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "86aaee8",
+    "date": "2016-07-22T17:34:24.000Z",
+    "subject": "install eslint\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "b1186ba",
+    "date": "2016-07-22T17:28:48.000Z",
+    "subject": "test that window is closed on error or success\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "1e81175",
+    "date": "2016-07-22T17:26:22.000Z",
+    "subject": "add test coverage npm script with istanbul\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "2c5ea79",
+    "date": "2016-07-22T17:25:09.000Z",
+    "subject": "test for pending promise\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "e22f85c",
+    "date": "2016-07-22T16:57:13.000Z",
+    "subject": "check redirect_uri in did-get-redirect-request function\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "48b9e1e",
+    "date": "2016-07-22T16:56:40.000Z",
+    "subject": "complete tests\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "3e4d130",
+    "date": "2016-07-22T16:26:40.000Z",
+    "subject": "options test\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "7167be5",
+    "date": "2016-07-22T14:20:55.000Z",
+    "subject": "add code and setup tests\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "a1fe54f",
+    "date": "2016-07-22T13:57:52.000Z",
+    "subject": "add debug dependency\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "a720323",
+    "date": "2016-07-22T13:57:09.000Z",
+    "subject": "init npm package\""
+  },
+  {
+    "name": "electron-vk-oauth2",
+    "hash": "8c1d526",
+    "date": "2016-07-22T13:55:01.000Z",
+    "subject": "Initial commit\""
+  }
+]

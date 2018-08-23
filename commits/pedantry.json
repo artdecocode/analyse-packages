@@ -1,0 +1,170 @@
+[
+  {
+    "name": "pedantry",
+    "hash": "d147f3f",
+    "date": "2018-06-21T10:23:42.000Z",
+    "subject": "v1.0.1\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "2fa4ba4",
+    "date": "2018-06-21T10:23:29.000Z",
+    "subject": "c101\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "354dcfe",
+    "date": "2018-06-21T10:22:03.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "b1160d6",
+    "date": "2018-06-21T10:21:42.000Z",
+    "subject": "use tree in doc\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "fff1228",
+    "date": "2018-06-21T10:21:15.000Z",
+    "subject": "update documentary\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "aaf76e8",
+    "date": "2018-06-21T10:07:01.000Z",
+    "subject": "up documentary\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "71b5e48",
+    "date": "2018-06-21T10:06:01.000Z",
+    "subject": "emit error\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "62cbc42",
+    "date": "2018-06-21T05:34:36.000Z",
+    "subject": "package\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "1f1db15",
+    "date": "2018-06-21T05:32:26.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "2553c61",
+    "date": "2018-06-21T05:31:33.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "e23a6ae",
+    "date": "2018-06-21T05:28:17.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "60fa653",
+    "date": "2018-06-21T05:24:20.000Z",
+    "subject": "example + readme\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "cc16795",
+    "date": "2018-06-21T05:20:57.000Z",
+    "subject": "read dir strcuture with @wrote\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "229b24e",
+    "date": "2018-06-21T05:20:05.000Z",
+    "subject": "add @wrote/read-dir-structure\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "94d8cc4",
+    "date": "2018-06-21T04:13:13.000Z",
+    "subject": "add example\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "409fb70",
+    "date": "2018-06-21T02:05:30.000Z",
+    "subject": "install doc\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "135f06d",
+    "date": "2018-06-21T02:04:53.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "a35002d",
+    "date": "2018-06-21T01:53:59.000Z",
+    "subject": "snapshot test\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "fb00912",
+    "date": "2018-06-21T01:50:33.000Z",
+    "subject": "test\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "236395e",
+    "date": "2018-06-21T01:44:04.000Z",
+    "subject": "excludeReducer, sizes\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "c87563c",
+    "date": "2018-06-21T00:34:51.000Z",
+    "subject": "setup test + class\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "869cb3f",
+    "date": "2018-06-21T00:19:01.000Z",
+    "subject": "snapshot context\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "195de01",
+    "date": "2018-06-21T00:09:31.000Z",
+    "subject": "fixture\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "b4e67af",
+    "date": "2018-06-21T00:02:30.000Z",
+    "subject": "rename\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "e31ede0",
+    "date": "2018-06-21T00:01:40.000Z",
+    "subject": "import code\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "54f300c",
+    "date": "2018-06-21T00:01:32.000Z",
+    "subject": "update babel\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "a4a4a47",
+    "date": "2018-06-20T23:47:10.000Z",
+    "subject": "initialise package\""
+  },
+  {
+    "name": "pedantry",
+    "hash": "140da5c",
+    "date": "2018-06-20T23:47:05.000Z",
+    "subject": "Initial commit\""
+  }
+]

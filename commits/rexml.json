@@ -1,0 +1,122 @@
+[
+  {
+    "name": "rexml",
+    "hash": "4307fd6",
+    "date": "2018-07-19T17:07:24.000Z",
+    "subject": "v1.1.0\""
+  },
+  {
+    "name": "rexml",
+    "hash": "523ab25",
+    "date": "2018-07-19T17:07:14.000Z",
+    "subject": "c110\""
+  },
+  {
+    "name": "rexml",
+    "hash": "46afcb9",
+    "date": "2018-07-19T16:58:52.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "rexml",
+    "hash": "f18b548",
+    "date": "2018-07-19T16:57:47.000Z",
+    "subject": "capture inverse quotes\""
+  },
+  {
+    "name": "rexml",
+    "hash": "0a9db36",
+    "date": "2018-07-19T16:21:24.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "rexml",
+    "hash": "f5914e2",
+    "date": "2018-07-19T16:20:22.000Z",
+    "subject": "extract attributes with RE\""
+  },
+  {
+    "name": "rexml",
+    "hash": "aff2f04",
+    "date": "2018-07-19T13:35:38.000Z",
+    "subject": "use @babel/plugin-proposal-unicode-property-regex\""
+  },
+  {
+    "name": "rexml",
+    "hash": "33dcf7c",
+    "date": "2018-07-19T13:34:38.000Z",
+    "subject": "i @babel/plugin-proposal-unicode-property-regex\""
+  },
+  {
+    "name": "rexml",
+    "hash": "58e54fd",
+    "date": "2018-07-19T00:55:40.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "rexml",
+    "hash": "6f6379d",
+    "date": "2018-07-19T00:55:19.000Z",
+    "subject": "extract tags without attributes or content\""
+  },
+  {
+    "name": "rexml",
+    "hash": "4f6f1aa",
+    "date": "2018-07-19T00:44:22.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "rexml",
+    "hash": "76c2165",
+    "date": "2018-07-19T00:44:11.000Z",
+    "subject": "update example\""
+  },
+  {
+    "name": "rexml",
+    "hash": "6fff3da",
+    "date": "2018-07-19T00:41:42.000Z",
+    "subject": "add new lines and fix self-closing\""
+  },
+  {
+    "name": "rexml",
+    "hash": "b2b4711",
+    "date": "2018-07-18T21:06:38.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "rexml",
+    "hash": "8add596",
+    "date": "2018-07-18T21:06:18.000Z",
+    "subject": "doc + example\""
+  },
+  {
+    "name": "rexml",
+    "hash": "31be487",
+    "date": "2018-07-18T20:56:29.000Z",
+    "subject": "jsdoc\""
+  },
+  {
+    "name": "rexml",
+    "hash": "923e2cc",
+    "date": "2018-07-18T20:55:21.000Z",
+    "subject": "implement\""
+  },
+  {
+    "name": "rexml",
+    "hash": "6711eed",
+    "date": "2018-07-18T20:55:12.000Z",
+    "subject": "write test\""
+  },
+  {
+    "name": "rexml",
+    "hash": "07f2e8c",
+    "date": "2018-07-18T20:42:54.000Z",
+    "subject": "initialise package\""
+  },
+  {
+    "name": "rexml",
+    "hash": "1c1a105",
+    "date": "2018-07-18T20:42:50.000Z",
+    "subject": "Initial commit\""
+  }
+]

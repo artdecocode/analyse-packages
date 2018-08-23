@@ -1,0 +1,110 @@
+[
+  {
+    "name": "mnp-structure",
+    "hash": "7774e0e",
+    "date": "2018-07-17T01:24:59.000Z",
+    "subject": "v1.1.1\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "cdd1cd8",
+    "date": "2018-07-17T01:24:49.000Z",
+    "subject": "c111\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "c1ded7d",
+    "date": "2018-07-17T01:24:29.000Z",
+    "subject": "update structure to mnp@0.10\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "a66064d",
+    "date": "2018-07-17T01:20:19.000Z",
+    "subject": "v1.1.0\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "cbead5f",
+    "date": "2018-07-17T01:20:06.000Z",
+    "subject": "c110\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "3d1e1f2",
+    "date": "2018-07-17T01:18:39.000Z",
+    "subject": "add onCreate script and files\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "7b6755c",
+    "date": "2018-07-17T00:16:06.000Z",
+    "subject": "readme org\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "f497d42",
+    "date": "2018-07-17T00:09:45.000Z",
+    "subject": "eslint ignore\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "c96fba7",
+    "date": "2018-07-16T23:16:01.000Z",
+    "subject": "v1.0.2\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "b86dec2",
+    "date": "2018-07-16T23:15:22.000Z",
+    "subject": "c102\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "c76576e",
+    "date": "2018-07-16T23:15:17.000Z",
+    "subject": "eslint\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "2098568",
+    "date": "2018-07-16T23:11:53.000Z",
+    "subject": "v1.0.1\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "57c3090",
+    "date": "2018-07-16T23:11:25.000Z",
+    "subject": "c101\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "aac2bef",
+    "date": "2018-07-16T23:10:36.000Z",
+    "subject": "migrate to mnpjs\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "66f3997",
+    "date": "2018-07-16T23:10:27.000Z",
+    "subject": "artdeco .eslintrc\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "7fe0722",
+    "date": "2018-05-04T07:48:13.000Z",
+    "subject": "export path\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "7492b50",
+    "date": "2018-05-04T07:45:42.000Z",
+    "subject": "add code\""
+  },
+  {
+    "name": "mnp-structure",
+    "hash": "0c4df51",
+    "date": "2018-05-04T07:21:37.000Z",
+    "subject": "Initial commit\""
+  }
+]

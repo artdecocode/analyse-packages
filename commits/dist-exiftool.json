@@ -1,0 +1,86 @@
+[
+  {
+    "name": "dist-exiftool",
+    "hash": "9a56092",
+    "date": "2017-05-17T20:14:02.000Z",
+    "subject": "Merge pull request #4 from neojski/patch-1\""
+  },
+  {
+    "name": "dist-exiftool",
+    "hash": "810419e",
+    "date": "2017-05-17T20:13:13.000Z",
+    "subject": "Merge pull request #5 from Sobesednik/feature/v10.53\""
+  },
+  {
+    "name": "dist-exiftool",
+    "hash": "d966cfa",
+    "date": "2017-05-17T20:03:34.000Z",
+    "subject": "update to zoroaster\""
+  },
+  {
+    "name": "dist-exiftool",
+    "hash": "157891f",
+    "date": "2017-05-17T19:55:19.000Z",
+    "subject": "v10.53\""
+  },
+  {
+    "name": "dist-exiftool",
+    "hash": "f719698",
+    "date": "2017-04-26T17:53:36.000Z",
+    "subject": "Fix errors in README example\""
+  },
+  {
+    "name": "dist-exiftool",
+    "hash": "2f0c091",
+    "date": "2017-01-04T08:01:02.000Z",
+    "subject": "10.33.1\""
+  },
+  {
+    "name": "dist-exiftool",
+    "hash": "a9a7e6c",
+    "date": "2017-01-04T08:00:30.000Z",
+    "subject": "Merge pull request #3 from lukekarrys/patch-1\""
+  },
+  {
+    "name": "dist-exiftool",
+    "hash": "2036399",
+    "date": "2017-01-04T05:59:39.000Z",
+    "subject": "Add platform dependent modules to optional dependencies\""
+  },
+  {
+    "name": "dist-exiftool",
+    "hash": "e1597d2",
+    "date": "2016-11-20T08:17:51.000Z",
+    "subject": "v10.33\""
+  },
+  {
+    "name": "dist-exiftool",
+    "hash": "27fdcf5",
+    "date": "2016-08-21T17:51:39.000Z",
+    "subject": "Merge pull request #2 from Sobesednik/feature/travis-mac\""
+  },
+  {
+    "name": "dist-exiftool",
+    "hash": "42dbe4d",
+    "date": "2016-08-21T17:25:40.000Z",
+    "subject": "Test on darwin and fix version\""
+  },
+  {
+    "name": "dist-exiftool",
+    "hash": "bf9f631",
+    "date": "2016-08-21T16:28:45.000Z",
+    "subject": "Merge pull request #1 from Sobesednik/feature/initial\""
+  },
+  {
+    "name": "dist-exiftool",
+    "hash": "b322250",
+    "date": "2016-08-21T16:01:57.000Z",
+    "subject": "Exiftool 10.25\""
+  },
+  {
+    "name": "dist-exiftool",
+    "hash": "b28b9e8",
+    "date": "2016-08-20T21:47:46.000Z",
+    "subject": "Initial commit\""
+  }
+]

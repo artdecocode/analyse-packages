@@ -1,0 +1,68 @@
+[
+  {
+    "name": "eslint-config-artdeco",
+    "hash": "d2e1288",
+    "date": "2018-07-17T00:01:52.000Z",
+    "subject": "v1.0.1\""
+  },
+  {
+    "name": "eslint-config-artdeco",
+    "hash": "c51350f",
+    "date": "2018-07-17T00:01:35.000Z",
+    "subject": "c101\""
+  },
+  {
+    "name": "eslint-config-artdeco",
+    "hash": "fc8af99",
+    "date": "2018-07-17T00:00:34.000Z",
+    "subject": "org name\""
+  },
+  {
+    "name": "eslint-config-artdeco",
+    "hash": "2d387ab",
+    "date": "2018-07-16T23:57:58.000Z",
+    "subject": "remove build\""
+  },
+  {
+    "name": "eslint-config-artdeco",
+    "hash": "5cdfb4b",
+    "date": "2018-07-16T23:42:23.000Z",
+    "subject": "bring structure up-to-date\""
+  },
+  {
+    "name": "eslint-config-artdeco",
+    "hash": "8038220",
+    "date": "2018-07-16T23:38:18.000Z",
+    "subject": "update zoroaster\""
+  },
+  {
+    "name": "eslint-config-artdeco",
+    "hash": "5e987d4",
+    "date": "2018-05-15T16:46:07.000Z",
+    "subject": "readme\""
+  },
+  {
+    "name": "eslint-config-artdeco",
+    "hash": "d7d75e6",
+    "date": "2018-05-15T16:44:54.000Z",
+    "subject": "remove babel\""
+  },
+  {
+    "name": "eslint-config-artdeco",
+    "hash": "b5dfce8",
+    "date": "2018-05-15T16:44:49.000Z",
+    "subject": "add config\""
+  },
+  {
+    "name": "eslint-config-artdeco",
+    "hash": "6f56868",
+    "date": "2018-05-15T16:30:36.000Z",
+    "subject": "initialise package\""
+  },
+  {
+    "name": "eslint-config-artdeco",
+    "hash": "55cbf47",
+    "date": "2018-05-15T16:30:34.000Z",
+    "subject": "Initial commit\""
+  }
+]

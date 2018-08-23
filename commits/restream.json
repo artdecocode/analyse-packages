@@ -1,0 +1,662 @@
+[
+  {
+    "name": "restream",
+    "hash": "2e6d0d9",
+    "date": "2018-08-10T01:25:54.000Z",
+    "subject": "v3.1.0\""
+  },
+  {
+    "name": "restream",
+    "hash": "db974a4",
+    "date": "2018-08-10T01:25:28.000Z",
+    "subject": "some readme\""
+  },
+  {
+    "name": "restream",
+    "hash": "b628634",
+    "date": "2018-08-10T01:19:31.000Z",
+    "subject": "Merge pull request #7 from artdecocode/markers\""
+  },
+  {
+    "name": "restream",
+    "hash": "d7a7bc7",
+    "date": "2018-08-10T01:19:14.000Z",
+    "subject": "c3.1.0\""
+  },
+  {
+    "name": "restream",
+    "hash": "d1c1f12",
+    "date": "2018-08-10T01:00:51.000Z",
+    "subject": "build w/ alamode\""
+  },
+  {
+    "name": "restream",
+    "hash": "cf2a53d",
+    "date": "2018-08-10T00:37:02.000Z",
+    "subject": "export named makeMarkers\""
+  },
+  {
+    "name": "restream",
+    "hash": "064e0f9",
+    "date": "2018-08-10T00:34:02.000Z",
+    "subject": "remove babel build\""
+  },
+  {
+    "name": "restream",
+    "hash": "11239f2",
+    "date": "2018-08-07T19:33:48.000Z",
+    "subject": "b -> build\""
+  },
+  {
+    "name": "restream",
+    "hash": "d3d09e3",
+    "date": "2018-08-07T19:31:17.000Z",
+    "subject": "cut as table\""
+  },
+  {
+    "name": "restream",
+    "hash": "f918a44",
+    "date": "2018-08-07T19:25:41.000Z",
+    "subject": "add cut source\""
+  },
+  {
+    "name": "restream",
+    "hash": "81b0647",
+    "date": "2018-08-07T19:22:42.000Z",
+    "subject": "accessing replacements examples\""
+  },
+  {
+    "name": "restream",
+    "hash": "50d7bde",
+    "date": "2018-08-07T19:19:15.000Z",
+    "subject": "doc access replaced\""
+  },
+  {
+    "name": "restream",
+    "hash": "9978ce4",
+    "date": "2018-08-07T18:51:04.000Z",
+    "subject": "doc map\""
+  },
+  {
+    "name": "restream",
+    "hash": "ccbe8ee",
+    "date": "2018-08-07T17:17:55.000Z",
+    "subject": "doc markers API\""
+  },
+  {
+    "name": "restream",
+    "hash": "fc4ce28",
+    "date": "2018-08-07T17:12:21.000Z",
+    "subject": "organise makers doc dir\""
+  },
+  {
+    "name": "restream",
+    "hash": "ed7a81b",
+    "date": "2018-08-07T17:11:36.000Z",
+    "subject": "doc markers API\""
+  },
+  {
+    "name": "restream",
+    "hash": "b910512",
+    "date": "2018-08-07T16:46:55.000Z",
+    "subject": "export markers and example\""
+  },
+  {
+    "name": "restream",
+    "hash": "d91fce1",
+    "date": "2018-08-07T16:37:03.000Z",
+    "subject": "rule types\""
+  },
+  {
+    "name": "restream",
+    "hash": "f0a8d3c",
+    "date": "2018-08-07T16:29:10.000Z",
+    "subject": "test configured markers\""
+  },
+  {
+    "name": "restream",
+    "hash": "118293c",
+    "date": "2018-08-07T15:57:43.000Z",
+    "subject": "configurable markers\""
+  },
+  {
+    "name": "restream",
+    "hash": "3235bc9",
+    "date": "2018-08-07T15:22:32.000Z",
+    "subject": "implement and test markers\""
+  },
+  {
+    "name": "restream",
+    "hash": "6181522",
+    "date": "2018-08-07T14:52:37.000Z",
+    "subject": "add marker example files\""
+  },
+  {
+    "name": "restream",
+    "hash": "0c2c3fe",
+    "date": "2018-08-07T14:52:08.000Z",
+    "subject": "doc markers\""
+  },
+  {
+    "name": "restream",
+    "hash": "0f3ab41",
+    "date": "2018-08-07T14:20:34.000Z",
+    "subject": "loose modules babelrc\""
+  },
+  {
+    "name": "restream",
+    "hash": "8ceda7e",
+    "date": "2018-07-21T03:09:41.000Z",
+    "subject": "v3.0.0\""
+  },
+  {
+    "name": "restream",
+    "hash": "eecf8ab",
+    "date": "2018-07-21T03:09:01.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "restream",
+    "hash": "8d5e203",
+    "date": "2018-07-21T01:12:43.000Z",
+    "subject": "c300-deprecate\""
+  },
+  {
+    "name": "restream",
+    "hash": "615f614",
+    "date": "2018-07-21T01:09:41.000Z",
+    "subject": "shift TOC a level\""
+  },
+  {
+    "name": "restream",
+    "hash": "1cb6a06",
+    "date": "2018-07-21T01:05:28.000Z",
+    "subject": "remove replaceStream function\""
+  },
+  {
+    "name": "restream",
+    "hash": "3035b5e",
+    "date": "2018-07-21T01:01:33.000Z",
+    "subject": "doc replacers separetely\""
+  },
+  {
+    "name": "restream",
+    "hash": "5890e1b",
+    "date": "2018-07-21T00:42:49.000Z",
+    "subject": "*\""
+  },
+  {
+    "name": "restream",
+    "hash": "3942c37",
+    "date": "2018-07-21T00:34:56.000Z",
+    "subject": "replacers note\""
+  },
+  {
+    "name": "restream",
+    "hash": "63c4329",
+    "date": "2018-07-21T00:32:50.000Z",
+    "subject": "c300-errors\""
+  },
+  {
+    "name": "restream",
+    "hash": "be4eda2",
+    "date": "2018-07-21T00:32:06.000Z",
+    "subject": "document error handling\""
+  },
+  {
+    "name": "restream",
+    "hash": "e3a3f7a",
+    "date": "2018-07-21T00:25:38.000Z",
+    "subject": "c300\""
+  },
+  {
+    "name": "restream",
+    "hash": "830571a",
+    "date": "2018-07-21T00:17:50.000Z",
+    "subject": "Merge pull request #6 from artdecocode/context\""
+  },
+  {
+    "name": "restream",
+    "hash": "8f8ac96",
+    "date": "2018-07-21T00:14:51.000Z",
+    "subject": "english do you speak it\""
+  },
+  {
+    "name": "restream",
+    "hash": "1ec9d34",
+    "date": "2018-07-21T00:09:28.000Z",
+    "subject": "@param -> @typedef\""
+  },
+  {
+    "name": "restream",
+    "hash": "a6e1be2",
+    "date": "2018-07-20T23:48:19.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "restream",
+    "hash": "74ae344",
+    "date": "2018-07-20T23:48:00.000Z",
+    "subject": "better context readme\""
+  },
+  {
+    "name": "restream",
+    "hash": "5e6b613",
+    "date": "2018-07-20T23:41:10.000Z",
+    "subject": "document replacer context\""
+  },
+  {
+    "name": "restream",
+    "hash": "ed0d08c",
+    "date": "2018-07-20T23:24:07.000Z",
+    "subject": "test access to this\""
+  },
+  {
+    "name": "restream",
+    "hash": "2e03229",
+    "date": "2018-07-20T23:21:09.000Z",
+    "subject": "bind context & catch errors\""
+  },
+  {
+    "name": "restream",
+    "hash": "315652c",
+    "date": "2018-07-20T23:20:11.000Z",
+    "subject": "test context & errors\""
+  },
+  {
+    "name": "restream",
+    "hash": "07c611b",
+    "date": "2018-07-20T23:12:56.000Z",
+    "subject": "u catchment@3\""
+  },
+  {
+    "name": "restream",
+    "hash": "3421223",
+    "date": "2018-07-20T21:39:16.000Z",
+    "subject": "artdeco eslint\""
+  },
+  {
+    "name": "restream",
+    "hash": "c000cb8",
+    "date": "2018-07-20T21:36:52.000Z",
+    "subject": "correct examples\""
+  },
+  {
+    "name": "restream",
+    "hash": "6e0c029",
+    "date": "2018-07-20T21:30:34.000Z",
+    "subject": "document w/ type\""
+  },
+  {
+    "name": "restream",
+    "hash": "3234f82",
+    "date": "2018-07-20T20:49:51.000Z",
+    "subject": "package b\""
+  },
+  {
+    "name": "restream",
+    "hash": "5c807ea",
+    "date": "2018-07-20T20:45:03.000Z",
+    "subject": "u doc\""
+  },
+  {
+    "name": "restream",
+    "hash": "39781c3",
+    "date": "2018-07-20T20:44:31.000Z",
+    "subject": "rename doc folder\""
+  },
+  {
+    "name": "restream",
+    "hash": "edfb566",
+    "date": "2018-07-20T20:43:47.000Z",
+    "subject": "remove babel\""
+  },
+  {
+    "name": "restream",
+    "hash": "4212505",
+    "date": "2018-06-20T23:45:28.000Z",
+    "subject": "new line pedantism even in generated files.\""
+  },
+  {
+    "name": "restream",
+    "hash": "243d398",
+    "date": "2018-06-20T23:44:41.000Z",
+    "subject": "doc script\""
+  },
+  {
+    "name": "restream",
+    "hash": "b50926a",
+    "date": "2018-06-20T23:44:26.000Z",
+    "subject": "new documentation structure\""
+  },
+  {
+    "name": "restream",
+    "hash": "8df819d",
+    "date": "2018-06-20T23:31:06.000Z",
+    "subject": "rename example\""
+  },
+  {
+    "name": "restream",
+    "hash": "4ed6449",
+    "date": "2018-06-20T23:27:26.000Z",
+    "subject": "update 📔 documentary\""
+  },
+  {
+    "name": "restream",
+    "hash": "aaeb3c0",
+    "date": "2018-06-20T19:26:41.000Z",
+    "subject": "Merge pull request #3 from artdecocode/feature/async-replace\""
+  },
+  {
+    "name": "restream",
+    "hash": "2d0500f",
+    "date": "2018-06-20T19:20:36.000Z",
+    "subject": "v2.1.0\""
+  },
+  {
+    "name": "restream",
+    "hash": "639b482",
+    "date": "2018-06-20T19:20:23.000Z",
+    "subject": "c210\""
+  },
+  {
+    "name": "restream",
+    "hash": "94c6662",
+    "date": "2018-06-20T19:19:29.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "restream",
+    "hash": "7fbd533",
+    "date": "2018-06-20T19:16:31.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "restream",
+    "hash": "e4bf908",
+    "date": "2018-06-20T19:06:45.000Z",
+    "subject": "Replaceable doc + example\""
+  },
+  {
+    "name": "restream",
+    "hash": "a9a90b5",
+    "date": "2018-06-20T18:41:50.000Z",
+    "subject": "Replaceable class\""
+  },
+  {
+    "name": "restream",
+    "hash": "628fb11",
+    "date": "2018-06-20T18:19:18.000Z",
+    "subject": "async replacer\""
+  },
+  {
+    "name": "restream",
+    "hash": "ead97df",
+    "date": "2018-06-20T17:49:04.000Z",
+    "subject": "structure tests\""
+  },
+  {
+    "name": "restream",
+    "hash": "f83a077",
+    "date": "2018-06-20T17:28:30.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "restream",
+    "hash": "220403d",
+    "date": "2018-06-20T17:18:39.000Z",
+    "subject": "better docs\""
+  },
+  {
+    "name": "restream",
+    "hash": "6a726eb",
+    "date": "2018-06-20T17:06:33.000Z",
+    "subject": "update documentary\""
+  },
+  {
+    "name": "restream",
+    "hash": "0dd8fda",
+    "date": "2018-06-15T13:18:58.000Z",
+    "subject": "v2.0.3\""
+  },
+  {
+    "name": "restream",
+    "hash": "5d3cdc5",
+    "date": "2018-06-15T13:18:50.000Z",
+    "subject": "c203\""
+  },
+  {
+    "name": "restream",
+    "hash": "67def33",
+    "date": "2018-06-15T13:18:01.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "restream",
+    "hash": "eaebcf3",
+    "date": "2018-06-15T13:17:58.000Z",
+    "subject": "test-build\""
+  },
+  {
+    "name": "restream",
+    "hash": "0e44fa6",
+    "date": "2018-06-15T13:17:01.000Z",
+    "subject": "test-examples\""
+  },
+  {
+    "name": "restream",
+    "hash": "e4154f4",
+    "date": "2018-06-15T13:15:38.000Z",
+    "subject": "install transform-rename\""
+  },
+  {
+    "name": "restream",
+    "hash": "b7aacb5",
+    "date": "2018-06-15T12:50:58.000Z",
+    "subject": "v2.0.2\""
+  },
+  {
+    "name": "restream",
+    "hash": "afe855b",
+    "date": "2018-06-15T12:50:49.000Z",
+    "subject": "c202\""
+  },
+  {
+    "name": "restream",
+    "hash": "5b6f92b",
+    "date": "2018-06-15T12:48:49.000Z",
+    "subject": "toc\""
+  },
+  {
+    "name": "restream",
+    "hash": "f14d588",
+    "date": "2018-06-15T12:48:08.000Z",
+    "subject": "generate readme\""
+  },
+  {
+    "name": "restream",
+    "hash": "db73be5",
+    "date": "2018-06-15T12:47:51.000Z",
+    "subject": "install documentary\""
+  },
+  {
+    "name": "restream",
+    "hash": "748ebf3",
+    "date": "2018-06-15T12:46:19.000Z",
+    "subject": "better jsdoc\""
+  },
+  {
+    "name": "restream",
+    "hash": "03adc6a",
+    "date": "2018-06-15T12:30:44.000Z",
+    "subject": "refactor test context\""
+  },
+  {
+    "name": "restream",
+    "hash": "9009aac",
+    "date": "2018-06-15T12:16:12.000Z",
+    "subject": "update dependencies\""
+  },
+  {
+    "name": "restream",
+    "hash": "ce9e6f7",
+    "date": "2018-05-10T09:14:22.000Z",
+    "subject": "add test for replacement-stream\""
+  },
+  {
+    "name": "restream",
+    "hash": "f51ba16",
+    "date": "2018-05-10T09:03:04.000Z",
+    "subject": "move rs/ws to context\""
+  },
+  {
+    "name": "restream",
+    "hash": "be90dad",
+    "date": "2018-05-09T14:23:42.000Z",
+    "subject": "v2.0.1\""
+  },
+  {
+    "name": "restream",
+    "hash": "1c4d642",
+    "date": "2018-05-09T14:23:28.000Z",
+    "subject": "c@2.0.1\""
+  },
+  {
+    "name": "restream",
+    "hash": "8a4c592",
+    "date": "2018-05-09T14:22:30.000Z",
+    "subject": "move snapshot-context to dev-dependencies\""
+  },
+  {
+    "name": "restream",
+    "hash": "d11f849",
+    "date": "2018-05-09T14:19:12.000Z",
+    "subject": "v2.0.0\""
+  },
+  {
+    "name": "restream",
+    "hash": "026b5ee",
+    "date": "2018-05-09T14:18:57.000Z",
+    "subject": "c@2.0.0\""
+  },
+  {
+    "name": "restream",
+    "hash": "88129c1",
+    "date": "2018-05-09T13:57:29.000Z",
+    "subject": "snapshot testing of examples\""
+  },
+  {
+    "name": "restream",
+    "hash": "9dfe9f1",
+    "date": "2018-05-09T13:44:21.000Z",
+    "subject": "update documentation\""
+  },
+  {
+    "name": "restream",
+    "hash": "202f479",
+    "date": "2018-05-09T13:17:41.000Z",
+    "subject": "update example\""
+  },
+  {
+    "name": "restream",
+    "hash": "334a069",
+    "date": "2018-05-09T12:47:04.000Z",
+    "subject": "update syntax\""
+  },
+  {
+    "name": "restream",
+    "hash": "616edfc",
+    "date": "2018-05-09T12:27:33.000Z",
+    "subject": "start update\""
+  },
+  {
+    "name": "restream",
+    "hash": "a69c630",
+    "date": "2018-05-09T12:01:56.000Z",
+    "subject": "move to adc\""
+  },
+  {
+    "name": "restream",
+    "hash": "d1ccc44",
+    "date": "2017-05-29T02:37:26.000Z",
+    "subject": "1.2.0\""
+  },
+  {
+    "name": "restream",
+    "hash": "17cd257",
+    "date": "2017-05-29T02:37:20.000Z",
+    "subject": "update changelog\""
+  },
+  {
+    "name": "restream",
+    "hash": "f1ca6c0",
+    "date": "2017-05-29T02:35:18.000Z",
+    "subject": "Merge pull request #2 from Sobesednik/feature/replacement-function\""
+  },
+  {
+    "name": "restream",
+    "hash": "5a3da5b",
+    "date": "2017-05-29T02:30:21.000Z",
+    "subject": "implement replace function\""
+  },
+  {
+    "name": "restream",
+    "hash": "0571944",
+    "date": "2017-05-28T02:27:08.000Z",
+    "subject": "1.1.0\""
+  },
+  {
+    "name": "restream",
+    "hash": "19c0466",
+    "date": "2017-05-28T02:27:02.000Z",
+    "subject": "update changelog\""
+  },
+  {
+    "name": "restream",
+    "hash": "1c6fae0",
+    "date": "2017-05-28T02:23:40.000Z",
+    "subject": "Merge pull request #1 from Sobesednik/feature/replace-stream\""
+  },
+  {
+    "name": "restream",
+    "hash": "c5ebe08",
+    "date": "2017-05-28T02:14:05.000Z",
+    "subject": "implement replace stream\""
+  },
+  {
+    "name": "restream",
+    "hash": "1d0523a",
+    "date": "2017-05-20T15:04:56.000Z",
+    "subject": "1.0.1\""
+  },
+  {
+    "name": "restream",
+    "hash": "7788287",
+    "date": "2017-05-20T15:04:43.000Z",
+    "subject": "use strict\""
+  },
+  {
+    "name": "restream",
+    "hash": "c5e4428",
+    "date": "2017-05-19T00:01:27.000Z",
+    "subject": "initial commit\""
+  },
+  {
+    "name": "restream",
+    "hash": "c804acd",
+    "date": "2017-05-19T00:01:10.000Z",
+    "subject": "init package.json\""
+  },
+  {
+    "name": "restream",
+    "hash": "cd60075",
+    "date": "2017-05-18T23:56:03.000Z",
+    "subject": "add eslintrc\""
+  },
+  {
+    "name": "restream",
+    "hash": "f7ea278",
+    "date": "2017-05-18T23:16:14.000Z",
+    "subject": "Initial commit\""
+  }
+]

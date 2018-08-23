@@ -1,0 +1,524 @@
+[
+  {
+    "name": "appshot",
+    "hash": "aa4621e",
+    "date": "2018-08-22T11:04:36.000Z",
+    "subject": "v2.2.1\""
+  },
+  {
+    "name": "appshot",
+    "hash": "9796a3e",
+    "date": "2018-08-22T11:04:20.000Z",
+    "subject": "c221\""
+  },
+  {
+    "name": "appshot",
+    "hash": "818af41",
+    "date": "2018-08-22T11:03:39.000Z",
+    "subject": "add git\""
+  },
+  {
+    "name": "appshot",
+    "hash": "f5a5ccb",
+    "date": "2018-06-12T07:40:14.000Z",
+    "subject": "v2.2.0\""
+  },
+  {
+    "name": "appshot",
+    "hash": "852dedc",
+    "date": "2018-06-12T07:39:59.000Z",
+    "subject": "c220\""
+  },
+  {
+    "name": "appshot",
+    "hash": "092a6d6",
+    "date": "2018-06-12T07:38:52.000Z",
+    "subject": "s script\""
+  },
+  {
+    "name": "appshot",
+    "hash": "67ea39e",
+    "date": "2018-06-12T07:34:16.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "appshot",
+    "hash": "3315768",
+    "date": "2018-06-12T07:34:06.000Z",
+    "subject": "chop top\""
+  },
+  {
+    "name": "appshot",
+    "hash": "6f0f1d3",
+    "date": "2018-06-12T07:16:00.000Z",
+    "subject": "v2.1.2\""
+  },
+  {
+    "name": "appshot",
+    "hash": "ff51c47",
+    "date": "2018-06-12T07:15:28.000Z",
+    "subject": "c212\""
+  },
+  {
+    "name": "appshot",
+    "hash": "a4b2903",
+    "date": "2018-06-12T07:15:19.000Z",
+    "subject": "doc dev\""
+  },
+  {
+    "name": "appshot",
+    "hash": "606cd65",
+    "date": "2018-06-12T07:13:25.000Z",
+    "subject": "table of contents\""
+  },
+  {
+    "name": "appshot",
+    "hash": "c765c74",
+    "date": "2018-06-12T07:12:59.000Z",
+    "subject": "doc\""
+  },
+  {
+    "name": "appshot",
+    "hash": "7862b5e",
+    "date": "2018-06-12T00:27:41.000Z",
+    "subject": "travis test\""
+  },
+  {
+    "name": "appshot",
+    "hash": "9a82e93",
+    "date": "2018-06-12T00:25:11.000Z",
+    "subject": "v2.1.1\""
+  },
+  {
+    "name": "appshot",
+    "hash": "cf4e1ad",
+    "date": "2018-06-12T00:24:13.000Z",
+    "subject": "c211\""
+  },
+  {
+    "name": "appshot",
+    "hash": "2ed8fd5",
+    "date": "2018-06-11T13:21:41.000Z",
+    "subject": "Merge pull request #4 from artdecocode/feature/imagemagic\""
+  },
+  {
+    "name": "appshot",
+    "hash": "ec44b8a",
+    "date": "2018-06-11T13:20:15.000Z",
+    "subject": "v2.1.0\""
+  },
+  {
+    "name": "appshot",
+    "hash": "6a77ccb",
+    "date": "2018-06-11T13:17:59.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "appshot",
+    "hash": "071aa96",
+    "date": "2018-06-11T13:17:48.000Z",
+    "subject": "c210\""
+  },
+  {
+    "name": "appshot",
+    "hash": "76f8c54",
+    "date": "2018-06-11T13:15:05.000Z",
+    "subject": "max\""
+  },
+  {
+    "name": "appshot",
+    "hash": "8dcbc29",
+    "date": "2018-06-11T13:00:33.000Z",
+    "subject": "use image magic\""
+  },
+  {
+    "name": "appshot",
+    "hash": "dc5346d",
+    "date": "2018-06-11T09:39:27.000Z",
+    "subject": "argufy\""
+  },
+  {
+    "name": "appshot",
+    "hash": "133d631",
+    "date": "2018-06-11T09:24:24.000Z",
+    "subject": "add working test and --dir\""
+  },
+  {
+    "name": "appshot",
+    "hash": "9357233",
+    "date": "2018-05-31T18:36:15.000Z",
+    "subject": "add context\""
+  },
+  {
+    "name": "appshot",
+    "hash": "29009cc",
+    "date": "2018-05-31T18:30:32.000Z",
+    "subject": "travis\""
+  },
+  {
+    "name": "appshot",
+    "hash": "d6efa2c",
+    "date": "2018-05-31T18:28:54.000Z",
+    "subject": "v2.0.0\""
+  },
+  {
+    "name": "appshot",
+    "hash": "8244ea4",
+    "date": "2018-05-31T18:28:34.000Z",
+    "subject": "c2\""
+  },
+  {
+    "name": "appshot",
+    "hash": "b7261ed",
+    "date": "2018-05-31T18:24:59.000Z",
+    "subject": "rm\""
+  },
+  {
+    "name": "appshot",
+    "hash": "cea6374",
+    "date": "2018-05-31T18:23:18.000Z",
+    "subject": "build\""
+  },
+  {
+    "name": "appshot",
+    "hash": "cd7b116",
+    "date": "2018-05-31T18:19:04.000Z",
+    "subject": "readme\""
+  },
+  {
+    "name": "appshot",
+    "hash": "da52a41",
+    "date": "2018-05-31T18:19:00.000Z",
+    "subject": "colors\""
+  },
+  {
+    "name": "appshot",
+    "hash": "5bf701e",
+    "date": "2018-05-28T20:45:19.000Z",
+    "subject": "dependencies\""
+  },
+  {
+    "name": "appshot",
+    "hash": "4d27bb9",
+    "date": "2018-05-28T20:26:28.000Z",
+    "subject": "use gifsicle\""
+  },
+  {
+    "name": "appshot",
+    "hash": "6133ab8",
+    "date": "2018-05-27T16:10:07.000Z",
+    "subject": "more better code\""
+  },
+  {
+    "name": "appshot",
+    "hash": "6f16c93",
+    "date": "2018-05-25T13:40:59.000Z",
+    "subject": "live python\""
+  },
+  {
+    "name": "appshot",
+    "hash": "112cc97",
+    "date": "2018-05-25T10:04:29.000Z",
+    "subject": "rewrite open chrome with babel-node\""
+  },
+  {
+    "name": "appshot",
+    "hash": "4874d8d",
+    "date": "2018-05-25T10:04:06.000Z",
+    "subject": "launch\""
+  },
+  {
+    "name": "appshot",
+    "hash": "8948914",
+    "date": "2018-05-25T10:03:54.000Z",
+    "subject": "babel, dep\""
+  },
+  {
+    "name": "appshot",
+    "hash": "d754a2c",
+    "date": "2018-05-25T10:03:37.000Z",
+    "subject": "babelrc\""
+  },
+  {
+    "name": "appshot",
+    "hash": "571036d",
+    "date": "2018-05-25T10:03:26.000Z",
+    "subject": "README - write more :+1:\""
+  },
+  {
+    "name": "appshot",
+    "hash": "c4e7479",
+    "date": "2018-05-24T19:43:21.000Z",
+    "subject": "start update\""
+  },
+  {
+    "name": "appshot",
+    "hash": "bd49522",
+    "date": "2018-05-24T19:31:08.000Z",
+    "subject": "Merge pull request #3 from artdecocode/feature/org\""
+  },
+  {
+    "name": "appshot",
+    "hash": "825ef63",
+    "date": "2018-05-24T19:27:41.000Z",
+    "subject": "move org\""
+  },
+  {
+    "name": "appshot",
+    "hash": "b13fea1",
+    "date": "2017-02-04T20:18:33.000Z",
+    "subject": "Merge pull request #2 from Sobesednik/feature/fix-travis\""
+  },
+  {
+    "name": "appshot",
+    "hash": "d3d3a5d",
+    "date": "2017-02-04T00:15:59.000Z",
+    "subject": "xcode8\""
+  },
+  {
+    "name": "appshot",
+    "hash": "248cd5c",
+    "date": "2017-02-01T21:49:06.000Z",
+    "subject": "1.1.0\""
+  },
+  {
+    "name": "appshot",
+    "hash": "1555d16",
+    "date": "2017-02-01T21:48:37.000Z",
+    "subject": "Merge pull request #1 from Sobesednik/bugfix/node4\""
+  },
+  {
+    "name": "appshot",
+    "hash": "0568085",
+    "date": "2017-02-01T21:47:35.000Z",
+    "subject": "dont use ...array\""
+  },
+  {
+    "name": "appshot",
+    "hash": "7905aa3",
+    "date": "2017-02-01T21:42:02.000Z",
+    "subject": "run in node4\""
+  },
+  {
+    "name": "appshot",
+    "hash": "6c1a613",
+    "date": "2017-02-01T21:38:53.000Z",
+    "subject": "quiet mode :speak_no_evil:\""
+  },
+  {
+    "name": "appshot",
+    "hash": "253bec0",
+    "date": "2017-02-01T21:19:01.000Z",
+    "subject": "write more readme\""
+  },
+  {
+    "name": "appshot",
+    "hash": "6935693",
+    "date": "2017-02-01T21:07:29.000Z",
+    "subject": "add changelog\""
+  },
+  {
+    "name": "appshot",
+    "hash": "73197bc",
+    "date": "2017-02-01T21:07:22.000Z",
+    "subject": "columns have constant width\""
+  },
+  {
+    "name": "appshot",
+    "hash": "1a41994",
+    "date": "2017-02-01T21:07:05.000Z",
+    "subject": "update readme\""
+  },
+  {
+    "name": "appshot",
+    "hash": "3ee5fc1",
+    "date": "2017-02-01T20:34:00.000Z",
+    "subject": "update readme :tennis:\""
+  },
+  {
+    "name": "appshot",
+    "hash": "428354f",
+    "date": "2017-02-01T20:32:59.000Z",
+    "subject": "add travis\""
+  },
+  {
+    "name": "appshot",
+    "hash": "a1ac7be",
+    "date": "2017-02-01T02:41:33.000Z",
+    "subject": "1.0.1\""
+  },
+  {
+    "name": "appshot",
+    "hash": "d7937e9",
+    "date": "2017-02-01T02:40:57.000Z",
+    "subject": "update readme to use s3 images\""
+  },
+  {
+    "name": "appshot",
+    "hash": "73f3a1f",
+    "date": "2017-02-01T02:32:48.000Z",
+    "subject": "show output in test\""
+  },
+  {
+    "name": "appshot",
+    "hash": "f2403c4",
+    "date": "2017-02-01T02:29:46.000Z",
+    "subject": "include example and global options in README :dancer:\""
+  },
+  {
+    "name": "appshot",
+    "hash": "ae95602",
+    "date": "2017-02-01T02:29:01.000Z",
+    "subject": "make logStderr work\""
+  },
+  {
+    "name": "appshot",
+    "hash": "a1fc52d",
+    "date": "2017-02-01T02:08:48.000Z",
+    "subject": "test pass\""
+  },
+  {
+    "name": "appshot",
+    "hash": "2661713",
+    "date": "2017-02-01T02:05:52.000Z",
+    "subject": "update readme\""
+  },
+  {
+    "name": "appshot",
+    "hash": "076dfe4",
+    "date": "2017-02-01T01:34:46.000Z",
+    "subject": "fix screenshots dir\""
+  },
+  {
+    "name": "appshot",
+    "hash": "ee3253d",
+    "date": "2017-02-01T01:34:40.000Z",
+    "subject": "allow to focus on a window\""
+  },
+  {
+    "name": "appshot",
+    "hash": "192a129",
+    "date": "2017-02-01T00:58:47.000Z",
+    "subject": "--no-empty-title (false by default)\""
+  },
+  {
+    "name": "appshot",
+    "hash": "956ad91",
+    "date": "2017-02-01T00:51:27.000Z",
+    "subject": "chromedriver as dev dep\""
+  },
+  {
+    "name": "appshot",
+    "hash": "ed8b870",
+    "date": "2017-02-01T00:49:44.000Z",
+    "subject": "implement noShadow\""
+  },
+  {
+    "name": "appshot",
+    "hash": "42e4983",
+    "date": "2017-02-01T00:37:56.000Z",
+    "subject": "use tables for view\""
+  },
+  {
+    "name": "appshot",
+    "hash": "0eae794",
+    "date": "2017-02-01T00:02:09.000Z",
+    "subject": "add bin\""
+  },
+  {
+    "name": "appshot",
+    "hash": "a2a5570",
+    "date": "2017-01-31T23:08:43.000Z",
+    "subject": "ignore screenshots\""
+  },
+  {
+    "name": "appshot",
+    "hash": "439ead6",
+    "date": "2017-01-31T23:04:15.000Z",
+    "subject": "add lib w/ getLogWriteStreams\""
+  },
+  {
+    "name": "appshot",
+    "hash": "61ba942",
+    "date": "2017-01-31T22:12:39.000Z",
+    "subject": "remove unused code\""
+  },
+  {
+    "name": "appshot",
+    "hash": "26b6d6f",
+    "date": "2017-01-31T22:12:29.000Z",
+    "subject": "handle errors in run\""
+  },
+  {
+    "name": "appshot",
+    "hash": "e880428",
+    "date": "2017-01-31T22:08:33.000Z",
+    "subject": "spawn python better :dragon_face:\""
+  },
+  {
+    "name": "appshot",
+    "hash": "e19a826",
+    "date": "2017-01-31T22:04:53.000Z",
+    "subject": "switch off gzip\""
+  },
+  {
+    "name": "appshot",
+    "hash": "f33d867",
+    "date": "2017-01-31T21:45:20.000Z",
+    "subject": "write test for api\""
+  },
+  {
+    "name": "appshot",
+    "hash": "7d5aea1",
+    "date": "2017-01-31T21:39:52.000Z",
+    "subject": "remove semicolons\""
+  },
+  {
+    "name": "appshot",
+    "hash": "0fb0bb9",
+    "date": "2017-01-31T21:39:35.000Z",
+    "subject": "Update log location and enable gzip\""
+  },
+  {
+    "name": "appshot",
+    "hash": "c658d4d",
+    "date": "2017-01-31T21:38:48.000Z",
+    "subject": "Add API\""
+  },
+  {
+    "name": "appshot",
+    "hash": "faf4fdc",
+    "date": "2017-01-31T21:19:17.000Z",
+    "subject": "move files\""
+  },
+  {
+    "name": "appshot",
+    "hash": "a938571",
+    "date": "2017-01-31T21:15:58.000Z",
+    "subject": "update package.json\""
+  },
+  {
+    "name": "appshot",
+    "hash": "d9b1f6f",
+    "date": "2017-01-31T21:15:28.000Z",
+    "subject": "active.py script\""
+  },
+  {
+    "name": "appshot",
+    "hash": "f1c4a12",
+    "date": "2017-01-31T20:43:17.000Z",
+    "subject": "add test\""
+  },
+  {
+    "name": "appshot",
+    "hash": "57310a1",
+    "date": "2017-01-31T20:35:18.000Z",
+    "subject": "fork browsershot\""
+  },
+  {
+    "name": "appshot",
+    "hash": "0533337",
+    "date": "2017-01-31T20:18:57.000Z",
+    "subject": "Initial commit\""
+  }
+]
