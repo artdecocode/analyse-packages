@@ -1,0 +1,590 @@
+[
+  {
+    "name": "node-exiftool",
+    "hash": "e4a8fb7",
+    "date": "2017-09-06T16:23:42.000Z",
+    "subject": "2.3.0\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "9b6913c",
+    "date": "2017-09-06T16:23:31.000Z",
+    "subject": "update changelog for 2.3.0\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "d34d654",
+    "date": "2017-09-06T11:47:16.000Z",
+    "subject": "Merge pull request #37 from Sobesednik/feature/stop-streams-on-exit\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "b6311df",
+    "date": "2017-09-05T16:24:18.000Z",
+    "subject": "Handle stream finish events during operations\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "adef972",
+    "date": "2017-09-05T14:09:19.000Z",
+    "subject": "Merge pull request #35 from Sobesednik/feature/pass-options\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "75d3a2d",
+    "date": "2017-08-31T13:42:43.000Z",
+    "subject": "add { detached: true } test\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "9609be2",
+    "date": "2017-08-29T14:32:22.000Z",
+    "subject": "pass options\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "d0da292",
+    "date": "2017-05-31T22:56:24.000Z",
+    "subject": "2.2.0\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "dafea94",
+    "date": "2017-05-31T22:56:19.000Z",
+    "subject": "update changelog for v2.2.0\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "04e448e",
+    "date": "2017-05-31T22:51:29.000Z",
+    "subject": "Merge pull request #30 from Sobesednik/feature/read-stream\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "733ff4e",
+    "date": "2017-05-31T22:49:16.000Z",
+    "subject": "update benchmark\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "d027861",
+    "date": "2017-05-31T22:13:20.000Z",
+    "subject": "read from stream\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "9214f21",
+    "date": "2017-05-28T00:00:14.000Z",
+    "subject": "2.1.6\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "fc9fb30",
+    "date": "2017-05-27T23:59:58.000Z",
+    "subject": "update changelog\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "a6fce97",
+    "date": "2017-05-27T23:48:49.000Z",
+    "subject": "Merge pull request #29 from Sobesednik/feature/incremental-command-number\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "7a2055d",
+    "date": "2017-05-27T23:02:45.000Z",
+    "subject": "start command numbers from 1\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "c8f9471",
+    "date": "2017-05-27T21:45:58.000Z",
+    "subject": "Merge pull request #28 from Sobesednik/feature/exiftool-context\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "243fa68",
+    "date": "2017-05-27T21:42:51.000Z",
+    "subject": "use exiftool-context@1.0.1\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "b71a10b",
+    "date": "2017-05-20T15:10:19.000Z",
+    "subject": "2.1.5\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "c0a4191",
+    "date": "2017-05-20T15:10:01.000Z",
+    "subject": "update changelog\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "6bb864b",
+    "date": "2017-05-20T15:06:12.000Z",
+    "subject": "update to restream@1.0.1\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "77c755f",
+    "date": "2017-05-20T15:02:23.000Z",
+    "subject": "2.1.4\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "5a6a0eb",
+    "date": "2017-05-20T15:02:08.000Z",
+    "subject": "write changelog\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "36b4bfb",
+    "date": "2017-05-20T14:45:15.000Z",
+    "subject": "Merge branch 'master' of github.com:Sobesednik/node-exiftool\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "a9381fc",
+    "date": "2017-05-20T14:45:02.000Z",
+    "subject": "Merge pull request #26 from redhelling21/master\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "15bf996",
+    "date": "2017-05-20T14:44:38.000Z",
+    "subject": "update changelog with current master\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "85430ae",
+    "date": "2017-05-19T00:09:22.000Z",
+    "subject": "use restream\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "83f5ae8",
+    "date": "2017-05-17T20:24:27.000Z",
+    "subject": "2.1.3\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "1523044",
+    "date": "2017-05-17T20:24:15.000Z",
+    "subject": "update to dist-exiftool@10.53.0\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "c73d39b",
+    "date": "2017-05-16T08:56:22.000Z",
+    "subject": "Fix for \"Command with the same number is already expected\"\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "b0d4639",
+    "date": "2017-05-14T00:00:20.000Z",
+    "subject": "Merge pull request #24 from Sobesednik/bugfix/encoding\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "5bd9b3c",
+    "date": "2017-05-13T23:55:21.000Z",
+    "subject": "changelog and version\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "532f147",
+    "date": "2017-05-13T18:58:14.000Z",
+    "subject": "update readme\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "3432e63",
+    "date": "2017-05-13T18:15:24.000Z",
+    "subject": "add write_metadata example\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "e15ea35",
+    "date": "2017-05-13T18:14:42.000Z",
+    "subject": "open with encoding, debug feature, fix args order for writing\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "ba7aa1b",
+    "date": "2017-05-13T18:09:31.000Z",
+    "subject": "write filename encoding test\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "40fa597",
+    "date": "2017-05-13T18:07:19.000Z",
+    "subject": "improve Exiftool context\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "9f269b0",
+    "date": "2017-05-07T21:38:04.000Z",
+    "subject": "Merge pull request #23 from Sobesednik/feature/update-tests\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "7e99f58",
+    "date": "2017-05-07T21:34:23.000Z",
+    "subject": "Use context in tests\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "99178c9",
+    "date": "2017-02-09T22:10:09.000Z",
+    "subject": "Merge pull request #17 from Sobesednik/feature/callback-example\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "c748783",
+    "date": "2017-02-09T21:41:24.000Z",
+    "subject": "add callback example\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "6d19759",
+    "date": "2016-12-25T14:56:50.000Z",
+    "subject": "2.1.1\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "22a6e1b",
+    "date": "2016-12-25T14:55:30.000Z",
+    "subject": "2.1.1 changelog\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "660e57e",
+    "date": "2016-12-25T14:45:16.000Z",
+    "subject": "Merge pull request #15 from Sobesednik/feature/result-stream\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "9edf6ac",
+    "date": "2016-12-25T14:42:00.000Z",
+    "subject": "zoroaster 0.2.0\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "a6531d8",
+    "date": "2016-12-04T21:16:02.000Z",
+    "subject": "resolve-write-stream instead of stream-snitch\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "a1d0441",
+    "date": "2016-12-04T21:15:03.000Z",
+    "subject": "zoroaster 0.1.5\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "39afea2",
+    "date": "2016-12-04T21:14:29.000Z",
+    "subject": "comma-dangle always-multiline in eslint\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "a58bbfe",
+    "date": "2016-12-03T23:43:12.000Z",
+    "subject": "Merge pull request #14 from Sobesednik/feature/benchmark\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "6d61ec8",
+    "date": "2016-12-03T23:13:51.000Z",
+    "subject": "benchmark\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "d670f6a",
+    "date": "2016-11-27T19:04:36.000Z",
+    "subject": "2.1.0\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "9dfa61f",
+    "date": "2016-11-27T19:03:56.000Z",
+    "subject": "v2.1.0 changelog\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "4e66d0c",
+    "date": "2016-11-26T23:18:14.000Z",
+    "subject": "Split arguments with new line\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "169f2b8",
+    "date": "2016-11-26T21:33:31.000Z",
+    "subject": "Merge pull request #13 from Sobesednik/feature/write-metadata\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "6477aec",
+    "date": "2016-11-26T20:46:15.000Z",
+    "subject": "write metadata\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "9067100",
+    "date": "2016-11-26T17:55:49.000Z",
+    "subject": "include files field in package.json\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "b32729c",
+    "date": "2016-11-26T17:07:48.000Z",
+    "subject": "eslint\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "f5a20a3",
+    "date": "2016-11-26T16:55:11.000Z",
+    "subject": "Merge pull request #12 from Sobesednik/feature/changelog\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "15e771c",
+    "date": "2016-11-26T16:17:06.000Z",
+    "subject": "changelog\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "94d5895",
+    "date": "2016-11-26T02:01:44.000Z",
+    "subject": "2.0.3\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "eab5ce6",
+    "date": "2016-11-26T02:01:28.000Z",
+    "subject": "Merge pull request #11 from Sobesednik/bugfix/simultaneous-reads\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "c0db314",
+    "date": "2016-11-26T01:58:49.000Z",
+    "subject": "Simultaneous reads\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "e0974e3",
+    "date": "2016-11-26T01:41:02.000Z",
+    "subject": "2.0.2\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "041d7fe",
+    "date": "2016-11-26T01:33:59.000Z",
+    "subject": "Merge pull request #10 from Sobesednik/feature/zoroaster\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "0ee8331",
+    "date": "2016-11-26T01:30:19.000Z",
+    "subject": "Zoroaster tests\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "8bb3694",
+    "date": "2016-11-20T07:49:37.000Z",
+    "subject": "2.0.1\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "987edfb",
+    "date": "2016-11-20T07:46:56.000Z",
+    "subject": "Merge pull request #8 from Sobesednik/feature/use-listeners\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "7e1542f",
+    "date": "2016-11-20T07:12:45.000Z",
+    "subject": "Use stream snitch\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "4e54d42",
+    "date": "2016-08-29T16:03:14.000Z",
+    "subject": "Merge pull request #7 from Sobesednik/feature/force-quit\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "16485e1",
+    "date": "2016-08-29T15:30:49.000Z",
+    "subject": "Close process by sending -stay_open false\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "9898b91",
+    "date": "2016-08-29T14:40:22.000Z",
+    "subject": "Merge pull request #6 from Sobesednik/feature/refactor\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "6c86d54",
+    "date": "2016-08-29T14:33:34.000Z",
+    "subject": "Refactor\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "1bbd25b",
+    "date": "2016-08-21T22:33:48.000Z",
+    "subject": "2.0.0\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "b3169e2",
+    "date": "2016-08-21T20:02:27.000Z",
+    "subject": "Merge pull request #5 from Sobesednik/feature/dist-exiftool\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "d4fcf2b",
+    "date": "2016-08-21T18:57:29.000Z",
+    "subject": "Remove vendor exiftool\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "2db34a0",
+    "date": "2016-08-21T18:39:55.000Z",
+    "subject": "Merge pull request #4 from Sobesednik/feature/ci\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "bc5547c",
+    "date": "2016-08-21T18:22:08.000Z",
+    "subject": "travis and appveyor\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "ab07fcc",
+    "date": "2016-08-20T19:07:52.000Z",
+    "subject": "1.0.4\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "cefee65",
+    "date": "2016-08-20T19:07:07.000Z",
+    "subject": "Merge pull request #3 from JAndritsch/issues/02-windows-fix\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "ec871e9",
+    "date": "2016-08-17T15:33:37.000Z",
+    "subject": "Ensure exiftool quits properly on Windows\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "2a84b73",
+    "date": "2016-08-11T15:39:55.000Z",
+    "subject": "Use the correct EOL character depending on OS.\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "96e6380",
+    "date": "2016-08-07T15:30:40.000Z",
+    "subject": "1.0.3\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "59b5a18",
+    "date": "2016-08-07T15:28:43.000Z",
+    "subject": "exiftool 10.25\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "8cb23f1",
+    "date": "2016-06-04T22:19:34.000Z",
+    "subject": "1.0.2\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "87ffd37",
+    "date": "2016-06-04T22:16:57.000Z",
+    "subject": "include exiftool\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "92bfe90",
+    "date": "2016-05-16T19:36:17.000Z",
+    "subject": "1.0.1\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "5d008c0",
+    "date": "2016-05-16T19:28:30.000Z",
+    "subject": "fix preinstall script\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "d6e604e",
+    "date": "2016-05-15T23:25:09.000Z",
+    "subject": "update readme\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "ea1005a",
+    "date": "2016-05-15T23:23:22.000Z",
+    "subject": "fix tests\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "060674e",
+    "date": "2016-05-15T23:11:32.000Z",
+    "subject": "update readme\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "f581ace",
+    "date": "2016-05-15T23:06:14.000Z",
+    "subject": "validation in open and close methods\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "05e3f94",
+    "date": "2016-05-15T21:40:38.000Z",
+    "subject": "write JSDoc\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "9399153",
+    "date": "2016-05-15T21:34:53.000Z",
+    "subject": "add covergage npm script\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "44d6b7a",
+    "date": "2016-05-15T21:29:58.000Z",
+    "subject": "source with test\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "31752ce",
+    "date": "2016-05-15T21:29:49.000Z",
+    "subject": "ignore vendor subdirectories\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "ff6e77a",
+    "date": "2016-05-15T21:27:26.000Z",
+    "subject": "add devDependencies\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "e001e8f",
+    "date": "2016-05-15T20:14:42.000Z",
+    "subject": "add package.json and vendor dir\""
+  },
+  {
+    "name": "node-exiftool",
+    "hash": "89cbe98",
+    "date": "2016-05-15T19:52:32.000Z",
+    "subject": "Initial commit\""
+  }
+]

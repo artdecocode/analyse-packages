@@ -15,7 +15,7 @@ import { join } from 'path'
     const log = await getLog({ gitPath, name })
     await bosom(to, log, { space: 2 })
     console.log('%s commits for %s', log.length, name)
-  })
+  }, {})
 })()
 
 const reset = async ({ gitPath }) => {
